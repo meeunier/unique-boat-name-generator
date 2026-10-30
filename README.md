@@ -21,7 +21,13 @@ for repeatable output. Node 18 or later is required for development.
 
 ## Try it
 
-This version has not been published to npm yet. Clone the repository and run:
+Install from npm:
+
+```bash
+npm install unique-boat-name-generator
+```
+
+To run the demo locally, clone the repository and run:
 
 ```bash
 npm ci

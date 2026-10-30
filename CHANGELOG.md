@@ -3,7 +3,7 @@
 Changes to the names or selection algorithm require a dictionary version bump
 and a minor package release. Patch releases preserve generated output.
 
-## 0.2.0 — unreleased
+## 0.2.0 — 2026-10-30
 
 - Added a separate username dictionary with 47 playful fictional and legendary mariners.
   Username dictionary `2026.10.3` has 423,000 handles. Usernames are strings ending
