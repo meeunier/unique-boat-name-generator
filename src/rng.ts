@@ -40,11 +40,16 @@ export function seededRandom(seed: string | number): RandomSource {
   return mulberry32(hashSeed(seed));
 }
 
-/** Integer in [0, n). */
-export function randomInt(rng: RandomSource, n: number): number {
+/** Validated random value in [0, 1). */
+export function randomFloat(rng: RandomSource): number {
   const r = rng();
   if (!(r >= 0 && r < 1)) {
     throw new RangeError('Random source must return a number in [0, 1).');
   }
-  return Math.floor(r * n);
+  return r;
+}
+
+/** Integer in [0, n). */
+export function randomInt(rng: RandomSource, n: number): number {
+  return Math.floor(randomFloat(rng) * n);
 }

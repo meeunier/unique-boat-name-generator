@@ -1762,5 +1762,97 @@
    "ZERO DECKS GIVEN": 1
   },
   "vessels": 1
+ },
+ {
+  "name": "For the Halibut",
+  "category": "fishy",
+  "joke": "Just for the hell of it, with halibut.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "FOR THE HALIBUT": 1
+  },
+  "vessels": 1,
+  "reason": "Disguised profanity: for the hell of it."
+ },
+ {
+  "name": "Krill Bill",
+  "category": "fishy",
+  "joke": "Tarantino's Kill Bill, with krill.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KRILL BILL": 1
+  },
+  "vessels": 1,
+  "reason": "Violent-film title pun on Kill Bill."
+ },
+ {
+  "name": "Kumbayacht",
+  "category": "pop-culture",
+  "joke": "Kumbaya, the campfire singalong, on a yacht.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KUM BA YACHT": 1
+  },
+  "vessels": 1,
+  "reason": "Religious-song reference to Kumbaya."
+ },
+ {
+  "name": "Rhumb Runner",
+  "category": "life-at-sea",
+  "joke": "Rum runner, spelled with the navigator's rhumb line.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "RHUMB RUNNER": 16,
+   "RHUMB RUNNER II": 1,
+   "RHUMBRUNNER": 1
+  },
+  "vessels": 18,
+  "reason": "Alcohol and smuggling pun on rum runner."
+ },
+ {
+  "name": "Sailbad the Sinner",
+  "category": "pop-culture",
+  "joke": "Sinbad the Sailor, turned around.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SAILBAD THE SINNER": 5,
+   "SAILBAD THE SINNER IV": 1
+  },
+  "vessels": 6,
+  "reason": "Religious wording: sinner."
+ },
+ {
+  "name": "Tax Seaduction",
+  "category": "sea-puns",
+  "joke": "The tax deduction that justified the boat.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "TAX SEADUCTION": 2
+  },
+  "vessels": 2,
+  "reason": "Sexual innuendo: seduction."
+ },
+ {
+  "name": "Tiller the Hun",
+  "category": "boat-parts",
+  "joke": "Attila the Hun, at the tiller.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "TILLER THE HUN III": 1
+  },
+  "vessels": 1,
+  "reason": "Reference to a historical conqueror; excluded under the violence policy."
+ },
+ {
+  "name": "Zombies Can't Swim",
+  "category": "dry-humour",
+  "joke": "Absurd apocalypse plan: live on the boat",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "ZOMBIES CAN'T SWIM": 3,
+   "ZOMBIES CANT SWIM": 1
+  },
+  "vessels": 4,
+  "reason": "Death and drowning humour."
  }
 ]

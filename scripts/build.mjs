@@ -4,7 +4,7 @@ import { readdirSync, readFileSync, renameSync, rmSync, writeFileSync } from 'no
 import { join } from 'node:path';
 
 const tsc = join('node_modules', '.bin', 'tsc');
-rmSync('dist', { recursive: true, force: true });
+for (const dir of ['dist/esm', 'dist/cjs']) rmSync(dir, { recursive: true, force: true });
 execFileSync(tsc, ['-p', 'tsconfig.json'], { stdio: 'inherit' });
 execFileSync(tsc, ['-p', 'tsconfig.json', '--module', 'CommonJS', '--moduleResolution', 'Node10',
   '--verbatimModuleSyntax', 'false', '--outDir', 'dist/cjs'], { stdio: 'inherit' });

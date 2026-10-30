@@ -34,7 +34,7 @@ describe('generateName', () => {
     expect(n.display).toBe(n.base);
     expect(n.suffix).toBeNull();
     expect(n.username).toBe(toUsername(n.base));
-    expect(n.username).toMatch(/^[a-z0-9]+$/);
+    expect(n.username).toMatch(/^[a-z0-9]+(?:_[a-z0-9]+)*$/);
     expect(n.dictionaryVersion).toBe(DICTIONARY_VERSION);
     expect(['curated', 'template']).toContain(n.source);
   });
@@ -78,6 +78,8 @@ describe('generateName', () => {
   it('rejects broken random sources', () => {
     expect(() => generateName({ random: () => 1 })).toThrow(RangeError);
     expect(() => generateName({ random: () => NaN })).toThrow(RangeError);
+    let draws = 0;
+    expect(() => generateName({ random: () => ++draws % 2 ? NaN : 0.5 })).toThrow(RangeError);
   });
 });
 
@@ -87,28 +89,43 @@ describe('suffixes and usernames', () => {
       expect(n.suffix).toBeGreaterThanOrEqual(10);
       expect(n.suffix).toBeLessThanOrEqual(99);
       expect(n.display).toBe(`${n.base} ${n.suffix}`);
-      expect(n.username).toBe(`${toUsername(n.base)}${n.suffix}`);
+      expect(n.username).toBe(`${toUsername(n.base)}_${n.suffix}`);
+      expect(n.username).toBe(toUsername(n.display));
     }
   });
 
   it('supports custom ranges and separators', () => {
     const n = generateName({ seed: 'x', suffix: { min: 1000, max: 9999 }, separator: '_' });
     expect(n.suffix).toBeGreaterThanOrEqual(1000);
-    expect(n.username).toMatch(/^[a-z0-9]+(_[a-z0-9]+)*\d{4}$/);
+    expect(n.username).toMatch(/^[a-z0-9]+(_[a-z0-9]+)*_\d{4}$/);
   });
 
   it('validates suffix ranges', () => {
     expect(() => generateName({ suffix: { min: 5, max: 4 } })).toThrow(RangeError);
     expect(() => generateName({ suffix: { min: -1 } })).toThrow(RangeError);
     expect(() => generateName({ suffix: { min: 1.5 } })).toThrow(RangeError);
+    expect(() => generateName({ suffix: { min: 2 ** 53, max: 2 ** 53 } })).toThrow(RangeError);
+    expect(() => capacity({ suffix: { min: 0, max: Number.MAX_SAFE_INTEGER } })).toThrow(RangeError);
+    expect(() => capacity({ suffix: { min: 0, max: Math.floor(Number.MAX_SAFE_INTEGER / capacity()) + 1 } })).toThrow(RangeError);
   });
 
   it('formats usernames', () => {
-    expect(toUsername("Kids' Inheritance")).toBe('kidsinheritance');
+    expect(toUsername("Kids' Inheritance")).toBe('kids_inheritance');
     expect(toUsername('Log Off, Lake On', { separator: '-' })).toBe('log-off-lake-on');
     expect(toUsername('404 Knot Ashore', { separator: '.' })).toBe('404.knot.ashore');
-    expect(toUsername('Bed, Bass & Beyond', { separator: '_', suffix: 7 })).toBe('bed_bass_beyond7');
-    expect(toUsername('M.T. Pockets')).toBe('mtpockets');
+    expect(toUsername('Bed, Bass & Beyond', { separator: '_', suffix: 7 })).toBe('bed_bass_beyond_7');
+    expect(toUsername('M.T. Pockets')).toBe('m_t_pockets');
+    expect(toUsername('Pier Pressure', { separator: '' })).toBe('pierpressure');
+    expect(toUsername('Pier Pressure', { separator: '-', suffix: 42 })).toBe('pier-pressure-42');
+    expect(toUsername('Pier Pressure 42', { separator: '-' })).toBe('pier-pressure-42');
+    expect(toUsername('Pier Pressure', { suffix: 0 })).toBe('pier_pressure_0');
+    expect(() => toUsername('Pier Pressure', { suffix: Number.MAX_SAFE_INTEGER + 1 })).toThrow(RangeError);
+    expect(() => toUsername('Pier Pressure', { suffix: -1 })).toThrow(RangeError);
+  });
+
+  it('rejects separators that would break the stored username format', () => {
+    // @ts-expect-error JavaScript consumers can still supply unsupported separators.
+    expect(() => generateName({ separator: '/' })).toThrow(TypeError);
   });
 });
 
@@ -135,6 +152,22 @@ describe('batches', () => {
     expect(capacity(opts)).toBe(capacity({ source: 'curated' }) * 3);
     const all = generateNames(capacity(opts), { ...opts, seed: 'full' });
     expect(new Set(all.map((n) => n.username)).size).toBe(capacity(opts));
+  });
+
+  it.each(['', '_', '-', '.'] as const)('keeps every suffixed username unique with separator %j', (separator) => {
+    const opts = { separator, suffix: { min: 0, max: 2 } };
+    const all = generateNames(capacity(opts), { ...opts, seed: 'all-formats' });
+    expect(new Set(all.map((name) => name.username)).size).toBe(capacity(opts));
+    for (const name of all) expect(name.username).toBe(toUsername(name.display, { separator }));
+  });
+
+  it('matches exclusions written using a different separator', () => {
+    const taken = generateNames(20, { seed: 'exclude-formats', separator: '-', suffix: { min: 0, max: 2 } });
+    const opts = { separator: '_' as const, suffix: { min: 0, max: 2 }, exclude: taken.map((name) => name.username) };
+    const all = generateNames(capacity(opts), { ...opts, partial: true });
+    expect(all).toHaveLength(capacity(opts) - taken.length);
+    const compact = new Set(taken.map((name) => toUsername(name.display, { separator: '' })));
+    expect(all.some((name) => compact.has(toUsername(name.display, { separator: '' })))).toBe(false);
   });
 
   it('throws NameCapacityError when asking for more than exists', () => {
@@ -164,6 +197,15 @@ describe('batches', () => {
     expect(() => generateNames(capacity() - 49, { exclude })).toThrow(NameCapacityError);
   });
 
+  it('does not consume one-use exclusions when checking capacity', () => {
+    const first = generateName({ seed: 'one-use' });
+    function* excluded() { yield first.username; }
+    const exclude = excluded();
+    expect(capacity({ exclude })).toBe(capacity());
+    const next = generateName({ seed: 'one-use', exclude });
+    expect(next.username).not.toBe(first.username);
+  });
+
   it('seeded batches are reproducible', () => {
     expect(generateNames(100, { seed: 'r', suffix: true })).toEqual(generateNames(100, { seed: 'r', suffix: true }));
   });
@@ -188,13 +230,13 @@ describe('seeded output stability', () => {
   it(`is stable for dictionary ${DICTIONARY_VERSION}`, () => {
     expect(generateNames(5, { seed: 'golden' }).map((n) => n.display)).toMatchInlineSnapshot(`
       [
-        "Rock Around the Dock",
-        "Non Cents",
+        "Rhyme Oar Reason",
+        "No Regerts",
         "Self-Taught Seahorse",
         "A Boat Time",
-        "Had Money",
+        "Grouper Therapy",
       ]
     `);
-    expect(generateName({ seed: 'golden', suffix: true }).username).toMatchInlineSnapshot(`"rockaroundthedock40"`);
+    expect(generateName({ seed: 'golden', suffix: true }).username).toMatchInlineSnapshot(`"rhyme_oar_reason_40"`);
   });
 });

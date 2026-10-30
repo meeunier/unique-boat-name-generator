@@ -1,14 +1,14 @@
 /**
- * Minimal React Native flow: an anonymous user gets a pseudonym on first
+ * Minimal React Native flow: an anonymous user gets a username on first
  * launch, keeps it across restarts, and keeps it after signing in with email.
  *
  * Identifiers (kept separate on purpose):
  *   installationId - random UUID for this install; a technical identifier
  *   userId         - server-issued UUID for the account; a technical identifier
- *   pseudonym      - display label only ("Pier Pressure"); never used as a key
+ *   username       - generated handle ("captain_haddock_4272"); never used as a primary key
  *
- * The pseudonym is generated ONCE, reserved on the server, and stored. It is
- * never re-derived from a seed, so dictionary updates can't rename anyone.
+ * The username is generated once, reserved on the server, and stored. It is
+ * never re-derived from a seed, so dictionary updates preserve stored usernames.
  *
  * Illustrative example: the API endpoints are placeholders for your backend.
  * Dependencies: unique-boat-name-generator, @react-native-async-storage/async-storage,
@@ -17,14 +17,13 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import * as Crypto from 'expo-crypto';
 import { useEffect, useState } from 'react';
-import { claimName } from 'unique-boat-name-generator';
+import { claimUsername, USERNAME_DICTIONARY_VERSION } from 'unique-boat-name-generator';
 
 const API = 'https://api.example.com';
 
 export interface Profile {
   userId: string; // server UUID
-  pseudonym: string; // display label, e.g. "Pier Pressure"
-  username: string; // compact unique handle, e.g. "pierpressure"
+  username: string; // unique handle, e.g. "captain_haddock_4272"
   email: string | null; // null while anonymous
 }
 
@@ -37,11 +36,11 @@ async function getInstallationId(): Promise<string> {
   return id;
 }
 
-/** First launch: create an anonymous profile with a freshly claimed pseudonym. */
+/** First launch: create an anonymous profile with a reserved username. */
 async function createAnonymousProfile(installationId: string): Promise<Profile> {
   let profile = null as Profile | null;
-  await claimName(async (name) => {
-    // Server does: INSERT INTO profiles (id, installation_id, pseudonym, username, ...)
+  await claimUsername(async (name) => {
+    // Server does: INSERT INTO profiles (id, installation_id, username, ...)
     // with UNIQUE(username). 201 = reserved, 409 = taken -> try the next name.
     // Make it idempotent per installationId (UNIQUE(installation_id); return the
     // existing profile with 200) so a crash before caching can't create a second one.
@@ -50,9 +49,8 @@ async function createAnonymousProfile(installationId: string): Promise<Profile> 
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
         installationId,
-        pseudonym: name.display,
-        username: name.username,
-        dictionaryVersion: name.dictionaryVersion, // optional, for support/debugging
+        username: name,
+        dictionaryVersion: USERNAME_DICTIONARY_VERSION, // optional, for support/debugging
       }),
     });
     if (res.status === 409) return false;
@@ -63,7 +61,7 @@ async function createAnonymousProfile(installationId: string): Promise<Profile> 
   return profile!;
 }
 
-export function usePseudonym() {
+export function useUsername() {
   const [profile, setProfile] = useState<Profile | null>(null);
 
   useEffect(() => {
@@ -78,7 +76,7 @@ export function usePseudonym() {
 
   /**
    * Later: the user verifies an email. The server attaches the email to the
-   * EXISTING profile row (same userId), so the pseudonym stays the same.
+   * EXISTING profile row (same userId), so the username stays the same.
    */
   async function linkEmail(email: string, verificationCode: string) {
     if (!profile) return;

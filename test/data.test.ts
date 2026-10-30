@@ -1,6 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { CURATED_NAMES, DICTIONARY_VERSION, TEMPLATES, capacity, nameStream, toUsername } from '../src/index.js';
 import { hashSeed } from '../src/rng.js';
+import { readFileSync } from 'node:fs';
 
 const allBases = (() => {
   const out: { base: string; source: string; template: string | null }[] = [];
@@ -12,7 +13,7 @@ const allBases = (() => {
 // curated list was reviewed by hand and template slots are hand-picked, but
 // combinations are checked mechanically too.
 const BLOCKLIST =
-  /\b(sex\w*|nude|naked|boob\w*|tits?|ass|asses|dick|cock|penis|balls|screw\w*|horny|hooker\w*|semen|seamen|fuck\w*|shit\w*|damn|hell|crap|piss\w*|bitch\w*|slut\w*|whore\w*|drunk|wasted|booze|beer|wine|whiskey|rum|vodka|tequila|weed|stoned|kill\w*|dead|death|die|drown\w*|suicide|gun|nazi|retard\w*|fat|ugly|stupid|idiot|moron|dumb)\b/i;
+  /\b(sex\w*|nude|naked|boob\w*|tits?|ass|asses|dick|cock|penis|balls|screw\w*|horny|hooker\w*|semen|seamen|fuck\w*|shit\w*|damn|hell|crap|piss\w*|bitch\w*|slut\w*|whore\w*|drunk|wasted|booze|beer|wine|whiskey|rum|vodka|tequila|weed|stoned|kill\w*|dead|death|die|drown\w*|suicide|gun|nazi|retard\w*|fat|ugly|stupid|idiot|moron|dumb|seduc\w*|seaduc\w*|sinner\w*|zombies?)\b/i;
 
 describe('bundled data', () => {
   it('has the expected size', () => {
@@ -56,6 +57,13 @@ describe('bundled data', () => {
     expect(hits).toEqual([]);
   });
 
+  it('keeps all editorially withheld phrases out of every generated combination', () => {
+    const withheld = JSON.parse(readFileSync(new URL('../research/editorial/borderline.json', import.meta.url), 'utf8')) as { name: string }[];
+    const keys = new Set(withheld.map((name) => toUsername(name.name, { separator: '' })));
+    const hits = allBases.filter((name) => keys.has(toUsername(name.base, { separator: '' })));
+    expect(hits).toEqual([]);
+  });
+
   it('every possible name fits comfortably in a UI label', () => {
     for (const n of allBases) expect(n.base.length, n.base).toBeLessThanOrEqual(32);
   });
@@ -66,7 +74,7 @@ describe('bundled data', () => {
     );
     // If this fails you changed the dictionary: bump DICTIONARY_VERSION in
     // src/version.ts, update this map, and note it in CHANGELOG.md.
-    const KNOWN: Record<string, number> = { '2026.10.1': FINGERPRINT };
+    const KNOWN: Record<string, number> = { '2026.10.2': FINGERPRINT };
     expect({ version: DICTIONARY_VERSION, fingerprint }).toEqual({
       version: DICTIONARY_VERSION,
       fingerprint: KNOWN[DICTIONARY_VERSION],
@@ -75,4 +83,4 @@ describe('bundled data', () => {
 });
 
 // Updated together with DICTIONARY_VERSION.
-const FINGERPRINT = 1037787819;
+const FINGERPRINT = 3922504922;

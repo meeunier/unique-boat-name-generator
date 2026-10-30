@@ -1,0 +1,4792 @@
+{
+  "schema_version": 1,
+  "researched_on": "2026-10-30",
+  "status": "research_candidates",
+  "scope": "Named fictional or legendary maritime characters and a separate selection of 25 well-known historical explorers, sailors and mariners, with additional pools for related sea figures and advertising mascots. Broad initial catalogue, not exhaustive.",
+  "counts": {
+    "total": 212,
+    "by_category": {
+      "literature": 85,
+      "comics_animation": 32,
+      "film_tv": 20,
+      "games": 9,
+      "myth_legend": 29,
+      "sea_figures": 10,
+      "mascots": 2,
+      "historical": 25
+    },
+    "by_pool": {
+      "mariners": 175,
+      "sea_figures": 10,
+      "mascots": 2,
+      "historical_mariners": 25
+    },
+    "shortlist": 52,
+    "sources": 110
+  },
+  "sources": {
+    "moby": {
+      "title": "Moby-Dick — original text",
+      "url": "https://www.gutenberg.org/files/15/15-h/15-h.htm",
+      "kind": "primary",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "treasure": {
+      "title": "Treasure Island — original text",
+      "url": "https://www.gutenberg.org/files/120/120-h/120-h.htm",
+      "kind": "primary",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "pan": {
+      "title": "Peter Pan — original text",
+      "url": "https://www.gutenberg.org/cache/epub/16/pg16-images.html",
+      "kind": "primary",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "nemo": {
+      "title": "Twenty Thousand Leagues under the Sea — Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/164",
+      "kind": "primary",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "courageous": {
+      "title": "Captains Courageous — original text",
+      "url": "https://www.gutenberg.org/files/2186/2186-h/2186-h.htm",
+      "kind": "primary",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "blood": {
+      "title": "Captain Blood — Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/1965",
+      "kind": "primary",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "wolf": {
+      "title": "The Sea-Wolf — University of South Florida Lit2Go",
+      "url": "https://etc.usf.edu/lit2go/153/the-sea-wolf/",
+      "kind": "primary",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "captains": {
+      "title": "List of sea captains — fictional section",
+      "url": "https://en.wikipedia.org/wiki/List_of_sea_captains#Fictional_sea_captains",
+      "kind": "reference",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "hornblower": {
+      "title": "Horatio Hornblower",
+      "url": "https://en.wikipedia.org/wiki/Horatio_Hornblower",
+      "kind": "reference",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "aubrey": {
+      "title": "Aubrey–Maturin series",
+      "url": "https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series",
+      "kind": "reference",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "bolitho": {
+      "title": "The Bolitho novels",
+      "url": "https://en.wikipedia.org/wiki/The_Bolitho_novels",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "ramage": {
+      "title": "Lord Ramage",
+      "url": "https://en.wikipedia.org/wiki/Lord_Ramage",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "drinkwater": {
+      "title": "Nathaniel Drinkwater",
+      "url": "https://en.wikipedia.org/wiki/Nathaniel_Drinkwater",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "lewrie": {
+      "title": "Alan Lewrie",
+      "url": "https://en.wikipedia.org/wiki/Alan_Lewrie",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "marlow": {
+      "title": "Charles Marlow",
+      "url": "https://en.wikipedia.org/wiki/Charles_Marlow",
+      "kind": "reference",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "typhoon": {
+      "title": "Typhoon — character list",
+      "url": "https://en.wikipedia.org/wiki/Typhoon_(novella)#Characters",
+      "kind": "reference",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "jim": {
+      "title": "Lord Jim",
+      "url": "https://en.wikipedia.org/wiki/Lord_Jim",
+      "kind": "reference",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "dantes": {
+      "title": "Edmond Dantès",
+      "url": "https://en.wikipedia.org/wiki/Edmond_Dant%C3%A8s",
+      "kind": "reference",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "blackthorne": {
+      "title": "John Blackthorne",
+      "url": "https://en.wikipedia.org/wiki/John_Blackthorne",
+      "kind": "reference",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "budd": {
+      "title": "Billy Budd",
+      "url": "https://en.wikipedia.org/wiki/Billy_Budd",
+      "kind": "reference",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "gulliver": {
+      "title": "Princeton University Library — Literary Classics",
+      "url": "https://static-prod.lib.princeton.edu/visual_materials/maps/websites/pacific/literary-classics/literary-classics.html",
+      "kind": "institutional",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "mariner": {
+      "title": "The Rime of the Ancient Mariner",
+      "url": "https://en.wikipedia.org/wiki/The_Rime_of_the_Ancient_Mariner",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "swallows": {
+      "title": "Swallows and Amazons — major characters",
+      "url": "https://en.wikipedia.org/wiki/Swallows_and_Amazons#Major_characters",
+      "kind": "reference",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "dawn": {
+      "title": "The Voyage of the Dawn Treader",
+      "url": "https://en.wikipedia.org/wiki/The_Voyage_of_the_Dawn_Treader",
+      "kind": "reference",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "liveship": {
+      "title": "Ship of Magic",
+      "url": "https://en.wikipedia.org/wiki/Ship_of_Magic",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "madship": {
+      "title": "The Mad Ship",
+      "url": "https://en.wikipedia.org/wiki/The_Mad_Ship",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "tidechild": {
+      "title": "Tide Child trilogy",
+      "url": "https://en.wikipedia.org/wiki/Tide_Child_trilogy",
+      "kind": "reference",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "earendil": {
+      "title": "Encyclopedia of Arda — Eärendil",
+      "url": "https://www.encyclopedia-of-arda.com/e/earendil.html",
+      "kind": "specialist",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "voronwe": {
+      "title": "Encyclopedia of Arda — Voronwë",
+      "url": "https://www.encyclopedia-of-arda.com/v/voronwe.html",
+      "kind": "specialist",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "tintin": {
+      "title": "Tintin official character biography — Haddock",
+      "url": "https://www.tintin.com/en/characters/captain-haddock",
+      "kind": "primary",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "hadoque": {
+      "title": "Tintin official — Chevalier François de Hadoque",
+      "url": "https://www.tintin.com/en/characters/other/chevalier-francois-de-hadoque",
+      "kind": "primary",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "tintinships": {
+      "title": "Ships in The Adventures of Tintin",
+      "url": "https://en.wikipedia.org/wiki/List_of_ships_in_The_Adventures_of_Tintin",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "popeye": {
+      "title": "Popeye official — About and supporting cast",
+      "url": "https://popeye.com/About/",
+      "kind": "primary",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "pugwash": {
+      "title": "Captain Pugwash — characters",
+      "url": "https://en.wikipedia.org/wiki/Captain_Pugwash#Characters",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "pugwashcrew": {
+      "title": "Captain Pugwash — Nostalgia Central",
+      "url": "https://nostalgiacentral.com/television/tv-by-decade/tv-shows-1960s/captain-pugwash/",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "octonauts": {
+      "title": "Meet the Octonauts — official",
+      "url": "https://www.octonauts.com/octonauts.html",
+      "kind": "primary",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "onepiece": {
+      "title": "List of One Piece pirates",
+      "url": "https://en.wikipedia.org/wiki/List_of_One_Piece_pirates",
+      "kind": "reference",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "onepiececast": {
+      "title": "One Piece official live-action characters",
+      "url": "https://live-action.onepiece-base.com/character/",
+      "kind": "primary",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "nami": {
+      "title": "One Piece official — Nami",
+      "url": "https://one-piece.com/character/nami/index.html",
+      "kind": "primary",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "law": {
+      "title": "One Piece official — Trafalgar Law",
+      "url": "https://one-piece.com/character/law/index.html",
+      "kind": "primary",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "pirates": {
+      "title": "Pirates of the Caribbean — official characters",
+      "url": "https://pirates.disney.com/characters",
+      "kind": "primary",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "moana": {
+      "title": "Walt Disney Animation — Moana",
+      "url": "https://www.disneyanimation.com/films/moana/",
+      "kind": "primary",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "seabeast": {
+      "title": "The Sea Beast — Netflix cast guide",
+      "url": "https://www.netflix.com/tudum/articles/meet-the-cast-of-the-sea-beast",
+      "kind": "primary",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "seabeastroles": {
+      "title": "The Sea Beast — character roles",
+      "url": "https://en.wikipedia.org/wiki/The_Sea_Beast_(2022_film)",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "darkwater": {
+      "title": "Pirates of Dark Water — show guide",
+      "url": "https://piratesofdarkwater.net/information/show.html",
+      "kind": "specialist",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "gilligan": {
+      "title": "Gilligan's Island",
+      "url": "https://en.wikipedia.org/wiki/Gilligan%27s_Island",
+      "kind": "reference",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "loveboat": {
+      "title": "The Love Boat",
+      "url": "https://en.wikipedia.org/wiki/The_Love_Boat",
+      "kind": "reference",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "ron": {
+      "title": "Captain Ron",
+      "url": "https://en.wikipedia.org/wiki/Captain_Ron",
+      "kind": "reference",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "zissou": {
+      "title": "The Life Aquatic with Steve Zissou",
+      "url": "https://en.wikipedia.org/wiki/The_Life_Aquatic_with_Steve_Zissou",
+      "kind": "reference",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "jaws": {
+      "title": "Jaws — film",
+      "url": "https://en.wikipedia.org/wiki/Jaws_(film)",
+      "kind": "reference",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "redoctober": {
+      "title": "The Hunt for Red October — characters",
+      "url": "https://en.wikipedia.org/wiki/The_Hunt_for_Red_October#Characters",
+      "kind": "reference",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "monkey": {
+      "title": "Sea of Thieves official — The Lair of LeChuck",
+      "url": "https://www.seaofthieves.com/news/the-lair-of-lechuck",
+      "kind": "primary",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "dread": {
+      "title": "Monkey Island 2 — plot",
+      "url": "https://en.wikipedia.org/wiki/Monkey_Island_2:_LeChuck%27s_Revenge",
+      "kind": "reference",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "capsize": {
+      "title": "Monkey Island 2 walkthrough — captains",
+      "url": "https://www.metzomagic.com/showArticle.php?index=856",
+      "kind": "specialist",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "zelda": {
+      "title": "Nintendo — Phantom Hourglass instruction booklet",
+      "url": "https://m1.nintendo.net/docvc/NTR/USA/AZEE/AZEE_E.pdf",
+      "kind": "primary",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "kappn": {
+      "title": "Nintendo support — New Horizons update history",
+      "url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/49112",
+      "kind": "primary",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "fortune": {
+      "title": "Riot Games — Miss Fortune",
+      "url": "https://www.leagueoflegends.com/en-ph/champions/missfortune/",
+      "kind": "primary",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "gangplank": {
+      "title": "Riot Games — Gangplank",
+      "url": "https://www.leagueoflegends.com/en-us/champions/gangplank/",
+      "kind": "primary",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "odyssey": {
+      "title": "Odyssey Book 10 — Royal Holloway companion",
+      "url": "https://intranet.royalholloway.ac.uk/classics/documents/pdf/odyssey-companion-002.pdf",
+      "kind": "academic",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "odysseycast": {
+      "title": "Odyssey Book 10 — named crew",
+      "url": "https://www.historyinbooks.com/reading-troy/odyssey-10-aeolus-and-circe/",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "argonauts": {
+      "title": "Argonauts — ancient source comparison",
+      "url": "https://en.wikipedia.org/wiki/Argonauts#The_crew_of_Argo",
+      "kind": "reference",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "argopilot": {
+      "title": "Hyginus — Jason, BYU classical mythology reference",
+      "url": "https://cal.byu.edu/macfarlane/OGCMA/JasonANCIENT_Hyginus.htm",
+      "kind": "academic",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "palinurus": {
+      "title": "Oxford Classical Dictionary — Palinurus",
+      "url": "https://academic.oup.com/edited-volume/61673/chapter-abstract/549685761",
+      "kind": "academic",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "aeneid": {
+      "title": "Cambridge — Aeneas’ Landfalls in Hesperia",
+      "url": "https://www.cambridge.org/core/journals/greece-and-rome/article/abs/aeneas-landfalls-in-hesperia/3759B7CD405D36D05A9272780D0FDDCE",
+      "kind": "academic",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "sinbad": {
+      "title": "Sinbad the Sailor",
+      "url": "https://en.wikipedia.org/wiki/Sinbad_the_Sailor",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "bran": {
+      "title": "The Voyage of Bran",
+      "url": "https://en.wikipedia.org/wiki/The_Voyage_of_Bran",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "mael": {
+      "title": "The Voyage of Máel Dúin",
+      "url": "https://en.wikipedia.org/wiki/The_Voyage_of_M%C3%A1el_D%C3%BAin",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "brendan": {
+      "title": "Brendan the Navigator",
+      "url": "https://en.wikipedia.org/wiki/Brendan_the_Navigator",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "stormalong": {
+      "title": "Alfred Bulltop Stormalong",
+      "url": "https://en.wikipedia.org/wiki/Alfred_Bulltop_Stormalong",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "dutchman": {
+      "title": "Flying Dutchman — captain variants",
+      "url": "https://en.wikipedia.org/wiki/Flying_Dutchman",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "urashima": {
+      "title": "Urashima Tarō",
+      "url": "https://en.wikipedia.org/wiki/Urashima_Tar%C5%8D",
+      "kind": "reference",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "urshanabi": {
+      "title": "Urshanabi",
+      "url": "https://en.wikipedia.org/wiki/Urshanabi",
+      "kind": "reference",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "charon": {
+      "title": "Charon",
+      "url": "https://en.wikipedia.org/wiki/Charon",
+      "kind": "reference",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "seagods": {
+      "title": "Theoi — Sea Gods and Goddesses",
+      "url": "https://www.theoi.com/greek-mythology/sea-gods.html",
+      "kind": "specialist",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "njord": {
+      "title": "Store norske leksikon — Njord",
+      "url": "https://snl.no/Njord",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "aegir": {
+      "title": "Ægir",
+      "url": "https://en.wikipedia.org/wiki/%C3%86gir",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "manannan": {
+      "title": "Library Ireland — Manannán mac Lir",
+      "url": "https://www.libraryireland.com/SocialHistoryAncientIreland/II-V-7.php",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "kupe": {
+      "title": "LINZ — Kupe in Māori oral history",
+      "url": "https://www.linz.govt.nz/our-work/new-zealand-geographic-board/place-name-stories/maori-oral-history-atlas/kupe-discoverer",
+      "kind": "institutional",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "birdseye": {
+      "title": "Captain Birdseye",
+      "url": "https://en.wikipedia.org/wiki/Captain_Birdseye",
+      "kind": "reference",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "crunch": {
+      "title": "Cap’n Crunch",
+      "url": "https://en.wikipedia.org/wiki/Cap%27n_Crunch",
+      "kind": "reference",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "odysseytext": {
+      "title": "The Odyssey — original text",
+      "url": "https://www.gutenberg.org/files/1728/1728-h/1728-h.htm",
+      "kind": "primary",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "bluto": {
+      "title": "Bluto — animated portrayals",
+      "url": "https://en.wikipedia.org/wiki/Bluto",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "pawpatrol": {
+      "title": "PAW Patrol — Captain Turbot",
+      "url": "https://en.wikipedia.org/wiki/Paw_Patrol",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "mccallister": {
+      "title": "Recurring Simpsons characters — Sea Captain",
+      "url": "https://en.wikipedia.org/wiki/List_of_recurring_The_Simpsons_characters",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "ran": {
+      "title": "Rán — Norse sea figure",
+      "url": "https://en.wikipedia.org/wiki/R%C3%A1n",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "historical_leif_erikson": {
+      "title": "Leif Erikson — maritime biography",
+      "url": "https://exploration.marinersmuseum.org/subject/leif-eriksson/",
+      "kind": "institutional",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "historical_zheng_he": {
+      "title": "Zheng He — maritime biography",
+      "url": "https://exploration.marinersmuseum.org/subject/zheng-he/",
+      "kind": "institutional",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "historical_christopher_columbus": {
+      "title": "Christopher Columbus — maritime biography",
+      "url": "https://exploration.marinersmuseum.org/subject/christopher-columbus/",
+      "kind": "institutional",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "historical_amerigo_vespucci": {
+      "title": "Amerigo Vespucci — maritime biography",
+      "url": "https://exploration.marinersmuseum.org/subject/amerigo-vespucci/",
+      "kind": "institutional",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "historical_bartolomeu_dias": {
+      "title": "Bartolomeu Dias — maritime biography",
+      "url": "https://exploration.marinersmuseum.org/subject/bartolomeu-dias/",
+      "kind": "institutional",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "historical_vasco_da_gama": {
+      "title": "Vasco da Gama — maritime biography",
+      "url": "https://exploration.marinersmuseum.org/subject/vasco-da-gama/",
+      "kind": "institutional",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "historical_john_cabot": {
+      "title": "John Cabot — maritime biography",
+      "url": "https://epe.lac-bac.gc.ca/100/206/301/lac-bac/explorers/www.collectionscanada.gc.ca/explorers/h24-1310-e.html?nodisclaimer=1",
+      "kind": "institutional",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "historical_captain_magellan": {
+      "title": "Ferdinand Magellan — maritime biography",
+      "url": "https://www.unesco.org/en/memory-world/first-voyage-circumnavigation-fernao-de-magalhaes-and-juan-sebastian-elcano-1519-1522",
+      "kind": "institutional",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "historical_captain_elcano": {
+      "title": "Juan Sebastián Elcano — maritime biography",
+      "url": "https://www.guinnessworldrecords.com/world-records/first-circumnavigation",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "historical_jacques_cartier": {
+      "title": "Jacques Cartier — maritime biography",
+      "url": "https://exploration.marinersmuseum.org/subject/jacques-cartier/",
+      "kind": "institutional",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "historical_captain_drake": {
+      "title": "Francis Drake — maritime biography",
+      "url": "https://exploration.marinersmuseum.org/subject/francis-drake/",
+      "kind": "institutional",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "historical_henry_hudson": {
+      "title": "Henry Hudson — maritime biography",
+      "url": "https://exploration.marinersmuseum.org/subject/henry-hudson/",
+      "kind": "institutional",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "historical_abel_tasman": {
+      "title": "Abel Tasman — maritime biography",
+      "url": "https://exploration.marinersmuseum.org/subject/abel-janszoon-tasman/",
+      "kind": "institutional",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "historical_captain_cook": {
+      "title": "James Cook — maritime biography",
+      "url": "https://exploration.marinersmuseum.org/subject/james-cook/",
+      "kind": "institutional",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "historical_captain_vancouver": {
+      "title": "George Vancouver — maritime biography",
+      "url": "https://www.biographi.ca/en/bio.php?BioId=36317",
+      "kind": "academic",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "historical_jeanne_baret": {
+      "title": "Jeanne Baret — maritime biography",
+      "url": "https://exploration.marinersmuseum.org/subject/jeanne-baret/",
+      "kind": "institutional",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "historical_fridtjof_nansen": {
+      "title": "Fridtjof Nansen — maritime biography",
+      "url": "https://en.uit.no/tmu/utstillinger/utstilling?p_document_id=804915",
+      "kind": "institutional",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "historical_roald_amundsen": {
+      "title": "Roald Amundsen — maritime biography",
+      "url": "https://exploration.marinersmuseum.org/subject/roald-amundsen/",
+      "kind": "institutional",
+      "evidence": "page",
+      "checked_on": "2026-10-30"
+    },
+    "historical_ernest_shackleton": {
+      "title": "Ernest Shackleton — maritime biography",
+      "url": "https://www.rmg.co.uk/stories/maritime-history/sir-ernest-shackleton?show=conWebDoc.189",
+      "kind": "institutional",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "historical_captain_slocum": {
+      "title": "Joshua Slocum — maritime biography",
+      "url": "https://thesailingmuseum.org/inductee/slocum-joshua/",
+      "kind": "institutional",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "historical_captain_cousteau": {
+      "title": "Jacques-Yves Cousteau — maritime biography",
+      "url": "https://www.cousteau.org/know/vessels/calypso/",
+      "kind": "primary",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "historical_thor_heyerdahl": {
+      "title": "Thor Heyerdahl — maritime biography",
+      "url": "https://www.kon-tiki.no/en/about-thor-heyerdahl",
+      "kind": "institutional",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "historical_francis_chichester": {
+      "title": "Francis Chichester — maritime biography",
+      "url": "https://en.wikipedia.org/wiki/Francis_Chichester",
+      "kind": "reference",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "historical_robin_knox_johnston": {
+      "title": "Robin Knox-Johnston — maritime biography",
+      "url": "https://www.robinknox-johnston.co.uk/",
+      "kind": "primary",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    },
+    "historical_ellen_macarthur": {
+      "title": "Ellen MacArthur — maritime biography",
+      "url": "https://www.ellenmacarthurfoundation.org/about-us/ellens-story",
+      "kind": "primary",
+      "evidence": "search_result",
+      "checked_on": "2026-10-30"
+    }
+  },
+  "entries": [
+    {
+      "id": "captain_ahab",
+      "name": "Captain Ahab",
+      "aliases": [
+        "Ahab"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Moby-Dick",
+      "role": "Whaling captain",
+      "pool": "mariners",
+      "username_base": "captain_ahab",
+      "tags": [],
+      "sources": [
+        "moby"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "sailor_ishmael",
+      "name": "Ishmael",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Moby-Dick",
+      "role": "Sailor and narrator",
+      "pool": "mariners",
+      "username_base": "sailor_ishmael",
+      "tags": [],
+      "sources": [
+        "moby"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "first_mate_starbuck",
+      "name": "Starbuck",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Moby-Dick",
+      "role": "First mate",
+      "pool": "mariners",
+      "username_base": "first_mate_starbuck",
+      "tags": [],
+      "sources": [
+        "moby"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "mate_stubb",
+      "name": "Stubb",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Moby-Dick",
+      "role": "Second mate",
+      "pool": "mariners",
+      "username_base": "mate_stubb",
+      "tags": [],
+      "sources": [
+        "moby"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "mate_flask",
+      "name": "Flask",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Moby-Dick",
+      "role": "Third mate",
+      "pool": "mariners",
+      "username_base": "mate_flask",
+      "tags": [],
+      "sources": [
+        "moby"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "harpooner_queequeg",
+      "name": "Queequeg",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Moby-Dick",
+      "role": "Harpooner",
+      "pool": "mariners",
+      "username_base": "harpooner_queequeg",
+      "tags": [],
+      "sources": [
+        "moby"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "harpooner_tashtego",
+      "name": "Tashtego",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Moby-Dick",
+      "role": "Harpooner",
+      "pool": "mariners",
+      "username_base": "harpooner_tashtego",
+      "tags": [],
+      "sources": [
+        "moby"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "harpooner_daggoo",
+      "name": "Daggoo",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Moby-Dick",
+      "role": "Harpooner",
+      "pool": "mariners",
+      "username_base": "harpooner_daggoo",
+      "tags": [],
+      "sources": [
+        "moby"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "harpooner_fedallah",
+      "name": "Fedallah",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Moby-Dick",
+      "role": "Harpooner",
+      "pool": "mariners",
+      "username_base": "harpooner_fedallah",
+      "tags": [],
+      "sources": [
+        "moby"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_peleg",
+      "name": "Captain Peleg",
+      "aliases": [
+        "Peleg"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Moby-Dick",
+      "role": "Former whaling captain",
+      "pool": "mariners",
+      "username_base": "captain_peleg",
+      "tags": [],
+      "sources": [
+        "moby"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_bildad",
+      "name": "Captain Bildad",
+      "aliases": [
+        "Bildad"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Moby-Dick",
+      "role": "Former whaling captain",
+      "pool": "mariners",
+      "username_base": "captain_bildad",
+      "tags": [],
+      "sources": [
+        "moby"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_boomer",
+      "name": "Captain Boomer",
+      "aliases": [
+        "Boomer"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Moby-Dick",
+      "role": "Whaling captain",
+      "pool": "mariners",
+      "username_base": "captain_boomer",
+      "tags": [],
+      "sources": [
+        "moby"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_smollett",
+      "name": "Captain Smollett",
+      "aliases": [
+        "Alexander Smollett"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Treasure Island",
+      "role": "Schooner captain",
+      "pool": "mariners",
+      "username_base": "captain_smollett",
+      "tags": [],
+      "sources": [
+        "treasure"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "long_john_silver",
+      "name": "Long John Silver",
+      "aliases": [
+        "John Silver"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Treasure Island",
+      "role": "Ship’s cook and pirate",
+      "pool": "mariners",
+      "username_base": "long_john_silver",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "treasure"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "jim_hawkins",
+      "name": "Jim Hawkins",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Treasure Island",
+      "role": "Cabin boy",
+      "pool": "mariners",
+      "username_base": "jim_hawkins",
+      "tags": [],
+      "sources": [
+        "treasure"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "billy_bones",
+      "name": "Billy Bones",
+      "aliases": [
+        "Captain Billy Bones"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Treasure Island",
+      "role": "Former pirate",
+      "pool": "mariners",
+      "username_base": "billy_bones",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "treasure"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_flint",
+      "name": "Captain Flint",
+      "aliases": [
+        "J. Flint"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Treasure Island",
+      "role": "Pirate captain",
+      "pool": "mariners",
+      "username_base": "captain_flint",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "treasure"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "ben_gunn",
+      "name": "Ben Gunn",
+      "aliases": [
+        "Benjamin Gunn"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Treasure Island",
+      "role": "Marooned pirate",
+      "pool": "mariners",
+      "username_base": "ben_gunn",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "treasure"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "israel_hands",
+      "name": "Israel Hands",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Treasure Island",
+      "role": "Coxswain and former gunner",
+      "pool": "mariners",
+      "username_base": "israel_hands",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "treasure"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "abraham_gray",
+      "name": "Abraham Gray",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Treasure Island",
+      "role": "Carpenter’s mate",
+      "pool": "mariners",
+      "username_base": "abraham_gray",
+      "tags": [],
+      "sources": [
+        "treasure"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "black_dog",
+      "name": "Black Dog",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Treasure Island",
+      "role": "Pirate",
+      "pool": "mariners",
+      "username_base": "black_dog",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "treasure"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "blind_pew",
+      "name": "Blind Pew",
+      "aliases": [
+        "Pew"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Treasure Island",
+      "role": "Pirate",
+      "pool": "mariners",
+      "username_base": "blind_pew",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "treasure"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "tom_morgan",
+      "name": "Tom Morgan",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Treasure Island",
+      "role": "Pirate",
+      "pool": "mariners",
+      "username_base": "tom_morgan",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "treasure"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_hook",
+      "name": "Captain Hook",
+      "aliases": [
+        "James Hook",
+        "Captain James Hook"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Peter Pan",
+      "role": "Pirate captain",
+      "pool": "mariners",
+      "username_base": "captain_hook",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "pan"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "smee",
+      "name": "Mr. Smee",
+      "aliases": [
+        "Smee"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Peter Pan",
+      "role": "Boatswain",
+      "pool": "mariners",
+      "username_base": "smee",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "pan"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "gentleman_starkey",
+      "name": "Gentleman Starkey",
+      "aliases": [
+        "Starkey"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Peter Pan",
+      "role": "Pirate",
+      "pool": "mariners",
+      "username_base": "gentleman_starkey",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "pan"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "bill_jukes",
+      "name": "Bill Jukes",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Peter Pan",
+      "role": "Pirate",
+      "pool": "mariners",
+      "username_base": "bill_jukes",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "pan"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "noodler",
+      "name": "Noodler",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Peter Pan",
+      "role": "Pirate",
+      "pool": "mariners",
+      "username_base": "noodler",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "pan"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "cookson",
+      "name": "Cookson",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Peter Pan",
+      "role": "Pirate",
+      "pool": "mariners",
+      "username_base": "cookson",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "pan"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "robert_mullins",
+      "name": "Robert Mullins",
+      "aliases": [
+        "Robt. Mullins"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Peter Pan",
+      "role": "Pirate",
+      "pool": "mariners",
+      "username_base": "robert_mullins",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "pan"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_nemo",
+      "name": "Captain Nemo",
+      "aliases": [
+        "Prince Dakkar"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Twenty Thousand Leagues under the Seas",
+      "role": "Submarine captain",
+      "pool": "mariners",
+      "username_base": "captain_nemo",
+      "tags": [
+        "submarine"
+      ],
+      "sources": [
+        "nemo"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "ned_land",
+      "name": "Ned Land",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Twenty Thousand Leagues under the Seas",
+      "role": "Harpooner",
+      "pool": "mariners",
+      "username_base": "ned_land",
+      "tags": [],
+      "sources": [
+        "nemo"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_disko",
+      "name": "Disko Troop",
+      "aliases": [
+        "Discobolus Troop"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Captains Courageous",
+      "role": "Fishing schooner captain",
+      "pool": "mariners",
+      "username_base": "captain_disko",
+      "tags": [],
+      "sources": [
+        "courageous"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "dan_troop",
+      "name": "Dan Troop",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Captains Courageous",
+      "role": "Fishing crew member",
+      "pool": "mariners",
+      "username_base": "dan_troop",
+      "tags": [],
+      "sources": [
+        "courageous"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "harvey_cheyne",
+      "name": "Harvey Cheyne",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Captains Courageous",
+      "role": "Fishing schooner ship’s boy",
+      "pool": "mariners",
+      "username_base": "harvey_cheyne",
+      "tags": [],
+      "sources": [
+        "courageous"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "fisherman_manuel",
+      "name": "Manuel",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Captains Courageous",
+      "role": "Fisherman",
+      "pool": "mariners",
+      "username_base": "fisherman_manuel",
+      "tags": [],
+      "sources": [
+        "courageous"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "long_jack",
+      "name": "Long Jack",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Captains Courageous",
+      "role": "Fisherman",
+      "pool": "mariners",
+      "username_base": "long_jack",
+      "tags": [],
+      "sources": [
+        "courageous"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "tom_platt",
+      "name": "Tom Platt",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Captains Courageous",
+      "role": "Fisherman and former navy sailor",
+      "pool": "mariners",
+      "username_base": "tom_platt",
+      "tags": [],
+      "sources": [
+        "courageous"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "uncle_salters",
+      "name": "Uncle Salters",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Captains Courageous",
+      "role": "Fishing crew member",
+      "pool": "mariners",
+      "username_base": "uncle_salters",
+      "tags": [],
+      "sources": [
+        "courageous"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_blood",
+      "name": "Peter Blood",
+      "aliases": [
+        "Captain Blood"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Captain Blood",
+      "role": "Pirate captain",
+      "pool": "mariners",
+      "username_base": "captain_blood",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "blood"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_larsen",
+      "name": "Wolf Larsen",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "The Sea-Wolf",
+      "role": "Sealing schooner captain",
+      "pool": "mariners",
+      "username_base": "captain_larsen",
+      "tags": [
+        "villain"
+      ],
+      "sources": [
+        "wolf"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "humphrey_van_weyden",
+      "name": "Humphrey van Weyden",
+      "aliases": [
+        "Hump"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "The Sea-Wolf",
+      "role": "Sealing schooner sailor",
+      "pool": "mariners",
+      "username_base": "humphrey_van_weyden",
+      "tags": [],
+      "sources": [
+        "wolf"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_hornblower",
+      "name": "Horatio Hornblower",
+      "aliases": [
+        "Hornblower"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Hornblower novels",
+      "role": "Naval captain and admiral",
+      "pool": "mariners",
+      "username_base": "captain_hornblower",
+      "tags": [],
+      "sources": [
+        "hornblower"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "captain_bush",
+      "name": "William Bush",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Hornblower novels",
+      "role": "Naval officer and captain",
+      "pool": "mariners",
+      "username_base": "captain_bush",
+      "tags": [],
+      "sources": [
+        "hornblower"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_aubrey",
+      "name": "Jack Aubrey",
+      "aliases": [
+        "Lucky Jack"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Aubrey–Maturin novels",
+      "role": "Naval captain",
+      "pool": "mariners",
+      "username_base": "captain_aubrey",
+      "tags": [],
+      "sources": [
+        "aubrey"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "surgeon_maturin",
+      "name": "Stephen Maturin",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Aubrey–Maturin novels",
+      "role": "Ship’s surgeon",
+      "pool": "mariners",
+      "username_base": "surgeon_maturin",
+      "tags": [],
+      "sources": [
+        "aubrey"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "admiral_bolitho",
+      "name": "Richard Bolitho",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Bolitho novels",
+      "role": "Naval officer and admiral",
+      "pool": "mariners",
+      "username_base": "admiral_bolitho",
+      "tags": [],
+      "sources": [
+        "bolitho"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_adam_bolitho",
+      "name": "Adam Bolitho",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Bolitho novels",
+      "role": "Naval captain",
+      "pool": "mariners",
+      "username_base": "captain_adam_bolitho",
+      "tags": [],
+      "sources": [
+        "bolitho"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_ramage",
+      "name": "Nicholas Ramage",
+      "aliases": [
+        "Lord Ramage",
+        "Nicholas Lord Ramage"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Ramage novels",
+      "role": "Naval commander",
+      "pool": "mariners",
+      "username_base": "captain_ramage",
+      "tags": [],
+      "sources": [
+        "ramage"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_drinkwater",
+      "name": "Nathaniel Drinkwater",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Nathaniel Drinkwater novels",
+      "role": "Naval captain",
+      "pool": "mariners",
+      "username_base": "captain_drinkwater",
+      "tags": [],
+      "sources": [
+        "drinkwater"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "alan_lewrie",
+      "name": "Alan Lewrie",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Alan Lewrie novels",
+      "role": "Naval officer",
+      "pool": "mariners",
+      "username_base": "alan_lewrie",
+      "tags": [],
+      "sources": [
+        "lewrie"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_marlow",
+      "name": "Charles Marlow",
+      "aliases": [
+        "Marlow"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Joseph Conrad’s Marlow stories",
+      "role": "Merchant mariner and captain",
+      "pool": "mariners",
+      "username_base": "captain_marlow",
+      "tags": [],
+      "sources": [
+        "marlow"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_macwhirr",
+      "name": "Tom MacWhirr",
+      "aliases": [
+        "Captain MacWhirr"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Typhoon",
+      "role": "Steamship captain",
+      "pool": "mariners",
+      "username_base": "captain_macwhirr",
+      "tags": [],
+      "sources": [
+        "typhoon"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "mate_jukes",
+      "name": "Jukes",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Typhoon",
+      "role": "First mate",
+      "pool": "mariners",
+      "username_base": "mate_jukes",
+      "tags": [],
+      "sources": [
+        "typhoon"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "lord_jim",
+      "name": "Lord Jim",
+      "aliases": [
+        "Jim",
+        "Tuan Jim"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Lord Jim",
+      "role": "Merchant ship’s officer",
+      "pool": "mariners",
+      "username_base": "lord_jim",
+      "tags": [],
+      "sources": [
+        "jim"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "edmond_dantes",
+      "name": "Edmond Dantès",
+      "aliases": [
+        "Count of Monte Cristo",
+        "Sinbad the Sailor"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "The Count of Monte Cristo",
+      "role": "Merchant ship’s first mate",
+      "pool": "mariners",
+      "username_base": "edmond_dantes",
+      "tags": [],
+      "sources": [
+        "dantes"
+      ],
+      "note": "The Sinbad alias belongs to Dantès here; he is distinct from the Arabian Nights mariner.",
+      "shortlist": false
+    },
+    {
+      "id": "pilot_blackthorne",
+      "name": "John Blackthorne",
+      "aliases": [
+        "Anjin"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Shōgun",
+      "role": "Pilot and navigator",
+      "pool": "mariners",
+      "username_base": "pilot_blackthorne",
+      "tags": [],
+      "sources": [
+        "blackthorne"
+      ],
+      "note": "A fictional character inspired by the historical William Adams.",
+      "shortlist": true
+    },
+    {
+      "id": "billy_budd",
+      "name": "Billy Budd",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Billy Budd, Sailor",
+      "role": "Naval sailor",
+      "pool": "mariners",
+      "username_base": "billy_budd",
+      "tags": [],
+      "sources": [
+        "budd"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_vere",
+      "name": "Edward Fairfax Vere",
+      "aliases": [
+        "Captain Vere",
+        "Starry Vere"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Billy Budd, Sailor",
+      "role": "Naval captain",
+      "pool": "mariners",
+      "username_base": "captain_vere",
+      "tags": [],
+      "sources": [
+        "budd"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "john_claggart",
+      "name": "John Claggart",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Billy Budd, Sailor",
+      "role": "Master-at-arms",
+      "pool": "mariners",
+      "username_base": "john_claggart",
+      "tags": [
+        "villain"
+      ],
+      "sources": [
+        "budd"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_gulliver",
+      "name": "Lemuel Gulliver",
+      "aliases": [
+        "Gulliver"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Gulliver’s Travels",
+      "role": "Ship’s surgeon and captain",
+      "pool": "mariners",
+      "username_base": "captain_gulliver",
+      "tags": [],
+      "sources": [
+        "gulliver"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "robinson_crusoe",
+      "name": "Robinson Crusoe",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Robinson Crusoe",
+      "role": "Mariner and castaway",
+      "pool": "mariners",
+      "username_base": "robinson_crusoe",
+      "tags": [],
+      "sources": [
+        "gulliver"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "ancient_mariner",
+      "name": "The Ancient Mariner",
+      "aliases": [
+        "Ancient Mariner"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "The Rime of the Ancient Mariner",
+      "role": "Sailor",
+      "pool": "mariners",
+      "username_base": "ancient_mariner",
+      "tags": [],
+      "sources": [
+        "mariner"
+      ],
+      "note": "An unnamed character’s descriptive title.",
+      "shortlist": false
+    },
+    {
+      "id": "captain_john_walker",
+      "name": "John Walker",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Swallows and Amazons",
+      "role": "Dinghy captain",
+      "pool": "mariners",
+      "username_base": "captain_john_walker",
+      "tags": [],
+      "sources": [
+        "swallows"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "mate_susan_walker",
+      "name": "Susan Walker",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Swallows and Amazons",
+      "role": "Dinghy mate",
+      "pool": "mariners",
+      "username_base": "mate_susan_walker",
+      "tags": [],
+      "sources": [
+        "swallows"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "titty_walker",
+      "name": "Titty Walker",
+      "aliases": [
+        "Kitty Walker",
+        "Tatty Walker"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Swallows and Amazons",
+      "role": "Dinghy able seaman",
+      "pool": "mariners",
+      "username_base": "titty_walker",
+      "tags": [
+        "wording_review"
+      ],
+      "sources": [
+        "swallows"
+      ],
+      "note": "Adaptations use Kitty or Tatty; the original given name may be unsuitable for automatic assignment.",
+      "shortlist": false
+    },
+    {
+      "id": "roger_walker",
+      "name": "Roger Walker",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Swallows and Amazons",
+      "role": "Dinghy ship’s boy",
+      "pool": "mariners",
+      "username_base": "roger_walker",
+      "tags": [],
+      "sources": [
+        "swallows"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_nancy",
+      "name": "Nancy Blackett",
+      "aliases": [
+        "Ruth Blackett"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Swallows and Amazons",
+      "role": "Dinghy captain",
+      "pool": "mariners",
+      "username_base": "captain_nancy",
+      "tags": [],
+      "sources": [
+        "swallows"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "mate_peggy",
+      "name": "Peggy Blackett",
+      "aliases": [
+        "Margaret Blackett"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Swallows and Amazons",
+      "role": "Dinghy mate",
+      "pool": "mariners",
+      "username_base": "mate_peggy",
+      "tags": [],
+      "sources": [
+        "swallows"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "captain_flint_ransome",
+      "name": "James Turner",
+      "aliases": [
+        "Captain Flint",
+        "Uncle Jim"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Swallows and Amazons",
+      "role": "Houseboat resident nicknamed Captain Flint",
+      "pool": "mariners",
+      "username_base": "captain_flint_ransome",
+      "tags": [
+        "nickname_title"
+      ],
+      "sources": [
+        "swallows"
+      ],
+      "note": "Distinct from Stevenson’s pirate Captain Flint; captain is the children’s nickname.",
+      "shortlist": false
+    },
+    {
+      "id": "captain_drinian",
+      "name": "Lord Drinian",
+      "aliases": [
+        "Drinian"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "The Voyage of the Dawn Treader",
+      "role": "Ship’s captain",
+      "pool": "mariners",
+      "username_base": "captain_drinian",
+      "tags": [],
+      "sources": [
+        "dawn"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "mate_rhince",
+      "name": "Rhince",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "The Voyage of the Dawn Treader",
+      "role": "First mate",
+      "pool": "mariners",
+      "username_base": "mate_rhince",
+      "tags": [],
+      "sources": [
+        "dawn"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "caspian",
+      "name": "Caspian X",
+      "aliases": [
+        "Prince Caspian",
+        "King Caspian"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "The Voyage of the Dawn Treader",
+      "role": "King and expedition leader",
+      "pool": "mariners",
+      "username_base": "caspian",
+      "tags": [],
+      "sources": [
+        "dawn"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "reepicheep",
+      "name": "Reepicheep",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "The Voyage of the Dawn Treader",
+      "role": "Voyager",
+      "pool": "mariners",
+      "username_base": "reepicheep",
+      "tags": [],
+      "sources": [
+        "dawn"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "althea_vestrit",
+      "name": "Althea Vestrit",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Liveship Traders",
+      "role": "Sailor",
+      "pool": "mariners",
+      "username_base": "althea_vestrit",
+      "tags": [],
+      "sources": [
+        "liveship",
+        "madship"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "brashen_trell",
+      "name": "Brashen Trell",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Liveship Traders",
+      "role": "Sailor and captain",
+      "pool": "mariners",
+      "username_base": "brashen_trell",
+      "tags": [],
+      "sources": [
+        "liveship",
+        "madship"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "wintrow_vestrit",
+      "name": "Wintrow Vestrit",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Liveship Traders",
+      "role": "Liveship sailor",
+      "pool": "mariners",
+      "username_base": "wintrow_vestrit",
+      "tags": [],
+      "sources": [
+        "liveship",
+        "madship"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_kennit",
+      "name": "Kennit",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Liveship Traders",
+      "role": "Pirate captain",
+      "pool": "mariners",
+      "username_base": "captain_kennit",
+      "tags": [
+        "pirate",
+        "villain"
+      ],
+      "sources": [
+        "liveship",
+        "madship"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_meas",
+      "name": "Meas Gilbryn",
+      "aliases": [
+        "Lucky Meas"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Tide Child trilogy",
+      "role": "Shipwife: ship’s captain",
+      "pool": "mariners",
+      "username_base": "captain_meas",
+      "tags": [],
+      "sources": [
+        "tidechild"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "joron_twiner",
+      "name": "Joron Twiner",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Tide Child trilogy",
+      "role": "Shipwife, later deckkeeper",
+      "pool": "mariners",
+      "username_base": "joron_twiner",
+      "tags": [],
+      "sources": [
+        "tidechild"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "mariner_earendil",
+      "name": "Eärendil",
+      "aliases": [
+        "Earendil",
+        "Eärendel"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Tolkien’s legendarium",
+      "role": "Mariner",
+      "pool": "mariners",
+      "username_base": "mariner_earendil",
+      "tags": [],
+      "sources": [
+        "earendil"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "mariner_voronwe",
+      "name": "Voronwë",
+      "aliases": [
+        "Voronwe"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "Tolkien’s legendarium",
+      "role": "Mariner",
+      "pool": "mariners",
+      "username_base": "mariner_voronwe",
+      "tags": [],
+      "sources": [
+        "voronwe"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_haddock",
+      "name": "Captain Haddock",
+      "aliases": [
+        "Archibald Haddock",
+        "Capitaine Haddock"
+      ],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "The Adventures of Tintin",
+      "role": "Merchant marine captain",
+      "pool": "mariners",
+      "username_base": "captain_haddock",
+      "tags": [],
+      "sources": [
+        "tintin"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "captain_chester",
+      "name": "Captain Chester",
+      "aliases": [
+        "Chester"
+      ],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "The Adventures of Tintin",
+      "role": "Sea captain",
+      "pool": "mariners",
+      "username_base": "captain_chester",
+      "tags": [],
+      "sources": [
+        "tintin"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "sir_francis_haddock",
+      "name": "Sir Francis Haddock",
+      "aliases": [
+        "François de Hadoque",
+        "Chevalier François de Hadoque"
+      ],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "The Adventures of Tintin",
+      "role": "Naval captain",
+      "pool": "mariners",
+      "username_base": "sir_francis_haddock",
+      "tags": [],
+      "sources": [
+        "hadoque"
+      ],
+      "note": "English and French localizations of the same character.",
+      "shortlist": false
+    },
+    {
+      "id": "captain_allan",
+      "name": "Allan Thompson",
+      "aliases": [
+        "Allan"
+      ],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "The Adventures of Tintin",
+      "role": "Ship’s officer and captain",
+      "pool": "mariners",
+      "username_base": "captain_allan",
+      "tags": [
+        "villain"
+      ],
+      "sources": [
+        "tintinships"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "red_rackham",
+      "name": "Red Rackham",
+      "aliases": [
+        "Rackham le Rouge"
+      ],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "The Adventures of Tintin",
+      "role": "Pirate captain",
+      "pool": "mariners",
+      "username_base": "red_rackham",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "tintinships"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "popeye",
+      "name": "Popeye",
+      "aliases": [
+        "Popeye the Sailor"
+      ],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "Popeye / Thimble Theatre",
+      "role": "Sailor",
+      "pool": "mariners",
+      "username_base": "popeye",
+      "tags": [],
+      "sources": [
+        "popeye"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "sailor_bluto",
+      "name": "Bluto",
+      "aliases": [],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "Popeye / Thimble Theatre",
+      "role": "Sailor and antagonist",
+      "pool": "mariners",
+      "username_base": "sailor_bluto",
+      "tags": [
+        "villain"
+      ],
+      "sources": [
+        "popeye",
+        "bluto"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_pugwash",
+      "name": "Captain Pugwash",
+      "aliases": [
+        "Horatio Pugwash"
+      ],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "Captain Pugwash",
+      "role": "Pirate captain",
+      "pool": "mariners",
+      "username_base": "captain_pugwash",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "pugwash",
+        "pugwashcrew"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "master_mate",
+      "name": "Master Mate",
+      "aliases": [
+        "The Mate",
+        "Mr. Mate"
+      ],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "Captain Pugwash",
+      "role": "Ship’s mate",
+      "pool": "mariners",
+      "username_base": "master_mate",
+      "tags": [],
+      "sources": [
+        "pugwash",
+        "pugwashcrew"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "cabin_boy_tom",
+      "name": "Tom the Cabin Boy",
+      "aliases": [
+        "Tom"
+      ],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "Captain Pugwash",
+      "role": "Cabin boy",
+      "pool": "mariners",
+      "username_base": "cabin_boy_tom",
+      "tags": [],
+      "sources": [
+        "pugwash",
+        "pugwashcrew"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "sailor_barnabas",
+      "name": "Barnabas",
+      "aliases": [],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "Captain Pugwash",
+      "role": "Sailor",
+      "pool": "mariners",
+      "username_base": "sailor_barnabas",
+      "tags": [],
+      "sources": [
+        "pugwash",
+        "pugwashcrew"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "sailor_willy",
+      "name": "Willy",
+      "aliases": [],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "Captain Pugwash",
+      "role": "Sailor",
+      "pool": "mariners",
+      "username_base": "sailor_willy",
+      "tags": [
+        "wording_review"
+      ],
+      "sources": [
+        "pugwash",
+        "pugwashcrew"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "cut_throat_jake",
+      "name": "Cut-Throat Jake",
+      "aliases": [
+        "Captain Jake"
+      ],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "Captain Pugwash",
+      "role": "Pirate captain",
+      "pool": "mariners",
+      "username_base": "cut_throat_jake",
+      "tags": [
+        "pirate",
+        "violent_name"
+      ],
+      "sources": [
+        "pugwash",
+        "pugwashcrew"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_barnacles",
+      "name": "Captain Barnacles",
+      "aliases": [
+        "Barnacles"
+      ],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "Octonauts",
+      "role": "Undersea expedition captain",
+      "pool": "mariners",
+      "username_base": "captain_barnacles",
+      "tags": [],
+      "sources": [
+        "octonauts"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "kwazii",
+      "name": "Kwazii",
+      "aliases": [],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "Octonauts",
+      "role": "Crew member with a pirate past",
+      "pool": "mariners",
+      "username_base": "kwazii",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "octonauts"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "medic_peso",
+      "name": "Peso",
+      "aliases": [],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "Octonauts",
+      "role": "Crew medic",
+      "pool": "mariners",
+      "username_base": "medic_peso",
+      "tags": [],
+      "sources": [
+        "octonauts"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "dashi",
+      "name": "Dashi",
+      "aliases": [],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "Octonauts",
+      "role": "Crew operations specialist",
+      "pool": "mariners",
+      "username_base": "dashi",
+      "tags": [],
+      "sources": [
+        "octonauts"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "shellington",
+      "name": "Shellington",
+      "aliases": [],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "Octonauts",
+      "role": "Crew scientist",
+      "pool": "mariners",
+      "username_base": "shellington",
+      "tags": [],
+      "sources": [
+        "octonauts"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_turbot",
+      "name": "Cap’n Turbot",
+      "aliases": [
+        "Cap'n Turbot",
+        "Horatio Turbot"
+      ],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "PAW Patrol",
+      "role": "Marine explorer and captain",
+      "pool": "mariners",
+      "username_base": "captain_turbot",
+      "tags": [],
+      "sources": [
+        "captains",
+        "pawpatrol"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "captain_mccallister",
+      "name": "Horatio McCallister",
+      "aliases": [
+        "The Sea Captain",
+        "Captain McCallister"
+      ],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "The Simpsons",
+      "role": "Sea Captain character",
+      "pool": "mariners",
+      "username_base": "captain_mccallister",
+      "tags": [],
+      "sources": [
+        "captains",
+        "mccallister"
+      ],
+      "note": "The series also jokes that he is not a real sea captain.",
+      "shortlist": false
+    },
+    {
+      "id": "captain_luffy",
+      "name": "Monkey D. Luffy",
+      "aliases": [
+        "Luffy",
+        "Straw Hat Luffy"
+      ],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "One Piece",
+      "role": "Pirate captain",
+      "pool": "mariners",
+      "username_base": "captain_luffy",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "onepiece",
+        "onepiececast"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "captain_shanks",
+      "name": "Shanks",
+      "aliases": [
+        "Red-Haired Shanks"
+      ],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "One Piece",
+      "role": "Pirate captain",
+      "pool": "mariners",
+      "username_base": "captain_shanks",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "onepiece",
+        "onepiececast"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_buggy",
+      "name": "Buggy",
+      "aliases": [
+        "Buggy the Clown"
+      ],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "One Piece",
+      "role": "Pirate captain",
+      "pool": "mariners",
+      "username_base": "captain_buggy",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "onepiece",
+        "onepiececast"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_alvida",
+      "name": "Alvida",
+      "aliases": [],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "One Piece",
+      "role": "Pirate captain",
+      "pool": "mariners",
+      "username_base": "captain_alvida",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "onepiece",
+        "onepiececast"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_hancock",
+      "name": "Boa Hancock",
+      "aliases": [
+        "Pirate Empress"
+      ],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "One Piece",
+      "role": "Pirate captain",
+      "pool": "mariners",
+      "username_base": "captain_hancock",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "onepiece",
+        "onepiececast"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_roger",
+      "name": "Gol D. Roger",
+      "aliases": [
+        "Gold Roger",
+        "Pirate King"
+      ],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "One Piece",
+      "role": "Pirate captain",
+      "pool": "mariners",
+      "username_base": "captain_roger",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "onepiece",
+        "onepiececast"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "navigator_nami",
+      "name": "Nami",
+      "aliases": [],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "One Piece",
+      "role": "Navigator",
+      "pool": "mariners",
+      "username_base": "navigator_nami",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "nami"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "captain_law",
+      "name": "Trafalgar Law",
+      "aliases": [
+        "Trafalgar D. Water Law"
+      ],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "One Piece",
+      "role": "Pirate captain",
+      "pool": "mariners",
+      "username_base": "captain_law",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "law",
+        "onepiece"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_jack_sparrow",
+      "name": "Jack Sparrow",
+      "aliases": [
+        "Captain Jack Sparrow"
+      ],
+      "category": "film_tv",
+      "kind": "fiction",
+      "work_or_tradition": "Pirates of the Caribbean",
+      "role": "Pirate captain",
+      "pool": "mariners",
+      "username_base": "captain_jack_sparrow",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "pirates"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "captain_barbossa",
+      "name": "Hector Barbossa",
+      "aliases": [
+        "Captain Barbossa"
+      ],
+      "category": "film_tv",
+      "kind": "fiction",
+      "work_or_tradition": "Pirates of the Caribbean",
+      "role": "Pirate captain and privateer",
+      "pool": "mariners",
+      "username_base": "captain_barbossa",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "pirates"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "davy_jones",
+      "name": "Davy Jones",
+      "aliases": [],
+      "category": "film_tv",
+      "kind": "fiction",
+      "work_or_tradition": "Pirates of the Caribbean",
+      "role": "Supernatural ship’s captain",
+      "pool": "mariners",
+      "username_base": "davy_jones",
+      "tags": [
+        "pirate",
+        "supernatural"
+      ],
+      "sources": [
+        "pirates"
+      ],
+      "note": "This entry represents the film character; sailors’ folklore does not always portray Davy Jones as a captain.",
+      "shortlist": false
+    },
+    {
+      "id": "gibbs",
+      "name": "Joshamee Gibbs",
+      "aliases": [
+        "Mr. Gibbs"
+      ],
+      "category": "film_tv",
+      "kind": "fiction",
+      "work_or_tradition": "Pirates of the Caribbean",
+      "role": "Deckhand and shipmate",
+      "pool": "mariners",
+      "username_base": "gibbs",
+      "tags": [],
+      "sources": [
+        "pirates"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "will_turner",
+      "name": "Will Turner",
+      "aliases": [],
+      "category": "film_tv",
+      "kind": "fiction",
+      "work_or_tradition": "Pirates of the Caribbean",
+      "role": "Sailor and eventual captain",
+      "pool": "mariners",
+      "username_base": "will_turner",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "pirates"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "elizabeth_swann",
+      "name": "Elizabeth Swann",
+      "aliases": [],
+      "category": "film_tv",
+      "kind": "fiction",
+      "work_or_tradition": "Pirates of the Caribbean",
+      "role": "Pirate leader",
+      "pool": "mariners",
+      "username_base": "elizabeth_swann",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "pirates"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "pintel",
+      "name": "Pintel",
+      "aliases": [],
+      "category": "film_tv",
+      "kind": "fiction",
+      "work_or_tradition": "Pirates of the Caribbean",
+      "role": "Pirate crew member",
+      "pool": "mariners",
+      "username_base": "pintel",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "pirates"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "ragetti",
+      "name": "Ragetti",
+      "aliases": [],
+      "category": "film_tv",
+      "kind": "fiction",
+      "work_or_tradition": "Pirates of the Caribbean",
+      "role": "Pirate crew member",
+      "pool": "mariners",
+      "username_base": "ragetti",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "pirates"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "angelica",
+      "name": "Angelica",
+      "aliases": [],
+      "category": "film_tv",
+      "kind": "fiction",
+      "work_or_tradition": "Pirates of the Caribbean",
+      "role": "Sailor and pirate",
+      "pool": "mariners",
+      "username_base": "angelica",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "pirates"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "wayfinder_moana",
+      "name": "Moana",
+      "aliases": [
+        "Moana Waialiki"
+      ],
+      "category": "film_tv",
+      "kind": "fiction",
+      "work_or_tradition": "Moana — Disney adaptation",
+      "role": "Wayfinder",
+      "pool": "mariners",
+      "username_base": "wayfinder_moana",
+      "tags": [],
+      "sources": [
+        "moana"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "maui",
+      "name": "Maui",
+      "aliases": [
+        "Māui"
+      ],
+      "category": "film_tv",
+      "kind": "fiction",
+      "work_or_tradition": "Moana — Disney adaptation",
+      "role": "Voyager and demigod",
+      "pool": "mariners",
+      "username_base": "maui",
+      "tags": [
+        "adaptation"
+      ],
+      "sources": [
+        "moana"
+      ],
+      "note": "The Disney character is recorded here; this is not a catalogue entry for all Polynesian Māui traditions.",
+      "shortlist": false
+    },
+    {
+      "id": "captain_crow",
+      "name": "Captain Crow",
+      "aliases": [
+        "Crow"
+      ],
+      "category": "film_tv",
+      "kind": "fiction",
+      "work_or_tradition": "The Sea Beast",
+      "role": "Sea-monster hunting captain",
+      "pool": "mariners",
+      "username_base": "captain_crow",
+      "tags": [],
+      "sources": [
+        "seabeast",
+        "seabeastroles"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "first_mate_sharpe",
+      "name": "Sarah Sharpe",
+      "aliases": [],
+      "category": "film_tv",
+      "kind": "fiction",
+      "work_or_tradition": "The Sea Beast",
+      "role": "First mate",
+      "pool": "mariners",
+      "username_base": "first_mate_sharpe",
+      "tags": [],
+      "sources": [
+        "seabeast",
+        "seabeastroles"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "jacob_holland",
+      "name": "Jacob Holland",
+      "aliases": [],
+      "category": "film_tv",
+      "kind": "fiction",
+      "work_or_tradition": "The Sea Beast",
+      "role": "Boatswain and sea-monster hunter",
+      "pool": "mariners",
+      "username_base": "jacob_holland",
+      "tags": [],
+      "sources": [
+        "seabeast",
+        "seabeastroles"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "ren",
+      "name": "Ren",
+      "aliases": [],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "The Pirates of Dark Water",
+      "role": "Seagoing expedition leader",
+      "pool": "mariners",
+      "username_base": "ren",
+      "tags": [],
+      "sources": [
+        "darkwater"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "ioz",
+      "name": "Ioz",
+      "aliases": [],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "The Pirates of Dark Water",
+      "role": "Pirate and shipmate",
+      "pool": "mariners",
+      "username_base": "ioz",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "darkwater"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "tula",
+      "name": "Tula",
+      "aliases": [],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "The Pirates of Dark Water",
+      "role": "Shipmate and ecomancer",
+      "pool": "mariners",
+      "username_base": "tula",
+      "tags": [],
+      "sources": [
+        "darkwater"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_bloth",
+      "name": "Bloth",
+      "aliases": [],
+      "category": "comics_animation",
+      "kind": "fiction",
+      "work_or_tradition": "The Pirates of Dark Water",
+      "role": "Pirate lord",
+      "pool": "mariners",
+      "username_base": "captain_bloth",
+      "tags": [
+        "pirate",
+        "villain"
+      ],
+      "sources": [
+        "darkwater"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "skipper_grumby",
+      "name": "The Skipper",
+      "aliases": [
+        "Jonas Grumby",
+        "Captain Jonas Grumby"
+      ],
+      "category": "film_tv",
+      "kind": "fiction",
+      "work_or_tradition": "Gilligan’s Island",
+      "role": "Charter boat captain",
+      "pool": "mariners",
+      "username_base": "skipper_grumby",
+      "tags": [],
+      "sources": [
+        "gilligan"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "gilligan",
+      "name": "Gilligan",
+      "aliases": [],
+      "category": "film_tv",
+      "kind": "fiction",
+      "work_or_tradition": "Gilligan’s Island",
+      "role": "First mate",
+      "pool": "mariners",
+      "username_base": "gilligan",
+      "tags": [],
+      "sources": [
+        "gilligan"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "captain_stubing",
+      "name": "Merrill Stubing",
+      "aliases": [
+        "Captain Stubing"
+      ],
+      "category": "film_tv",
+      "kind": "fiction",
+      "work_or_tradition": "The Love Boat",
+      "role": "Cruise ship captain",
+      "pool": "mariners",
+      "username_base": "captain_stubing",
+      "tags": [],
+      "sources": [
+        "loveboat"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "captain_ron",
+      "name": "Captain Ron",
+      "aliases": [
+        "Ron Rico"
+      ],
+      "category": "film_tv",
+      "kind": "fiction",
+      "work_or_tradition": "Captain Ron",
+      "role": "Yacht skipper",
+      "pool": "mariners",
+      "username_base": "captain_ron",
+      "tags": [],
+      "sources": [
+        "ron"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "steve_zissou",
+      "name": "Steve Zissou",
+      "aliases": [],
+      "category": "film_tv",
+      "kind": "fiction",
+      "work_or_tradition": "The Life Aquatic with Steve Zissou",
+      "role": "Oceanographer and expedition leader",
+      "pool": "mariners",
+      "username_base": "steve_zissou",
+      "tags": [],
+      "sources": [
+        "zissou"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_quint",
+      "name": "Quint",
+      "aliases": [],
+      "category": "film_tv",
+      "kind": "fiction",
+      "work_or_tradition": "Jaws",
+      "role": "Fishing boat skipper",
+      "pool": "mariners",
+      "username_base": "captain_quint",
+      "tags": [],
+      "sources": [
+        "jaws"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_ramius",
+      "name": "Marko Ramius",
+      "aliases": [
+        "Marko Aleksandrovich Ramius"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "The Hunt for Red October",
+      "role": "Submarine captain",
+      "pool": "mariners",
+      "username_base": "captain_ramius",
+      "tags": [
+        "submarine"
+      ],
+      "sources": [
+        "redoctober"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "commander_mancuso",
+      "name": "Bart Mancuso",
+      "aliases": [
+        "Bartolomeo Vito Mancuso"
+      ],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "The Hunt for Red October",
+      "role": "Submarine commander",
+      "pool": "mariners",
+      "username_base": "commander_mancuso",
+      "tags": [
+        "submarine"
+      ],
+      "sources": [
+        "redoctober"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "officer_borodin",
+      "name": "Vasily Borodin",
+      "aliases": [],
+      "category": "literature",
+      "kind": "fiction",
+      "work_or_tradition": "The Hunt for Red October",
+      "role": "Submarine executive officer",
+      "pool": "mariners",
+      "username_base": "officer_borodin",
+      "tags": [
+        "submarine"
+      ],
+      "sources": [
+        "redoctober"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "guybrush_threepwood",
+      "name": "Guybrush Threepwood",
+      "aliases": [
+        "Mighty Pirate"
+      ],
+      "category": "games",
+      "kind": "fiction",
+      "work_or_tradition": "Monkey Island",
+      "role": "Pirate",
+      "pool": "mariners",
+      "username_base": "guybrush_threepwood",
+      "tags": [
+        "pirate"
+      ],
+      "sources": [
+        "monkey",
+        "dread"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "captain_lechuck",
+      "name": "LeChuck",
+      "aliases": [],
+      "category": "games",
+      "kind": "fiction",
+      "work_or_tradition": "Monkey Island",
+      "role": "Undead pirate captain",
+      "pool": "mariners",
+      "username_base": "captain_lechuck",
+      "tags": [
+        "pirate",
+        "supernatural"
+      ],
+      "sources": [
+        "monkey",
+        "dread"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_dread",
+      "name": "Captain Dread",
+      "aliases": [],
+      "category": "games",
+      "kind": "fiction",
+      "work_or_tradition": "Monkey Island 2: LeChuck’s Revenge",
+      "role": "Charter captain",
+      "pool": "mariners",
+      "username_base": "captain_dread",
+      "tags": [],
+      "sources": [
+        "capsize",
+        "dread"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "captain_capsize",
+      "name": "Captain Kate Capsize",
+      "aliases": [
+        "Kate Capsize"
+      ],
+      "category": "games",
+      "kind": "fiction",
+      "work_or_tradition": "Monkey Island 2: LeChuck’s Revenge",
+      "role": "Charter captain",
+      "pool": "mariners",
+      "username_base": "captain_capsize",
+      "tags": [],
+      "sources": [
+        "capsize",
+        "dread"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "captain_tetra",
+      "name": "Tetra",
+      "aliases": [
+        "Princess Zelda"
+      ],
+      "category": "games",
+      "kind": "fiction",
+      "work_or_tradition": "The Legend of Zelda: Phantom Hourglass",
+      "role": "Pirate captain",
+      "pool": "mariners",
+      "username_base": "captain_tetra",
+      "tags": [
+        "pirate",
+        "adaptation"
+      ],
+      "sources": [
+        "zelda"
+      ],
+      "note": "Specifically the Wind Waker / Phantom Hourglass incarnation.",
+      "shortlist": true
+    },
+    {
+      "id": "captain_linebeck",
+      "name": "Linebeck",
+      "aliases": [],
+      "category": "games",
+      "kind": "fiction",
+      "work_or_tradition": "The Legend of Zelda: Phantom Hourglass",
+      "role": "Sailor and ship’s captain",
+      "pool": "mariners",
+      "username_base": "captain_linebeck",
+      "tags": [],
+      "sources": [
+        "zelda"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "kappn",
+      "name": "Kapp’n",
+      "aliases": [
+        "Kapp'n"
+      ],
+      "category": "games",
+      "kind": "fiction",
+      "work_or_tradition": "Animal Crossing",
+      "role": "Boat-tour operator",
+      "pool": "mariners",
+      "username_base": "kappn",
+      "tags": [],
+      "sources": [
+        "kappn"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "captain_fortune",
+      "name": "Miss Fortune",
+      "aliases": [
+        "Sarah Fortune"
+      ],
+      "category": "games",
+      "kind": "fiction",
+      "work_or_tradition": "League of Legends",
+      "role": "Bilgewater captain",
+      "pool": "mariners",
+      "username_base": "captain_fortune",
+      "tags": [],
+      "sources": [
+        "fortune"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "gangplank",
+      "name": "Gangplank",
+      "aliases": [],
+      "category": "games",
+      "kind": "fiction",
+      "work_or_tradition": "League of Legends",
+      "role": "Pirate and former Bilgewater ruler",
+      "pool": "mariners",
+      "username_base": "gangplank",
+      "tags": [
+        "pirate",
+        "villain"
+      ],
+      "sources": [
+        "gangplank"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "mariner_odysseus",
+      "name": "Odysseus",
+      "aliases": [
+        "Ulysses"
+      ],
+      "category": "myth_legend",
+      "kind": "mythology",
+      "work_or_tradition": "Greek tradition / Odyssey",
+      "role": "Voyage leader",
+      "pool": "mariners",
+      "username_base": "mariner_odysseus",
+      "tags": [],
+      "sources": [
+        "odysseytext",
+        "odyssey"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "eurylochus",
+      "name": "Eurylochus",
+      "aliases": [
+        "Eurylokhos"
+      ],
+      "category": "myth_legend",
+      "kind": "mythology",
+      "work_or_tradition": "Greek tradition / Odyssey",
+      "role": "Ship’s officer",
+      "pool": "mariners",
+      "username_base": "eurylochus",
+      "tags": [],
+      "sources": [
+        "odysseytext",
+        "odyssey"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "polites",
+      "name": "Polites",
+      "aliases": [],
+      "category": "myth_legend",
+      "kind": "mythology",
+      "work_or_tradition": "Greek tradition / Odyssey",
+      "role": "Crew member",
+      "pool": "mariners",
+      "username_base": "polites",
+      "tags": [],
+      "sources": [
+        "odysseytext",
+        "odyssey"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "elpenor",
+      "name": "Elpenor",
+      "aliases": [],
+      "category": "myth_legend",
+      "kind": "mythology",
+      "work_or_tradition": "Greek tradition / Odyssey",
+      "role": "Crew member",
+      "pool": "mariners",
+      "username_base": "elpenor",
+      "tags": [],
+      "sources": [
+        "odysseytext",
+        "odyssey"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "mariner_jason",
+      "name": "Jason",
+      "aliases": [],
+      "category": "myth_legend",
+      "kind": "mythology",
+      "work_or_tradition": "Greek tradition / Argonauts",
+      "role": "Argonaut expedition leader",
+      "pool": "mariners",
+      "username_base": "mariner_jason",
+      "tags": [],
+      "sources": [
+        "argonauts",
+        "argopilot"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "helmsman_tiphys",
+      "name": "Tiphys",
+      "aliases": [],
+      "category": "myth_legend",
+      "kind": "mythology",
+      "work_or_tradition": "Greek tradition / Argonauts",
+      "role": "Argo’s helmsman",
+      "pool": "mariners",
+      "username_base": "helmsman_tiphys",
+      "tags": [],
+      "sources": [
+        "argonauts",
+        "argopilot"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "helmsman_ancaeus",
+      "name": "Ancaeus",
+      "aliases": [
+        "Ankaios"
+      ],
+      "category": "myth_legend",
+      "kind": "mythology",
+      "work_or_tradition": "Greek tradition / Argonauts",
+      "role": "Argo’s replacement helmsman",
+      "pool": "mariners",
+      "username_base": "helmsman_ancaeus",
+      "tags": [],
+      "sources": [
+        "argonauts",
+        "argopilot"
+      ],
+      "note": "The son of Poseidon in Apollonius; ancient accounts differ and include another Ancaeus.",
+      "shortlist": false
+    },
+    {
+      "id": "shipwright_argus",
+      "name": "Argus",
+      "aliases": [
+        "Argos"
+      ],
+      "category": "myth_legend",
+      "kind": "mythology",
+      "work_or_tradition": "Greek tradition / Argonauts",
+      "role": "Shipwright and Argonaut",
+      "pool": "mariners",
+      "username_base": "shipwright_argus",
+      "tags": [],
+      "sources": [
+        "argonauts",
+        "argopilot"
+      ],
+      "note": "The Argo builder; parentage and identification vary across ancient accounts.",
+      "shortlist": false
+    },
+    {
+      "id": "orpheus",
+      "name": "Orpheus",
+      "aliases": [],
+      "category": "myth_legend",
+      "kind": "mythology",
+      "work_or_tradition": "Greek tradition / Argonauts",
+      "role": "Argonaut musician",
+      "pool": "mariners",
+      "username_base": "orpheus",
+      "tags": [],
+      "sources": [
+        "argonauts",
+        "argopilot"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "euphemus",
+      "name": "Euphemus",
+      "aliases": [
+        "Euphemos"
+      ],
+      "category": "myth_legend",
+      "kind": "mythology",
+      "work_or_tradition": "Greek tradition / Argonauts",
+      "role": "Argonaut",
+      "pool": "mariners",
+      "username_base": "euphemus",
+      "tags": [],
+      "sources": [
+        "argonauts",
+        "argopilot"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "castor",
+      "name": "Castor",
+      "aliases": [],
+      "category": "myth_legend",
+      "kind": "mythology",
+      "work_or_tradition": "Greek tradition / Argonauts",
+      "role": "Argonaut",
+      "pool": "mariners",
+      "username_base": "castor",
+      "tags": [],
+      "sources": [
+        "argonauts",
+        "argopilot"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "polydeuces",
+      "name": "Polydeuces",
+      "aliases": [
+        "Pollux"
+      ],
+      "category": "myth_legend",
+      "kind": "mythology",
+      "work_or_tradition": "Greek tradition / Argonauts",
+      "role": "Argonaut",
+      "pool": "mariners",
+      "username_base": "polydeuces",
+      "tags": [],
+      "sources": [
+        "argonauts",
+        "argopilot"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "peleus",
+      "name": "Peleus",
+      "aliases": [],
+      "category": "myth_legend",
+      "kind": "mythology",
+      "work_or_tradition": "Greek tradition / Argonauts",
+      "role": "Argonaut",
+      "pool": "mariners",
+      "username_base": "peleus",
+      "tags": [],
+      "sources": [
+        "argonauts",
+        "argopilot"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "telamon",
+      "name": "Telamon",
+      "aliases": [],
+      "category": "myth_legend",
+      "kind": "mythology",
+      "work_or_tradition": "Greek tradition / Argonauts",
+      "role": "Argonaut",
+      "pool": "mariners",
+      "username_base": "telamon",
+      "tags": [],
+      "sources": [
+        "argonauts",
+        "argopilot"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "zetes",
+      "name": "Zetes",
+      "aliases": [],
+      "category": "myth_legend",
+      "kind": "mythology",
+      "work_or_tradition": "Greek tradition / Argonauts",
+      "role": "Argonaut",
+      "pool": "mariners",
+      "username_base": "zetes",
+      "tags": [],
+      "sources": [
+        "argonauts",
+        "argopilot"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "calais",
+      "name": "Calais",
+      "aliases": [],
+      "category": "myth_legend",
+      "kind": "mythology",
+      "work_or_tradition": "Greek tradition / Argonauts",
+      "role": "Argonaut",
+      "pool": "mariners",
+      "username_base": "calais",
+      "tags": [],
+      "sources": [
+        "argonauts",
+        "argopilot"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "helmsman_palinurus",
+      "name": "Palinurus",
+      "aliases": [],
+      "category": "myth_legend",
+      "kind": "mythology",
+      "work_or_tradition": "Roman tradition / Aeneid",
+      "role": "Aeneas’s helmsman",
+      "pool": "mariners",
+      "username_base": "helmsman_palinurus",
+      "tags": [],
+      "sources": [
+        "palinurus"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "mariner_aeneas",
+      "name": "Aeneas",
+      "aliases": [],
+      "category": "myth_legend",
+      "kind": "mythology",
+      "work_or_tradition": "Roman tradition / Aeneid",
+      "role": "Voyage leader",
+      "pool": "mariners",
+      "username_base": "mariner_aeneas",
+      "tags": [],
+      "sources": [
+        "aeneid"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "misenus",
+      "name": "Misenus",
+      "aliases": [],
+      "category": "myth_legend",
+      "kind": "mythology",
+      "work_or_tradition": "Roman tradition / Aeneid",
+      "role": "Ship’s trumpeter",
+      "pool": "mariners",
+      "username_base": "misenus",
+      "tags": [],
+      "sources": [
+        "aeneid"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "sinbad",
+      "name": "Sinbad the Sailor",
+      "aliases": [
+        "Sindbad",
+        "Sindibad",
+        "Sindbād"
+      ],
+      "category": "myth_legend",
+      "kind": "legend",
+      "work_or_tradition": "Arabic story tradition / Arabian Nights",
+      "role": "Mariner",
+      "pool": "mariners",
+      "username_base": "sinbad",
+      "tags": [],
+      "sources": [
+        "sinbad"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "voyager_bran",
+      "name": "Bran mac Febail",
+      "aliases": [
+        "Bran son of Febal"
+      ],
+      "category": "myth_legend",
+      "kind": "legend",
+      "work_or_tradition": "Irish voyage literature",
+      "role": "Voyage leader",
+      "pool": "mariners",
+      "username_base": "voyager_bran",
+      "tags": [],
+      "sources": [
+        "bran"
+      ],
+      "note": "Distinct from Bran the Blessed in Welsh tradition.",
+      "shortlist": false
+    },
+    {
+      "id": "nechtan",
+      "name": "Nechtán mac Collbrain",
+      "aliases": [
+        "Nechtan son of Collbran"
+      ],
+      "category": "myth_legend",
+      "kind": "legend",
+      "work_or_tradition": "Irish voyage literature",
+      "role": "Voyager in Bran’s crew",
+      "pool": "mariners",
+      "username_base": "nechtan",
+      "tags": [],
+      "sources": [
+        "bran"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "mael_duin",
+      "name": "Máel Dúin",
+      "aliases": [
+        "Mael Duin",
+        "Maeldun",
+        "Maildun"
+      ],
+      "category": "myth_legend",
+      "kind": "legend",
+      "work_or_tradition": "Irish voyage literature",
+      "role": "Voyage leader",
+      "pool": "mariners",
+      "username_base": "mael_duin",
+      "tags": [],
+      "sources": [
+        "mael"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "brendan_the_navigator",
+      "name": "Brendan the Navigator",
+      "aliases": [
+        "Saint Brendan",
+        "Brendan the Voyager"
+      ],
+      "category": "myth_legend",
+      "kind": "legend",
+      "work_or_tradition": "Irish Christian voyage legend",
+      "role": "Abbot and legendary voyager",
+      "pool": "mariners",
+      "username_base": "brendan_the_navigator",
+      "tags": [
+        "religious",
+        "history_legend"
+      ],
+      "sources": [
+        "brendan"
+      ],
+      "note": "A historical saint with a legendary voyage tradition; not simply an invented fictional character.",
+      "shortlist": false
+    },
+    {
+      "id": "captain_stormalong",
+      "name": "Alfred Bulltop Stormalong",
+      "aliases": [
+        "Old Stormalong",
+        "Old Stormy",
+        "Captain Stormalong"
+      ],
+      "category": "myth_legend",
+      "kind": "legend",
+      "work_or_tradition": "American maritime tall tales",
+      "role": "Giant sailor and captain",
+      "pool": "mariners",
+      "username_base": "captain_stormalong",
+      "tags": [],
+      "sources": [
+        "stormalong"
+      ],
+      "shortlist": true
+    },
+    {
+      "id": "captain_van_der_decken",
+      "name": "Hendrick van der Decken",
+      "aliases": [
+        "Van der Decken",
+        "Vanderdecken",
+        "Henrik van der Decken"
+      ],
+      "category": "myth_legend",
+      "kind": "legend",
+      "work_or_tradition": "Flying Dutchman tradition",
+      "role": "Cursed captain",
+      "pool": "mariners",
+      "username_base": "captain_van_der_decken",
+      "tags": [
+        "supernatural"
+      ],
+      "sources": [
+        "dutchman"
+      ],
+      "note": "One named version of the captain; names and details vary between retellings. The Flying Dutchman is generally the ship.",
+      "shortlist": false
+    },
+    {
+      "id": "urashima_taro",
+      "name": "Urashima Tarō",
+      "aliases": [
+        "Urashima Taro"
+      ],
+      "category": "myth_legend",
+      "kind": "legend",
+      "work_or_tradition": "Japanese folktale",
+      "role": "Fisherman",
+      "pool": "mariners",
+      "username_base": "urashima_taro",
+      "tags": [],
+      "sources": [
+        "urashima"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "boatman_urshanabi",
+      "name": "Urshanabi",
+      "aliases": [
+        "Sursunabu"
+      ],
+      "category": "myth_legend",
+      "kind": "mythology",
+      "work_or_tradition": "Mesopotamian tradition / Epic of Gilgamesh",
+      "role": "Boatman",
+      "pool": "mariners",
+      "username_base": "boatman_urshanabi",
+      "tags": [],
+      "sources": [
+        "urshanabi"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "ferryman_charon",
+      "name": "Charon",
+      "aliases": [],
+      "category": "myth_legend",
+      "kind": "mythology",
+      "work_or_tradition": "Greek tradition",
+      "role": "Underworld ferryman",
+      "pool": "mariners",
+      "username_base": "ferryman_charon",
+      "tags": [
+        "underworld"
+      ],
+      "sources": [
+        "charon"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "poseidon",
+      "name": "Poseidon",
+      "aliases": [],
+      "category": "sea_figures",
+      "kind": "mythology",
+      "work_or_tradition": "Greek tradition",
+      "role": "Sea god",
+      "pool": "sea_figures",
+      "username_base": "poseidon",
+      "tags": [
+        "deity"
+      ],
+      "sources": [
+        "seagods"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "amphitrite",
+      "name": "Amphitrite",
+      "aliases": [],
+      "category": "sea_figures",
+      "kind": "mythology",
+      "work_or_tradition": "Greek tradition",
+      "role": "Sea goddess",
+      "pool": "sea_figures",
+      "username_base": "amphitrite",
+      "tags": [
+        "deity"
+      ],
+      "sources": [
+        "seagods"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "triton",
+      "name": "Triton",
+      "aliases": [],
+      "category": "sea_figures",
+      "kind": "mythology",
+      "work_or_tradition": "Greek tradition",
+      "role": "Sea god and herald",
+      "pool": "sea_figures",
+      "username_base": "triton",
+      "tags": [
+        "deity"
+      ],
+      "sources": [
+        "seagods"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "nereus",
+      "name": "Nereus",
+      "aliases": [],
+      "category": "sea_figures",
+      "kind": "mythology",
+      "work_or_tradition": "Greek tradition",
+      "role": "Sea god",
+      "pool": "sea_figures",
+      "username_base": "nereus",
+      "tags": [
+        "deity"
+      ],
+      "sources": [
+        "seagods"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "proteus",
+      "name": "Proteus",
+      "aliases": [],
+      "category": "sea_figures",
+      "kind": "mythology",
+      "work_or_tradition": "Greek tradition",
+      "role": "Prophetic sea god",
+      "pool": "sea_figures",
+      "username_base": "proteus",
+      "tags": [
+        "deity"
+      ],
+      "sources": [
+        "seagods"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "neptune",
+      "name": "Neptune",
+      "aliases": [
+        "Neptunus"
+      ],
+      "category": "sea_figures",
+      "kind": "mythology",
+      "work_or_tradition": "Roman tradition",
+      "role": "Sea god",
+      "pool": "sea_figures",
+      "username_base": "neptune",
+      "tags": [
+        "deity"
+      ],
+      "sources": [
+        "seagods"
+      ],
+      "note": "Roman counterpart of Poseidon; kept separate because these are distinct named cultural traditions.",
+      "shortlist": false
+    },
+    {
+      "id": "njord",
+      "name": "Njörðr",
+      "aliases": [
+        "Njord",
+        "Njörð"
+      ],
+      "category": "sea_figures",
+      "kind": "mythology",
+      "work_or_tradition": "Norse tradition",
+      "role": "God associated with seafaring and fishing",
+      "pool": "sea_figures",
+      "username_base": "njord",
+      "tags": [
+        "deity"
+      ],
+      "sources": [
+        "njord"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "aegir",
+      "name": "Ægir",
+      "aliases": [
+        "Aegir",
+        "Hlér"
+      ],
+      "category": "sea_figures",
+      "kind": "mythology",
+      "work_or_tradition": "Norse tradition",
+      "role": "Sea jötunn",
+      "pool": "sea_figures",
+      "username_base": "aegir",
+      "tags": [
+        "sea_spirit"
+      ],
+      "sources": [
+        "aegir"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "ran",
+      "name": "Rán",
+      "aliases": [
+        "Ran"
+      ],
+      "category": "sea_figures",
+      "kind": "mythology",
+      "work_or_tradition": "Norse tradition",
+      "role": "Sea figure associated with the drowned",
+      "pool": "sea_figures",
+      "username_base": "ran",
+      "tags": [
+        "deity",
+        "drowning"
+      ],
+      "sources": [
+        "ran"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "manannan",
+      "name": "Manannán mac Lir",
+      "aliases": [
+        "Manannan mac Lir"
+      ],
+      "category": "sea_figures",
+      "kind": "mythology",
+      "work_or_tradition": "Irish and Manx traditions",
+      "role": "Sea god",
+      "pool": "sea_figures",
+      "username_base": "manannan",
+      "tags": [
+        "deity"
+      ],
+      "sources": [
+        "manannan"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "captain_birdseye",
+      "name": "Captain Birdseye",
+      "aliases": [
+        "Captain Iglo"
+      ],
+      "category": "mascots",
+      "kind": "mascot",
+      "work_or_tradition": "Birds Eye / Iglo advertising",
+      "role": "Advertising sea captain",
+      "pool": "mascots",
+      "username_base": "captain_birdseye",
+      "tags": [
+        "brand_mascot"
+      ],
+      "sources": [
+        "birdseye"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "capn_crunch",
+      "name": "Cap’n Crunch",
+      "aliases": [
+        "Cap'n Crunch",
+        "Horatio Magellan Crunch"
+      ],
+      "category": "mascots",
+      "kind": "mascot",
+      "work_or_tradition": "Cap’n Crunch cereal advertising",
+      "role": "Advertising captain",
+      "pool": "mascots",
+      "username_base": "capn_crunch",
+      "tags": [
+        "brand_mascot"
+      ],
+      "sources": [
+        "captains",
+        "crunch"
+      ],
+      "shortlist": false
+    },
+    {
+      "id": "leif_erikson",
+      "name": "Leif Erikson",
+      "aliases": [
+        "Leif Eriksson",
+        "Leifr Eiríksson"
+      ],
+      "category": "historical",
+      "kind": "historical",
+      "work_or_tradition": "Norse Atlantic voyages",
+      "role": "Norse explorer and voyager",
+      "pool": "historical_mariners",
+      "username_base": "leif_erikson",
+      "tags": [
+        "historical_person"
+      ],
+      "sources": [
+        "historical_leif_erikson"
+      ],
+      "shortlist": false,
+      "note": "Voyaged to Vinland in North America."
+    },
+    {
+      "id": "zheng_he",
+      "name": "Zheng He",
+      "aliases": [
+        "Cheng Ho"
+      ],
+      "category": "historical",
+      "kind": "historical",
+      "work_or_tradition": "Ming maritime expeditions",
+      "role": "Admiral and expedition commander",
+      "pool": "historical_mariners",
+      "username_base": "zheng_he",
+      "tags": [
+        "historical_person"
+      ],
+      "sources": [
+        "historical_zheng_he"
+      ],
+      "shortlist": false,
+      "note": "Commanded treasure fleets across the Indian Ocean."
+    },
+    {
+      "id": "christopher_columbus",
+      "name": "Christopher Columbus",
+      "aliases": [
+        "Cristoforo Colombo",
+        "Cristóbal Colón"
+      ],
+      "category": "historical",
+      "kind": "historical",
+      "work_or_tradition": "Atlantic voyages for the Crown of Castile",
+      "role": "Navigator and expedition commander",
+      "pool": "historical_mariners",
+      "username_base": "christopher_columbus",
+      "tags": [
+        "historical_person"
+      ],
+      "sources": [
+        "historical_christopher_columbus"
+      ],
+      "shortlist": false,
+      "note": "Led four transatlantic voyages beginning in 1492."
+    },
+    {
+      "id": "amerigo_vespucci",
+      "name": "Amerigo Vespucci",
+      "aliases": [],
+      "category": "historical",
+      "kind": "historical",
+      "work_or_tradition": "Atlantic exploration",
+      "role": "Navigator and explorer",
+      "pool": "historical_mariners",
+      "username_base": "amerigo_vespucci",
+      "tags": [
+        "historical_person"
+      ],
+      "sources": [
+        "historical_amerigo_vespucci"
+      ],
+      "shortlist": false,
+      "note": "Explored the South American coast; the Americas were named after him."
+    },
+    {
+      "id": "bartolomeu_dias",
+      "name": "Bartolomeu Dias",
+      "aliases": [
+        "Bartholomew Diaz"
+      ],
+      "category": "historical",
+      "kind": "historical",
+      "work_or_tradition": "Portuguese ocean exploration",
+      "role": "Navigator and expedition commander",
+      "pool": "historical_mariners",
+      "username_base": "bartolomeu_dias",
+      "tags": [
+        "historical_person"
+      ],
+      "sources": [
+        "historical_bartolomeu_dias"
+      ],
+      "shortlist": false,
+      "note": "Rounded the southern tip of Africa in 1488."
+    },
+    {
+      "id": "vasco_da_gama",
+      "name": "Vasco da Gama",
+      "aliases": [],
+      "category": "historical",
+      "kind": "historical",
+      "work_or_tradition": "Portuguese ocean exploration",
+      "role": "Navigator and expedition commander",
+      "pool": "historical_mariners",
+      "username_base": "vasco_da_gama",
+      "tags": [
+        "historical_person"
+      ],
+      "sources": [
+        "historical_vasco_da_gama"
+      ],
+      "shortlist": false,
+      "note": "Led the 1497–1499 voyage from Portugal to India around Africa."
+    },
+    {
+      "id": "john_cabot",
+      "name": "John Cabot",
+      "aliases": [
+        "Giovanni Caboto"
+      ],
+      "category": "historical",
+      "kind": "historical",
+      "work_or_tradition": "North Atlantic exploration",
+      "role": "Navigator and explorer",
+      "pool": "historical_mariners",
+      "username_base": "john_cabot",
+      "tags": [
+        "historical_person"
+      ],
+      "sources": [
+        "historical_john_cabot"
+      ],
+      "shortlist": false,
+      "note": "Sailed west from Bristol seeking a route to Asia."
+    },
+    {
+      "id": "captain_magellan",
+      "name": "Ferdinand Magellan",
+      "aliases": [
+        "Fernão de Magalhães",
+        "Fernando de Magallanes"
+      ],
+      "category": "historical",
+      "kind": "historical",
+      "work_or_tradition": "Magellan–Elcano expedition",
+      "role": "Navigator and expedition commander",
+      "pool": "historical_mariners",
+      "username_base": "captain_magellan",
+      "tags": [
+        "historical_person"
+      ],
+      "sources": [
+        "historical_captain_magellan"
+      ],
+      "shortlist": false,
+      "note": "Began the 1519–1522 expedition; died before Elcano and the remaining crew completed the circumnavigation."
+    },
+    {
+      "id": "captain_elcano",
+      "name": "Juan Sebastián Elcano",
+      "aliases": [
+        "Juan Sebastián de Elcano",
+        "Juan Sebastián del Cano",
+        "Juan Sebastian Elkano"
+      ],
+      "category": "historical",
+      "kind": "historical",
+      "work_or_tradition": "Magellan–Elcano expedition",
+      "role": "Navigator and ship’s captain",
+      "pool": "historical_mariners",
+      "username_base": "captain_elcano",
+      "tags": [
+        "historical_person"
+      ],
+      "sources": [
+        "historical_captain_elcano"
+      ],
+      "shortlist": false,
+      "note": "Commanded Victoria on the return to Spain that completed the expedition’s circumnavigation in 1522."
+    },
+    {
+      "id": "jacques_cartier",
+      "name": "Jacques Cartier",
+      "aliases": [],
+      "category": "historical",
+      "kind": "historical",
+      "work_or_tradition": "St. Lawrence voyages",
+      "role": "Navigator and explorer",
+      "pool": "historical_mariners",
+      "username_base": "jacques_cartier",
+      "tags": [
+        "historical_person"
+      ],
+      "sources": [
+        "historical_jacques_cartier"
+      ],
+      "shortlist": false,
+      "note": "Explored the Gulf and River of St. Lawrence."
+    },
+    {
+      "id": "captain_drake",
+      "name": "Francis Drake",
+      "aliases": [
+        "Sir Francis Drake"
+      ],
+      "category": "historical",
+      "kind": "historical",
+      "work_or_tradition": "Elizabethan maritime voyages",
+      "role": "Sea captain and privateer",
+      "pool": "historical_mariners",
+      "username_base": "captain_drake",
+      "tags": [
+        "historical_person"
+      ],
+      "sources": [
+        "historical_captain_drake"
+      ],
+      "shortlist": false,
+      "note": "Completed a circumnavigation in 1577–1580."
+    },
+    {
+      "id": "henry_hudson",
+      "name": "Henry Hudson",
+      "aliases": [],
+      "category": "historical",
+      "kind": "historical",
+      "work_or_tradition": "North Atlantic and Arctic exploration",
+      "role": "Sea captain and navigator",
+      "pool": "historical_mariners",
+      "username_base": "henry_hudson",
+      "tags": [
+        "historical_person"
+      ],
+      "sources": [
+        "historical_henry_hudson"
+      ],
+      "shortlist": false,
+      "note": "Sought northern sea passages to Asia."
+    },
+    {
+      "id": "abel_tasman",
+      "name": "Abel Tasman",
+      "aliases": [
+        "Abel Janszoon Tasman"
+      ],
+      "category": "historical",
+      "kind": "historical",
+      "work_or_tradition": "Dutch Pacific voyages",
+      "role": "Skipper and explorer",
+      "pool": "historical_mariners",
+      "username_base": "abel_tasman",
+      "tags": [
+        "historical_person"
+      ],
+      "sources": [
+        "historical_abel_tasman"
+      ],
+      "shortlist": false,
+      "note": "Led voyages to Tasmania and New Zealand and surveyed northern Australia."
+    },
+    {
+      "id": "captain_cook",
+      "name": "James Cook",
+      "aliases": [
+        "Captain Cook"
+      ],
+      "category": "historical",
+      "kind": "historical",
+      "work_or_tradition": "Pacific exploration and surveying",
+      "role": "Naval captain and hydrographer",
+      "pool": "historical_mariners",
+      "username_base": "captain_cook",
+      "tags": [
+        "historical_person"
+      ],
+      "sources": [
+        "historical_captain_cook"
+      ],
+      "shortlist": false,
+      "note": "Led three Pacific exploration voyages."
+    },
+    {
+      "id": "captain_vancouver",
+      "name": "George Vancouver",
+      "aliases": [
+        "Captain George Vancouver"
+      ],
+      "category": "historical",
+      "kind": "historical",
+      "work_or_tradition": "Pacific Northwest surveying",
+      "role": "Naval captain and hydrographer",
+      "pool": "historical_mariners",
+      "username_base": "captain_vancouver",
+      "tags": [
+        "historical_person"
+      ],
+      "sources": [
+        "historical_captain_vancouver"
+      ],
+      "shortlist": false,
+      "note": "Surveyed the Pacific coast of North America during the 1791–1795 expedition."
+    },
+    {
+      "id": "jeanne_baret",
+      "name": "Jeanne Baret",
+      "aliases": [
+        "Jeanne Barret",
+        "Jeanne Baré"
+      ],
+      "category": "historical",
+      "kind": "historical",
+      "work_or_tradition": "Bougainville expedition and subsequent return voyage",
+      "role": "Botanist and circumnavigator",
+      "pool": "historical_mariners",
+      "username_base": "jeanne_baret",
+      "tags": [
+        "historical_person"
+      ],
+      "sources": [
+        "historical_jeanne_baret"
+      ],
+      "shortlist": false,
+      "note": "Recognized as the first woman to complete a circumnavigation of the globe."
+    },
+    {
+      "id": "fridtjof_nansen",
+      "name": "Fridtjof Nansen",
+      "aliases": [],
+      "category": "historical",
+      "kind": "historical",
+      "work_or_tradition": "Arctic exploration aboard Fram",
+      "role": "Polar explorer and expedition leader",
+      "pool": "historical_mariners",
+      "username_base": "fridtjof_nansen",
+      "tags": [
+        "historical_person"
+      ],
+      "sources": [
+        "historical_fridtjof_nansen"
+      ],
+      "shortlist": false,
+      "note": "Led the first Fram expedition in an attempt to reach the North Pole."
+    },
+    {
+      "id": "roald_amundsen",
+      "name": "Roald Amundsen",
+      "aliases": [],
+      "category": "historical",
+      "kind": "historical",
+      "work_or_tradition": "Polar exploration",
+      "role": "Polar explorer and expedition leader",
+      "pool": "historical_mariners",
+      "username_base": "roald_amundsen",
+      "tags": [
+        "historical_person"
+      ],
+      "sources": [
+        "historical_roald_amundsen"
+      ],
+      "shortlist": false,
+      "note": "Led the first expedition to navigate the Northwest Passage."
+    },
+    {
+      "id": "ernest_shackleton",
+      "name": "Ernest Shackleton",
+      "aliases": [
+        "Sir Ernest Shackleton"
+      ],
+      "category": "historical",
+      "kind": "historical",
+      "work_or_tradition": "Antarctic exploration",
+      "role": "Polar explorer and expedition leader",
+      "pool": "historical_mariners",
+      "username_base": "ernest_shackleton",
+      "tags": [
+        "historical_person"
+      ],
+      "sources": [
+        "historical_ernest_shackleton"
+      ],
+      "shortlist": false,
+      "note": "Led the Endurance expedition and the James Caird boat journey to South Georgia."
+    },
+    {
+      "id": "captain_slocum",
+      "name": "Joshua Slocum",
+      "aliases": [
+        "Captain Joshua Slocum"
+      ],
+      "category": "historical",
+      "kind": "historical",
+      "work_or_tradition": "Solo circumnavigation aboard Spray",
+      "role": "Sea captain and solo sailor",
+      "pool": "historical_mariners",
+      "username_base": "captain_slocum",
+      "tags": [
+        "historical_person"
+      ],
+      "sources": [
+        "historical_captain_slocum"
+      ],
+      "shortlist": false,
+      "note": "Completed the first recorded solo sailing circumnavigation in 1895–1898."
+    },
+    {
+      "id": "captain_cousteau",
+      "name": "Jacques-Yves Cousteau",
+      "aliases": [
+        "Jacques Cousteau",
+        "Commandant Cousteau",
+        "Captain Cousteau"
+      ],
+      "category": "historical",
+      "kind": "historical",
+      "work_or_tradition": "Ocean exploration aboard Calypso",
+      "role": "Research vessel captain and ocean explorer",
+      "pool": "historical_mariners",
+      "username_base": "captain_cousteau",
+      "tags": [
+        "historical_person"
+      ],
+      "sources": [
+        "historical_captain_cousteau"
+      ],
+      "shortlist": false,
+      "note": "Conducted ocean expeditions aboard Calypso."
+    },
+    {
+      "id": "thor_heyerdahl",
+      "name": "Thor Heyerdahl",
+      "aliases": [],
+      "category": "historical",
+      "kind": "historical",
+      "work_or_tradition": "Kon-Tiki expedition",
+      "role": "Raft expedition leader",
+      "pool": "historical_mariners",
+      "username_base": "thor_heyerdahl",
+      "tags": [
+        "historical_person"
+      ],
+      "sources": [
+        "historical_thor_heyerdahl"
+      ],
+      "shortlist": false,
+      "note": "Led the 1947 Kon-Tiki raft voyage from Peru to Polynesia."
+    },
+    {
+      "id": "francis_chichester",
+      "name": "Francis Chichester",
+      "aliases": [
+        "Sir Francis Chichester"
+      ],
+      "category": "historical",
+      "kind": "historical",
+      "work_or_tradition": "Solo circumnavigation aboard Gipsy Moth IV",
+      "role": "Solo sailor and navigator",
+      "pool": "historical_mariners",
+      "username_base": "francis_chichester",
+      "tags": [
+        "historical_person"
+      ],
+      "sources": [
+        "historical_francis_chichester"
+      ],
+      "shortlist": false,
+      "note": "Circumnavigated solo in 1966–1967 with a stop in Sydney."
+    },
+    {
+      "id": "robin_knox_johnston",
+      "name": "Robin Knox-Johnston",
+      "aliases": [
+        "Sir Robin Knox-Johnston"
+      ],
+      "category": "historical",
+      "kind": "historical",
+      "work_or_tradition": "Solo circumnavigation aboard Suhaili",
+      "role": "Merchant navy officer and solo sailor",
+      "pool": "historical_mariners",
+      "username_base": "robin_knox_johnston",
+      "tags": [
+        "historical_person"
+      ],
+      "sources": [
+        "historical_robin_knox_johnston"
+      ],
+      "shortlist": false,
+      "note": "Completed the first solo nonstop sailing circumnavigation in 1968–1969."
+    },
+    {
+      "id": "ellen_macarthur",
+      "name": "Ellen MacArthur",
+      "aliases": [
+        "Dame Ellen MacArthur"
+      ],
+      "category": "historical",
+      "kind": "historical",
+      "work_or_tradition": "Solo ocean racing",
+      "role": "Ocean racing sailor",
+      "pool": "historical_mariners",
+      "username_base": "ellen_macarthur",
+      "tags": [
+        "historical_person"
+      ],
+      "sources": [
+        "historical_ellen_macarthur"
+      ],
+      "shortlist": false,
+      "note": "Set a solo circumnavigation speed record in 2005."
+    }
+  ],
+  "boundary_notes": [
+    {
+      "name": "Kupe",
+      "decision": "outside fictional-name pool",
+      "reason": "Māori oral histories describe an exploring ancestor; do not classify him as an invented character.",
+      "sources": [
+        "kupe"
+      ]
+    },
+    {
+      "name": "Blackbeard / Edward Teach; Anne Bonny; Mary Read; Ching Shih; William Kidd",
+      "decision": "not yet selected for historical pool",
+      "reason": "Historical pirates outside the current 25-person historical selection. Francis Drake and Zheng He now have separate historical records; fictional adaptations still require explicitly identified records.",
+      "sources": []
+    },
+    {
+      "name": "Captain Kirk; Jean-Luc Picard; Captain Harlock; Malcolm Reynolds",
+      "decision": "outside scope",
+      "reason": "Spacefaring captains without a central waterborne role.",
+      "sources": []
+    },
+    {
+      "name": "Master Bates; Seaman Staines; Roger the Cabin Boy",
+      "decision": "excluded false attributions",
+      "reason": "Not the characters in Captain Pugwash; use Master Mate and Tom the Cabin Boy.",
+      "sources": [
+        "pugwash"
+      ]
+    },
+    {
+      "name": "Flying Dutchman",
+      "decision": "not a separate default person entry",
+      "reason": "Usually a ship name; use the specifically identified captain, such as Van der Decken.",
+      "sources": [
+        "dutchman"
+      ]
+    },
+    {
+      "name": "Davy Jones — sailors’ folklore",
+      "decision": "represented by a specific film adaptation above",
+      "reason": "The folklore figure and the Pirates of the Caribbean captain should not be treated as interchangeable biographies.",
+      "sources": [
+        "pirates",
+        "dutchman"
+      ]
+    }
+  ],
+  "historical_selection": {
+    "count": 25,
+    "basis": "Editorial selection of widely known maritime explorers and sailors across early ocean voyages, polar exploration, ocean research and solo sailing. Not a measured popularity ranking.",
+    "researched_on": "2026-10-30"
+  }
+}

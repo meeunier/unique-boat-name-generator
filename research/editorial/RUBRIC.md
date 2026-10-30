@@ -1,64 +1,69 @@
-# Editorial rubric — funny boat names for auto-assigned pseudonyms
+# Name selection
 
-Every retained name may be **assigned automatically** to a stranger as their public
-display name in a boating app (think "You are now known as Pier Pressure"). Judge each
-name by: would a random boater smile on receiving it, and would nobody be embarrassed?
+These names can be assigned to someone automatically. Keep names that make sense
+without a private backstory and are suitable as a public display name.
 
-## Keep (default collection) — needs ALL of:
-1. **Actually funny or clever**: nautical wordplay (Knot My Problem, Pier Pressure, Seas
-   the Day), unexpected phrases, dry humour (Kids' Inheritance, Liquid Asset), mild
-   absurdity, ironic boat-owner self-awareness (Reel Therapy, Exit Strategy). The joke
-   must be legible from the words alone to an English-speaking boater.
-2. **Works as a person's pseudonym**: reads fine as "Hi, I'm ___". Names about the boat
-   owner's spouse/ex ("Wife's Idea", "Alimony") can still be fine if gentle; names that
-   assert something about the recipient's body, sexuality, intelligence or vices are not.
-3. **Safe**: no explicit sexual reference, no slurs, no cruelty, no drug use, no
-   religion/politics, no death/drowning/shipwreck humour, no profanity (even
-   disguised: "Ship Happens", "What the Hull" -> borderline, not keep).
-4. **Not generic**: elegant/sentimental names (Serenity, Sea Breeze, Island Girl,
-   Second Wind, Carpe Diem) are NOT funny — reject them. Plain song titles, people's
-   names, company/fleet names (AEP 101, KIRBY), and foreign phrases with no pun — reject.
-5. **Not broken**: reject truncated names (cut at 33 chars), garbled spellings, joke
-   only works with a private backstory, or the pun is so strained it needs explaining.
+## Keep
 
-## Borderline (separate list, for the product owner's judgment):
-- Mild innuendo that's probably OK but could embarrass someone: Nauti Buoy, Reel Nauti,
-  Wet Dream-adjacent, "Hooker" fishing puns, Seamen puns.
-- Alcohol jokes (Pour Decisions, Happy Ours, Shaken Knot Stirred) — funny but a heavy
-  drinking theme may be unwanted for auto-assignment.
-- Disguised profanity (Ship Happens, What the Hull, Sheet Happens).
-- Gentle digs at spouses/marriage (Alimony, Her Idea, Wife's Fault).
-- Dark-ish but mild (Unsinkable II, Titanic II).
-Do NOT put explicit or slur content in borderline — just reject it.
+A name needs a clear joke: a boating pun, dry humour, or an unusual combination.
+Examples include “Pier Pressure,” “Kids' Inheritance,” and “Tax-Deductible Walrus.”
+A nautical word by itself is not enough.
 
-## Variant handling
-Many entries are variants of one joke (KNOT FOR SAIL / KNOT 4 SAIL / KNOT FOR SALE).
-Keep the clearest spelling only; note the others in `variants`. Mark numbers-for-words
-(KNOT 2 BAD) as variants of the worded form unless the number IS the joke.
-The KNOT / REEL / SEA puns are extremely common — only keep ones that are clearly good,
-not every "KNOT <anything>".
+Check that it works as a display name, uses a clear spelling, and fits within
+32 characters. Reject truncated text, garbled spelling and jokes that need an
+explanation to be understood. Keep the explanation in the research record anyway.
 
-## Output
-Write JSONL, one object per kept or borderline name (do not output rejects):
-{"key": "<key column>", "name": "<Title Case Display Name>", "decision": "keep"|"borderline",
- "category": "<one of the categories below>", "joke": "<<= 15 words explaining the joke>",
- "variants": ["<other keys from your chunk that are the same joke>"], "reason": "<for borderline: why>"}
+Exclude explicit sexual references, slurs, targeted insults, profanity, drug use,
+political or religious references, and death, drowning or shipwreck jokes. Disguised
+profanity is excluded too. Do not assign a name that comments on the recipient's
+body, sexuality, intelligence or vices.
 
-Title Case rules: capitalise words normally ("Knot My Problem", "Seas the Day",
-"Kids' Inheritance") — restore apostrophes where obviously intended.
+Generic names such as “Serenity” and “Sea Breeze” are outside this collection.
+So are personal names, fleet labels, plain song titles and foreign phrases with
+no wordplay. The separate maritime-character research is not an approved runtime pool.
 
-Categories:
-- `knot-puns` — not/knot
-- `reel-puns` — real/reel and other fishing-tackle puns
-- `sea-puns` — see/sea, C, -sea endings
-- `dock-and-mooring` — pier, moor, dock, berth, buoy, anchor puns
-- `boat-parts` — stern, hull, keel, bow, helm, sail, oar, wake puns
-- `fishy` — fish and sea-creature puns
-- `money-pit` — boat-ownership-is-expensive humour
-- `day-job` — escaping work, on call, office jokes
-- `life-at-sea` — weather, tides, waves, nautical life puns
-- `dry-humour` — deadpan, ironic, absurd phrases without a nautical pun
-- `household` — spouse/family/permission jokes
-- `pop-culture` — gentle references (movies, idioms twisted)
+## Withhold for review
 
-Expect to keep only a few percent of what you read. Quality over quantity.
+Record plausible but unsuitable candidates in `borderline.json`, with a reason.
+This includes mild innuendo, alcohol jokes, disguised profanity, spouse-directed
+jokes and mild dark humour. “Pour Decisions,” “Ship Happens” and “Unsinkable II”
+are examples. Explicit or hateful entries should be rejected outright.
+
+Gentle household jokes still need judgment. “Kids' Inheritance” is a joke about
+boat spending; a name blaming the recipient's spouse is a different decision.
+
+## Duplicates and spelling
+
+Keep one spelling per joke. Group variants such as `KNOT FOR SAIL`, `KNOT 4 SAIL`
+and `KNOT FOR SALE`, then choose the clearest form. Treat numbers used as words as
+variants unless the number is part of the joke. Do not retain every variation of
+“Knot,” “Reel” or “Sea” just to increase the count.
+
+Use normal capitalization and restore obvious apostrophes: “Knot My Problem,”
+“Seas the Day,” “Kids' Inheritance.” Preserve source spellings in the record.
+
+## Review records
+
+Write JSONL with one object per retained or borderline name. Omit rejects.
+
+```json
+{"key":"source key","name":"Display Name","decision":"keep","category":"dry-humour","joke":"Explain the joke in 15 words or fewer.","variants":[]}
+```
+
+Use `decision: "borderline"` and add `reason` when withholding a name. Put source
+keys for other spellings in `variants`.
+
+| Category | Use |
+| --- | --- |
+| `knot-puns` | Not/knot wordplay. |
+| `reel-puns` | Real/reel and fishing-tackle wordplay. |
+| `sea-puns` | See/sea, the letter C, and sea endings. |
+| `dock-and-mooring` | Pier, moor, dock, berth, buoy and anchor puns. |
+| `boat-parts` | Stern, hull, keel, bow, helm, sail, oar and wake puns. |
+| `fishy` | Fish and sea-creature puns. |
+| `money-pit` | Boat spending. |
+| `day-job` | Work and time off. |
+| `life-at-sea` | Weather, tides, waves and boating. |
+| `dry-humour` | Deadpan or absurd phrases. |
+| `household` | Family and household jokes. |
+| `pop-culture` | References to films, songs and familiar sayings. |

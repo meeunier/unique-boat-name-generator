@@ -1,19 +1,23 @@
-# Editorial review report (dictionary 2026.10.1)
+# Name examples and original review sample
 
-## 50 funniest retained names
+The examples and sample below were recorded for dictionary `2026.10.1`. The
+current dictionary is `2026.10.2`; seeded output has changed. See the
+[SFW review](SFW_REVIEW.md) for the later exclusions.
+
+## Selected names
 
 | # | Name | Joke | Vessels |
 |---|---|---|---|
 | 1 | Pier Pressure | "Peer pressure" at the pier | 173 |
-| 2 | Knot My Problem | "Not my problem", tied up in nautical knots | 19 |
-| 3 | Liquid Asset | A liquid asset that actually sits in liquid. | 223 |
-| 4 | Latitude Adjustment | An attitude adjustment, achieved by sailing south. | 72 |
+| 2 | Knot My Problem | “Not my problem,” with knot wordplay. | 19 |
+| 3 | Liquid Asset | A financial asset on the water. | 223 |
+| 4 | Latitude Adjustment | “Attitude adjustment,” with latitude. | 72 |
 | 5 | Anchor Management | Anger management, with an anchor. | 110 |
 | 6 | Exit Strategy | Business-plan jargon for escaping to the boat | 48 |
-| 7 | Searenity Now | Seinfeld's 'Serenity now!', shouted at sea. | 114 |
+| 7 | Searenity Now | “Serenity now,” with sea wordplay. | 114 |
 | 8 | Seas the Day | "Seize the day" with seas | 272 |
 | 9 | Vitamin Sea | "Vitamin C" as the sea cure | 99 |
-| 10 | Frayed Knot | Sounds like 'afraid not' — a polite nautical no. | 46 |
+| 10 | Frayed Knot | Sounds like “afraid not.” | 46 |
 | 11 | Debt Finder | A depth finder that mostly finds debt. | 16 |
 | 12 | Squid Pro Quo | 'Quid pro quo' with a squid. | 6 |
 | 13 | Lien on Me | Bill Withers' 'Lean on Me', with a lien on the boat. | 5 |
@@ -21,14 +25,14 @@
 | 15 | Freudian Sloop | "Freudian slip" with a sloop | 4 |
 | 16 | Rode Knot Taken | Frost's 'The Road Not Taken' with anchor rode | 1 |
 | 17 | Sole Prop | Sole proprietor, and the boat's single propeller. | 1 |
-| 18 | Scope Creep | Project-management jargon meets anchor scope | 4 |
-| 19 | Buoy Vuitton | Louis Vuitton luxury, as a buoy. | 2 |
+| 18 | Scope Creep | Scope creep and anchor scope. | 4 |
+| 19 | Buoy Vuitton | Louis Vuitton, with buoy wordplay. | 2 |
 | 20 | La-Z-Buoy | The La-Z-Boy recliner, afloat. | 1 |
 | 21 | The Hull Enchilada | 'The whole enchilada' with a hull | 2 |
 | 22 | Moor Often Than Knot | 'More often than not' with a double moor/knot pun. | 2 |
 | 23 | Weather Oar Knot | Whether or not, spelled with weather, oar and knot. | 6 |
-| 24 | Docked Wages | Pay docked for skipping work to sit at the dock. | 13 |
-| 25 | Billable Ours | Billable hours that paid for something of 'ours'. | 16 |
+| 24 | Docked Wages | Docked pay and a boat dock. | 13 |
+| 25 | Billable Ours | “Billable hours,” with ours wordplay. | 16 |
 | 26 | Midlife Criseas | "Midlife crisis" bought as a boat | 5 |
 | 27 | Luna Sea | 'Lunacy' as moon and sea | 153 |
 | 28 | Plane to Sea | Plain to see; boats plane on the sea. | 39 |
@@ -38,24 +42,26 @@
 | 32 | No Egrets | No regrets, with egrets. | 3 |
 | 33 | Watertight Alibi | An airtight alibi, made seaworthy. | 8 |
 | 34 | Flight Risk | Legal term for someone likely to flee | 45 |
-| 35 | Doctor's Orders | The boat is medically prescribed. Honest. | 50 |
+| 35 | Doctor's Orders | An excuse to spend time on the boat. | 50 |
 | 36 | Kids' Inheritance | The boat is where the kids' inheritance went. | 16 |
 | 37 | Fuelish Pleasure | 'Foolish pleasure' paid for in fuel | 26 |
 | 38 | Insufishin Funds | 'Insufficient funds' after paying for fishing. | 1 |
-| 39 | Gone Fission | 'Gone fishin'' for the nuclear engineer. | 3 |
-| 40 | Sense of Porpoise | A sense of purpose, porpoise-powered. | 2 |
+| 39 | Gone Fission | “Gone fishing,” with fission. | 3 |
+| 40 | Sense of Porpoise | “Sense of purpose,” with porpoise. | 2 |
 | 41 | Knot Debaitable | 'Not debatable' with knots and bait | 1 |
 | 42 | 404 Knot Ashore | '404 Not Found' error: owner is not ashore | 1 |
 | 43 | Work-Life Buoyance | "Work-life balance" with buoyancy | 1 |
-| 44 | In a Sails Meeting | 'In a sales meeting': the office excuse while sailing. | 1 |
+| 44 | In a Sails Meeting | “Sales meeting,” with sails. | 1 |
 | 45 | Yachta Yachta Yachta | Seinfeld's 'yada yada yada' with yachts | 10 |
 | 46 | Zero Dock Thirty | The film Zero Dark Thirty, with a dock. | 1 |
 | 47 | Reelsistance Is Futile | Star Trek's 'Resistance is futile' with a reel. | 1 |
 | 48 | Angler Management | Anger management, for anglers. | 26 |
 | 49 | Wholesail Club | The warehouse 'wholesale club', for sailors. | 3 |
-| 50 | Whatever Floats Your Goat | 'Whatever floats your boat', absurdly mangled. | 1 |
+| 50 | Whatever Floats Your Goat | “Whatever floats your boat,” with goat. | 1 |
 
-## Representative batch of 100 (seed "underway-sample", default options)
+## Original 100-name sample
+
+Seed: `underway-sample`. Default options, dictionary `2026.10.1`.
 
 1. Fishin' Impossible _(curated)_
 2. Illuminauti _(curated)_
@@ -158,4 +164,4 @@
 99. Permanently Moored _(status)_
 100. Don't Tell Mom _(curated)_
 
-The full borderline list with reasons is in borderline.json.
+Withheld names and their reasons are in [borderline.json](borderline.json).

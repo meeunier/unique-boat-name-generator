@@ -26,7 +26,7 @@ try {
 
 // Global uniqueness needs a registry. Here a Set stands in for a database
 // table with a UNIQUE constraint on username.
-const taken = new Set(['pierpressure', 'knotmyproblem']);
+const taken = new Set(['pier_pressure', 'knot_my_problem']);
 const mine = await claimName(async (name) => {
   if (taken.has(name.username)) return false; // collision: try another
   taken.add(name.username); // "INSERT ... " succeeded

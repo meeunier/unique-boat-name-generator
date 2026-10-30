@@ -45,7 +45,7 @@ The Struggle Is Reel | Reelsistance Is Futile | Reel Broke
 Bankrupt Sea | Boston Sea Party | Key of Sea | Long Time No Sea | Luna Sea | Midlife Criseas
 Perpetual Mocean | Plan Sea | Plane to Sea | Sea La Vie | Sea Plus Plus | Sea Vu Play
 Sea Yawl Later | Sea-esta | Seacret Agent | Seaquel | Seas the Day | Vitamin Sea | Whoopsea
-Current Sea | Searenity Now | Tax Seaduction | E-Fish-N-Sea | Slo-Mocean | Conference Room Sea
+Current Sea | Searenity Now | E-Fish-N-Sea | Slo-Mocean | Conference Room Sea
 # dock-and-mooring
 Anchor Management | Atta Buoy | Buoy Scout | Buoys and Gulls | Buoys of Summer | Comin' In Hot
 Dock Dock Goose | Get Aweigh | La-Z-Buoy | Moor the Merrier | Oh Buoy | One Moor Time
@@ -56,7 +56,7 @@ Ace in the Hull | Achilles Keel | All Decked Out | Bad to the Bow | Barely a Wak
 Freudian Sloop | Hull in One | Hull of Fame | Hullabaloo | Ketch Ya Later | Loop Hull | Mad Props
 Mast Transit | Miss Teak | Oar Whatever | Oarganized Chaos | Resail Therapy | Rhyme Oar Reason
 Sail La Vie | Sail Pending | Sloop du Jour | Sole Prop | Stern Lecture | Stern Upbringing
-Teak Tack Tow | The 19th Hull | The Hull Enchilada | The Hull Truth | Tiller the Hun | Wake My Day
+Teak Tack Tow | The 19th Hull | The Hull Enchilada | The Hull Truth | Wake My Day
 Wholesail Club | Workahullic | Worth the Wake
 # day-job
 Aweigh on Business | Billable Ours | Board Meeting | Branch Office | Circle Back | Class Dismissed
@@ -72,12 +72,12 @@ Midlife Cruises | Misplaced Manatee | Miss Adventure | Miss Behavin' | Miss Cond
 My Therapist Insisted | Nacho Money | No Regerts | Not a Yacht Yet | Pair-o-Dice | Swear Jar Money
 Temporary Sanity | This Side Up | To Be Named Later | Toucan Play | Unsalted and Shark Free
 Water Hazard | Waterfront Property | Watertight Alibi | Weak Moment | What Was I Thinkin'
-Whatever Floats Your Goat | Yacht Know Better | Yachts of Fun | Zombies Can't Swim | Coastal Distancing
+Whatever Floats Your Goat | Yacht Know Better | Yachts of Fun | Coastal Distancing
 # fishy
 Angler Management | Bait 'n' Switch | Bill Collector | Clickbait | Conch'd Out | Crustacean Frustration
 Filet and Release | Fin Addict | Fish Tales | Fishful Thinking | Fishin' Accomplished
-Fishin' Impossible | For the Halibut | Gone Fission | Grand Fin-ally | Grouper Therapy | Just a Fluke
-Kraken Up | Krill Bill | Lone Shark | Marlin Monroe | Name That Tuna | Net Profit | Ofishal Business
+Fishin' Impossible | Gone Fission | Grand Fin-ally | Grouper Therapy | Just a Fluke
+Kraken Up | Lone Shark | Marlin Monroe | Name That Tuna | Net Profit | Ofishal Business
 One in a Marlin | Prince of Whales | Sandy Claws | Scales of Justice | Seize the Carp | Semper Fish
 Sense of Porpoise | Shake 'n Bait | Shellfish | Sir Fish-a-Lot | Sole Mate | Squid Life Crisis
 Squid Pro Quo | Tall Tails | The Codfather | Trout 'n' About | Tuna Kahuna | Insufishin Funds
@@ -90,7 +90,7 @@ Wife Preserver | Yes Dear | Kids' Inheritance | Yours, Mine and Oars
 A Riverderci | Ahoy Vey | All Paws on Deck | All Tide Up | Better Lake Than Never | Catch My Drift
 Crews Control | Good Tern | Gulf Cart | Hard to Fathom | Shore Thing | Lake It Easy
 Latitude Adjustment | Lightly Salted | Long Winded | No Egrets | Off Course | Once Upon a Tide
-Port of Indecision | Rhumb Runner | Riff Raft | Route Canal Therapy | Schooner or Later
+Port of Indecision | Riff Raft | Route Canal Therapy | Schooner or Later
 Sound Decision | Tide Me Over | Water We Doing
 # money-pit
 A Crewed Interest | A Little Broker | A Loan Again | Adventure Capital | Bail Out | Bank Owned
@@ -107,13 +107,21 @@ Brilliant Deduction
 A Little Yacht Musik | Ahoy Polloi | Anchorman | Bad Buoys | Bay Tripper | Bed, Bass & Beyond
 Boaty McBoatface | Buoy Vuitton | Call Me Ishmael | Das Boat | Dock Holiday | Family Tides
 Fiddler on the Reef | From Pier to Eternity | Hull Lotta Love | Illuminauti | Just the Tow of Us
-Kumbayacht | License to Chill | Moor Cowbell | Nautical Nonsense | New Kids on the Dock | Pulp Fishin'
-Sailbad the Sinner | Scuba Doo | Starfish Enterprise | The Big Leboatski | Tooth Ferry | Tug Life
+License to Chill | Moor Cowbell | Nautical Nonsense | New Kids on the Dock | Pulp Fishin'
+Scuba Doo | Starfish Enterprise | The Big Leboatski | Tooth Ferry | Tug Life
 We Whale Rock You | What's Up Dock | Where's the Reef | Yachta Yachta Yachta | Yachtzee
 Yachtley Crue | Yakety Yacht | Zero Dock Thirty | We're Gonna Need a Bigger Boat
 """
 
 TO_BORDERLINE = {
+    "For the Halibut": "Disguised profanity: for the hell of it.",
+    "Krill Bill": "Violent-film title pun on Kill Bill.",
+    "Kumbayacht": "Religious-song reference to Kumbaya.",
+    "Rhumb Runner": "Alcohol and smuggling pun on rum runner.",
+    "Sailbad the Sinner": "Religious wording: sinner.",
+    "Tax Seaduction": "Sexual innuendo: seduction.",
+    "Tiller the Hun": "Reference to a historical conqueror; excluded under the violence policy.",
+    "Zombies Can't Swim": "Death and drowning humour.",
     "Assisted Living": "Age joke; could sting an older user who receives it automatically.",
     "Seanior Moment": "Age/memory joke aimed at the recipient.",
     "Trophy Husband": "Gendered relationship joke about the recipient.",

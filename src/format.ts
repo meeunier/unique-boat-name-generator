@@ -1,28 +1,32 @@
 export type UsernameSeparator = '' | '_' | '-' | '.';
 
 export interface UsernameOptions {
-  /** Placed between words. Default '' ("pierpressure"). */
+  /** Placed between words and before a suffix. Default '_' ("pier_pressure"). */
   separator?: UsernameSeparator;
-  /** Appended after the words, without a separator ("pierpressure42"). */
+  /** Appended as the final token ("pier_pressure_42" with the default separator). */
   suffix?: number | null;
 }
 
 /**
- * Compact, ASCII, lowercase username for a display name.
+ * ASCII, lowercase username for a display name. Defaults to underscore separators.
  *
- *   toUsername("Kids' Inheritance")                 -> "kidsinheritance"
+ *   toUsername("Kids' Inheritance")                 -> "kids_inheritance"
  *   toUsername("Pier Pressure", { separator: '_' }) -> "pier_pressure"
- *   toUsername("Pier Pressure", { suffix: 42 })     -> "pierpressure42"
+ *   toUsername("Pier Pressure", { suffix: 42 })     -> "pier_pressure_42"
  */
 export function toUsername(display: string, options: UsernameOptions = {}): string {
-  const sep = options.separator ?? '';
+  const sep = options.separator ?? '_';
+  if (!['', '_', '-', '.'].includes(sep)) throw new TypeError('Unknown username separator.');
+  if (options.suffix != null && (!Number.isSafeInteger(options.suffix) || options.suffix < 0)) {
+    throw new RangeError('suffix must be a non-negative safe integer.');
+  }
   const words = display
     .toLowerCase()
     .replace(/['’]/g, '')
     .split(/[^a-z0-9]+/)
     .filter(Boolean);
   const base = words.join(sep);
-  return options.suffix == null ? base : `${base}${options.suffix}`;
+  return options.suffix == null ? base : [base, String(options.suffix)].filter(Boolean).join(sep);
 }
 
 /**
@@ -31,5 +35,5 @@ export function toUsername(display: string, options: UsernameOptions = {}): stri
  * never returns both in one batch.
  */
 export function nameKey(name: string): string {
-  return toUsername(name);
+  return toUsername(name, { separator: '' });
 }

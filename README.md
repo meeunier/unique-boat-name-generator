@@ -1,201 +1,256 @@
 # unique-boat-name-generator
 
-Funny nautical pseudonyms for apps that hand out display names automatically.
+Generate boat names and usernames from separate dictionaries. Boat names include
+a display label and stored code. Usernames are lowercase strings.
 
+```text
+Pier Pressure           pier_pressure
+Knot My Problem         knot_my_problem
+Tax-Deductible Walrus   tax_deductible_walrus
 ```
-Pier Pressure · Knot My Problem · Liquid Asset · Latitude Adjustment
-Technically Afloat · Tax-Deductible Walrus · Navigator Wrong Turn · Dignity Overboard
-```
 
-- **Curated jokes**: 383 boat names hand-picked from 213,875 real US-documented
-  vessel names, plus a few originals. Exact wording preserved.
-- **Designed templates**: 10 templates with hand-picked slot lists (1,340
-  combinations), each reviewed so that every combination reads as a joke.
-- **Safe to auto-assign**: no explicit, crude, cruel, political, religious or
-  drug content. Borderline jokes (innuendo, booze, "Ship Happens") are left out.
-- **Offline and tiny**: zero dependencies, no network, no filesystem, no AI at
-  runtime. About 10 kB gzipped. Works in React Native (Hermes/JSC), browsers,
-  Node ≥ 18, ESM and CommonJS.
-- **Seedable**: reproducible output for a given seed and dictionary version.
+Boat names use 375 selected names and 1,340 combinations from ten templates.
+Usernames use 47 playful fictional and legendary mariners. Every username ends
+in a random number from 1000–9999, such as `captain_haddock_4272`. The two
+dictionaries are reviewed for SFW use. Withheld entries and selection decisions
+are recorded in the research files.
 
-## Install
+The library has no runtime dependencies, network requests, or filesystem access.
+It includes TypeScript declarations, ESM and CommonJS builds, and an optional seed
+for repeatable output. Node 18 or later is required for development.
+
+## Try it
+
+This version has not been published to npm yet. Clone the repository and run:
 
 ```bash
-npm install unique-boat-name-generator
+npm ci
+npm run demo
 ```
 
-## Quick start
+Open [localhost:4173](http://127.0.0.1:4173). There is one generator for boat names and
+one for usernames. Boat results show both forms; username results show only the handle.
+Names do not repeat within a list. Reloading starts new lists.
+
+To create a package you can install in another project:
+
+```bash
+npm run build
+npm pack
+```
+
+Install the resulting `.tgz` file with `npm install /path/to/package.tgz`.
+
+## Generate names
 
 ```ts
-import { generateName, generateNames } from 'unique-boat-name-generator';
+import { generateBoatName, generateUsername } from 'unique-boat-name-generator';
 
-const name = generateName();
-// {
-//   display: 'Pier Pressure',
-//   base: 'Pier Pressure',
-//   username: 'pierpressure',
-//   suffix: null,
-//   source: 'curated',
-//   template: null,
-//   dictionaryVersion: '2026.10.1'
-// }
+const boat = generateBoatName();
+// Example: display = 'Pier Pressure', username = 'pier_pressure'
 
-generateNames(3, { suffix: true, separator: '_' }).map((n) => n.username);
-// ['to_be_named_later69', 'savings_overboard40', 'reportedly_below_deck39']
+const user = generateUsername();
+// Example: 'captain_haddock_4272'
 ```
 
-## API
+Use the boat generator when adding a boat and the username generator when
+creating a user. The dictionaries are separate. Character handles preserve the
+selected role, such as `navigator_nami`, rather than giving every character a
+captain's title.
 
-### `generateName(options?) → NautiName`
-### `generateNames(count, options?) → NautiName[]`
-
-`generateNames` never returns two names with the same username in one batch.
-
-| Option | Default | |
+| Operation | Boat names | Usernames |
 | --- | --- | --- |
-| `seed` | — | String or number. Same seed + options + `DICTIONARY_VERSION` → same output. `0` is a valid seed. |
-| `random` | `Math.random` | Custom `() => number` in [0, 1), e.g. crypto-backed. Ignored if `seed` is set. |
-| `source` | `'mixed'` | `'curated'`, `'template'` or `'mixed'`. |
-| `curatedShare` | `0.5` | Share of curated phrases in `'mixed'` mode. |
-| `suffix` | `false` | `true` appends 10–99 ("Pier Pressure 42"), or pass `{ min, max }`. |
-| `separator` | `''` | Username word separator: `''`, `'_'`, `'-'` or `'.'`. |
-| `exclude` | — | Names to skip (e.g. already taken). Matched by username, so any spelling works. |
-| `partial` | `false` | *(batch only)* Return fewer names instead of throwing when the request exceeds capacity. |
+| Generate one | `generateBoatName(options?)` | `generateUsername(options?)` |
+| Generate a batch | `generateBoatNames(count, options?)` | `generateUsernames(count, options?)` |
+| Iterate distinct names | `boatNameStream(options?)` | `usernameStream(options?)` |
+| Count possible names | `boatNameCapacity(options?)` | `usernameCapacity()` |
+| Reserve through your database | `claimBoatName(callback, options?)` | `claimUsername(callback, options?)` |
 
-A `NautiName` has `display` (readable, includes the suffix), `base` (phrase
-only), `username` (compact ASCII), `suffix`, `source`, `template` and
-`dictionaryVersion`.
+The original `generateName`, `generateNames`, `nameStream`, `capacity` and
+`claimName` exports remain aliases for boat operations.
 
-### `capacity(options?) → number`
+Boat operations accept `seed`, `random`, `exclude`, `suffix`, `separator`,
+`source` and `curatedShare`. Suffixes are off by default. `source` is `'mixed'`,
+`'curated'` or `'template'`, with `'mixed'` as the default. `curatedShare` starts at
+`0.5`. The default separator is `'_'`; `'-'`, `'.'` and `''` are also supported.
+Set `suffix: true` for 10–99 or pass an inclusive `{ min, max }` range.
 
-How many distinct names the options can produce:
+Username operations accept `seed`, `random` and `exclude`. Their format is fixed:
+lowercase words separated by underscores, followed by a random number from
+1000–9999. `generateUsername` and `claimUsername` return a string; batches return
+strings and streams yield strings. There is no separate display name or option
+to remove the number.
 
-| Options | Distinct names |
-| --- | --- |
-| `{ source: 'curated' }` | 383 |
-| `{ source: 'template' }` | 1,340 |
-| default (`'mixed'`) | 1,723 |
-| `{ suffix: true }` (10–99) | 155,070 |
-| `{ suffix: { min: 1000, max: 9999 } }` | 15,507,000 |
+`seed` can be a string or number, including zero. A custom `random` function must
+return a number in `[0, 1)` and is ignored when a seed is provided. `exclude`
+accepts an iterable of names to skip, ignoring case and separators. Both batch
+operations accept `partial: true` to return fewer results when the pool is exhausted.
 
-If you ask for more than `capacity()`, `generateNames` throws a
-`NameCapacityError` (with `.requested` and `.available`) unless
-`partial: true`. With suffixes, every phrase is used once before any phrase
-repeats with a different number, so batches stay varied.
+A `BoatName` contains `display`, `base`, `username`, `suffix`, `source`, `template`
+and `dictionaryVersion`. Its `username` field is the normalized boat code;
+`display` includes the suffix and `base` does not. Boat sources are `'curated'`
+or `'template'`.
 
-### `nameStream(options?)`
+## Store assigned values
 
-A lazy iterator over distinct names that ends after exactly `capacity()`
-names. `generateName({ seed })` equals the first item of
-`nameStream({ seed })`.
-
-### `claimName(tryClaim, options?) → Promise<NautiName>`
-
-Helper for reserving a name in your own registry (see below).
-
-### `toUsername(display, { separator?, suffix? })`
-
-`"Kids' Inheritance"` → `"kidsinheritance"`; `"Log Off, Lake On"` with `'-'` → `"log-off-lake-on"`.
-
-Also exported: `CURATED_NAMES`, `TEMPLATES`, `DICTIONARY_VERSION`, `seededRandom`.
-
-## Random is not unique
-
-This package generates names **randomly**. It guarantees no repeats **within
-one batch or stream**, and nothing more. Two devices, two server processes or
-two seeds can produce the same name. There are 1,723 base names, so without
-suffixes collisions become likely after a few dozen users (the birthday
-problem).
-
-**Global uniqueness needs a registry**, meaning your database:
-
-1. Put a `UNIQUE` constraint on the normalized username (`username` is already
-   lowercase ASCII, so a plain unique index works).
-2. Generate a candidate and try to insert it. The insert *is* the reservation,
-   so check-then-insert races are impossible.
-3. On a unique-violation, try another name. After a few collisions, switch to
-   suffixed names, which have far more room.
-
-`claimName` does steps 2–3:
+Store the boat's display name and code, and the user's username:
 
 ```ts
-import { claimName } from 'unique-boat-name-generator';
+// Boat record
+{ display: 'Pier Pressure', username: 'pier_pressure' }
 
-const name = await claimName(async (candidate) => {
+// User record
+{ username: 'captain_haddock_4272' }
+```
+
+Assign these values once and persist them. Keep user UUIDs, boat UUIDs and
+installation IDs separate. Save the boat display name as generated: its
+punctuation and capitalization cannot be reliably recovered from the stored code.
+
+`toUsername` formats a boat code without generating a name:
+
+```ts
+import { toUsername } from 'unique-boat-name-generator';
+
+toUsername("Kids' Inheritance"); // 'kids_inheritance'
+toUsername('Pier Pressure', { suffix: 42 }); // 'pier_pressure_42'
+toUsername('Pier Pressure', { separator: '-' }); // 'pier-pressure'
+```
+
+## Unique usernames
+
+Batches and streams do not repeat names. Independent calls, processes and devices
+can return the same name. A seed does not reserve a username.
+
+For unique usernames across users, add a database constraint and reserve each
+candidate with an atomic insert. Use the same separator in every process that
+writes usernames.
+
+```sql
+CREATE UNIQUE INDEX profiles_username_unique ON profiles (username);
+```
+
+`claimUsername` tries user candidates until your callback accepts one. Use
+`claimBoatName` with the same callback pattern for boat records and their own
+unique constraint:
+
+```ts
+import { claimUsername } from 'unique-boat-name-generator';
+
+const name = await claimUsername(async (username) => {
   try {
     await db.query(
-      'INSERT INTO profiles (id, pseudonym, username) VALUES ($1, $2, $3)',
-      [userId, candidate.display, candidate.username],
+      'INSERT INTO profiles (id, username) VALUES ($1, $2)',
+      [userId, username],
     );
-    return true; // reserved
-  } catch (e) {
-    if (isUniqueViolation(e)) return false; // taken, try another
-    throw e; // real errors propagate
+    return true;
+  } catch (error) {
+    if (isUsernameUniqueViolation(error)) return false;
+    throw error;
   }
-}, { suffixAfter: 5, attempts: 20 });
+}, { attempts: 20 });
 ```
 
-Candidates never repeat within a call. The first `suffixAfter` attempts use
-plain names, and later attempts add a suffix (10–99 unless you pass `suffix`).
-If every attempt collides it throws `NameClaimError`. For large user bases,
-pass `suffix: { min: 1000, max: 9999 }` from the start, or seed the call with
-names you know are taken via `exclude`.
+`db`, `userId` and `isUsernameUniqueViolation` belong to your application. The
+error check must identify the username constraint specifically. Other database
+and network errors should propagate.
 
-## Store names; don't re-derive them
+`claimUsername` always includes a four-digit number. Its `attempts` option
+defaults to 20. `claimBoatName` tries five plain names before adding suffixes. `suffixAfter`
+controls the switch when starting without suffixes; it is ignored when suffixes
+are already enabled. Boat suffix ranges can be widened with `{ min, max }`.
+The username pool has a fixed capacity of 423,000; expanding it requires more
+reviewed character names. Pass known taken names in `exclude` to skip them.
 
-Generate a name **once**, store `display` and `username` on the user record,
-and treat it as data from then on.
+If no candidate succeeds, `NameClaimError.attempts` reports how many reservation
+attempts were made. Candidates do not repeat within a call.
 
-- The pseudonym is a **display label**. Keep UUIDs, account IDs and
-  installation IDs as separate technical identifiers, and never key data on
-  the pseudonym.
-- **Dictionary updates never rename anyone**, because nothing re-generates
-  stored names.
-- **Seeded output is reproducible only within one `DICTIONARY_VERSION`.**
-  Adding, removing or reordering phrases or template words, or changing the
-  selection algorithm, changes what a seed produces. Such changes bump
-  `DICTIONARY_VERSION` and ship as a minor release (0.x: minor), never a
-  patch. If you rely on seeds (e.g. a deterministic preview before an
-  account exists), store `dictionaryVersion` alongside, or pin the package
-  version.
-- Don't use emails or other personal data as seeds. Seeds are not secret, and
-  the name would be derivable from the email.
+## Capacity
+
+Capacity is measured before exclusions.
+
+| Dictionary and options | Names |
+| --- | --- |
+| Boat names, default | 1,715 |
+| Boat names, `{ source: 'curated' }` | 375 |
+| Boat names, `{ source: 'template' }` | 1,340 |
+| Boat names, `{ suffix: true }` | 154,350 |
+| Usernames, 47 bases × 9,000 numbers | 423,000 |
+
+A batch that exceeds the available names throws `NameCapacityError`, with
+`requested` and `available` properties. Set `partial: true` to get the available
+names instead. With suffixes enabled, every base name is tried once before a base
+repeats with another number. Excluded names are skipped.
+
+## Seeds and updates
+
+Boat output includes `DICTIONARY_VERSION`; `USERNAME_DICTIONARY_VERSION` is
+exported for callers that keep username seeds. Seeded output is repeatable within
+the matching dictionary version. Changing names, template words, their order,
+or the selection algorithm can change the output.
+Those changes require a dictionary version bump and a minor package release.
+Patch releases preserve generated output.
+
+Store assigned names rather than regenerating them from a seed. This keeps names
+unchanged when the dictionary changes. If you need to regenerate output, pin the
+package version and keep the seed and dictionary version. Avoid personal data
+such as email addresses as seeds; the resulting name would be predictable.
+
+`seededRandom`, `CURATED_NAMES`, `TEMPLATES`, `USERNAME_BASES` and both dictionary
+versions are also exported.
+
+## Browser deployment
+
+The demo runs entirely in the browser. Build static files for any host:
+
+```bash
+npm run build:demo
+```
+
+The output is in `dist/web`. For a specific URL path, include its trailing slash:
+
+```bash
+npm run build:demo -- /npm-unique-boat-name-generator/
+```
+
+Copy the contents of `dist/web` to the matching directory in your site's public
+files. For the Astro site at `meunier.co`, that directory is
+`public/npm-unique-boat-name-generator/`. The next site build will include the page.
+No server function or npm publication is needed for the demo.
 
 ## React Native
 
-See [`examples/react-native/`](examples/react-native/): an anonymous user
-gets a pseudonym on first launch (reserved on the server with `claimName`)
-and keeps it after verifying an email later. The server attaches the email to
-the existing profile row, so the pseudonym and user ID don't change. The
-installation UUID stays a separate technical identifier.
+The [React Native example](examples/react-native/) shows an anonymous profile
+receiving a character username, storing it, and keeping it when an email is added
+later. Its API endpoints are placeholders for your backend. The
+[Node example](examples/node/users-and-boats.mjs) shows both generation operations.
 
-No polyfills are needed: the code targets ES2019, uses no `crypto`, `Intl`,
-`Buffer`, private class fields or BigInt, and seeded output is identical on
-Hermes, JSC and V8.
+The library targets ES2019 and uses no browser or Node-specific APIs. The example
+also requires React, React Native, AsyncStorage and a UUID source.
 
-## Where the names come from
+## Names and contributions
 
-The curated phrases were selected from the
-[boat-names-dataset](https://github.com/msquaremarinesolutions-create/boat-names-dataset)
-(M.Square Marine, MIT), which is derived from the U.S. Coast Guard's
-*Merchant Vessels of the United States* (public domain). Only vessel names
-were used. The selection process (automated filtering of 163,906 normalized
-names, then editorial review of 18,707 candidates) is documented in
-[`research/`](research/), together with every retained name's original
-source spellings, a one-line explanation of its joke, and the borderline
-names held back. None of this research data is included in the npm package.
+The curated names were selected from
+[boat-names-dataset](https://github.com/msquaremarinesolutions-create/boat-names-dataset).
+It contains USCG vessel records; this project uses only vessel names. Source
+spellings, counts and selection decisions are in [research](research/README.md).
+Character names and canonical handles come from the separate
+[mariner catalogue](research/mariners/README.md). Runtime entries are selected
+explicitly in `research/mariners/username-selection.json`. Historical people,
+deities, mascots and withheld entries are excluded. Research files are excluded
+from the npm package.
 
-## Contributing names
+To add or change a name, update `research/editorial/curated.json`, include its joke
+and provenance, and review it against the [selection criteria](research/editorial/RUBRIC.md).
+For usernames, update the character catalogue and explicit selection, then bump
+the username dictionary version in the selection file. Run `npm run data`, update
+the matching dictionary fingerprint and seeded snapshots, and add a changelog
+entry. Boat changes require a `DICTIONARY_VERSION` bump.
 
-Add a name to `research/editorial/curated.json` (with `joke`, `category` and
-`provenance`), run `npm run data`, bump `DICTIONARY_VERSION`, update the
-fingerprint in `test/data.test.ts` and the pinned output in
-`test/generator.test.ts`, and add a CHANGELOG entry. The bar: would a
-stranger smile on being assigned it, and would nobody be embarrassed?
+Run `npm run typecheck`, `npm test` and `npm run test:package`. The package check
+installs the archive in a temporary project and checks both module formats and
+TypeScript declarations. See [RELEASING.md](RELEASING.md) for npm publication.
 
 ## License
 
-MIT. See [LICENSE](LICENSE) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)
-(data provenance; algorithm credits; acknowledgement of
-[unique-names-generator](https://github.com/andreasonny83/unique-names-generator),
-whose API was a reference, though no code was copied).
+MIT. See [LICENSE](LICENSE) and [third-party notices](THIRD_PARTY_NOTICES.md).

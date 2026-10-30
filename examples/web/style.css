@@ -1,0 +1,57 @@
+@font-face {
+  font-family: 'Hanken Grotesk';
+  src: url('./fonts/HankenGrotesk.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+/* Underway light theme: src/design/tokens.ts and design/tokens/typography.css. */
+:root {
+  font-family: 'Hanken Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  color: #0f131a;
+  background: #f4f5f6;
+}
+* { box-sizing: border-box; }
+body { margin: 0; }
+a { color: #443073; }
+main { max-width: 1000px; margin: 0 auto; padding: 40px 24px; }
+header { display: flex; align-items: flex-start; justify-content: space-between; gap: 24px; margin-bottom: 32px; }
+h1 { margin: 0; font-size: 24px; line-height: 1.25; font-weight: 800; letter-spacing: -.02em; }
+header p { max-width: 560px; margin: 8px 0 0; color: #6a717b; font-size: 15px; line-height: 1.35; }
+.github { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; font-size: 13px; font-weight: 700; text-decoration: none; flex-shrink: 0; }
+.github:hover { text-decoration: underline; }
+.github svg { width: 20px; height: 20px; }
+.generators { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; align-items: start; }
+section { background: #fff; border: 1px solid #e5e7ea; border-radius: 14px; padding: 20px; }
+h2 { margin: 0; font-size: 20px; line-height: 1.25; font-weight: 800; }
+.context { margin: 4px 0 16px; color: #6a717b; font-size: 13px; }
+button {
+  width: 100%; min-height: 44px; padding: 9px 18px;
+  border: 0; border-radius: 14px;
+  background: #443073; color: #fff;
+  box-shadow: 0 2px 6px rgba(15, 19, 26, .07);
+  font: 700 15px/1.25 'Hanken Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  cursor: pointer; touch-action: manipulation;
+}
+button:hover { background: #3b2768; }
+button:active { transform: scale(.97); }
+:focus-visible { outline: 3px solid #7562a2; outline-offset: 3px; }
+button:disabled { opacity: .5; cursor: default; }
+ul { list-style: none; padding: 0; margin: 0; }
+ul:not(:empty) { margin-top: 16px; }
+li { padding: 16px 12px; font-size: 17px; font-weight: 600; line-height: 1.25; overflow-wrap: anywhere; }
+li.username { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 15px; }
+li + li { border-top: 1px solid #e5e7ea; }
+li code { display: block; margin-top: 6px; font: 400 13px/1.35 ui-monospace, SFMono-Regular, Consolas, monospace; color: #6a717b; }
+li:first-child { color: #443073; background: #f3f0fa; border-radius: 6px; }
+.error { margin: 12px 0 0; color: #ce0e0e; font-size: 13px; }
+.error:empty { display: none; }
+footer { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px 24px; margin-top: 20px; color: #6a717b; font-size: 12px; line-height: 1.35; }
+@media (max-width: 640px) {
+  main { padding: 24px 16px; }
+  header { gap: 16px; margin-bottom: 24px; }
+  h1 { font-size: 20px; }
+  header p { font-size: 13px; }
+  .generators { grid-template-columns: 1fr; gap: 16px; }
+}
