@@ -1,0 +1,4361 @@
+[
+ {
+  "name": "Frayed Knot",
+  "category": "knot-puns",
+  "joke": "Sounds like 'afraid not' — a polite nautical no.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "FRAYED KNOT": 36,
+   "FRAYED KNOT II": 2,
+   "FRAYED KNOT 3": 1,
+   "FRAYEDKNOT": 1,
+   "I'M A FRAYED KNOT": 1,
+   "KNOT A FRAYED": 1,
+   "KNOT A'FRAYED": 1,
+   "KNOT-A-FRAYED": 1,
+   "FRAYD KNOT": 1,
+   "FRAY'D KNOT II": 1
+  },
+  "vessels": 46
+ },
+ {
+  "name": "Be Knot Afrayed",
+  "category": "knot-puns",
+  "joke": "Be not afraid, with knots and frayed rope.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BE KNOT AFRAYED": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Believe It or Knot",
+  "category": "knot-puns",
+  "joke": "Ripley's 'Believe It or Not' with a knot.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BELIEVE IT OR KNOT": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Do Knot Disturb",
+  "category": "knot-puns",
+  "joke": "\"Do not disturb\" sign with a knot",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "DO KNOT DISTURB": 1,
+   "DO KNOT DISTURB II": 1
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Driving Me Knots",
+  "category": "knot-puns",
+  "joke": "Driving me nuts, with knots.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "DRIVING ME KNOTS": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Knot Again",
+  "category": "knot-puns",
+  "joke": "'Not again!' — the boat owner's eternal sigh.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KNOT AGAIN": 68,
+   "KNOT AGAIN II": 2,
+   "KNOTAGAIN": 2,
+   "KNOT AGAIN III": 1,
+   "KNOT AGAIN II AGAIN": 1
+  },
+  "vessels": 74
+ },
+ {
+  "name": "Knot Guilty",
+  "category": "knot-puns",
+  "joke": "Courtroom verdict 'not guilty' with a knot.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KNOT GUILTY": 36,
+   "KNOT GUILTY II": 3,
+   "KNOT GUILTY III": 1,
+   "KNOT GUILTY IV": 1
+  },
+  "vessels": 41
+ },
+ {
+  "name": "Knot My Problem",
+  "category": "knot-puns",
+  "joke": "\"Not my problem\", tied up in nautical knots",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KNOT MY PROBLEM": 18,
+   "KNOT A ME PROBLEM": 1
+  },
+  "vessels": 19
+ },
+ {
+  "name": "Knot Negotiable",
+  "category": "knot-puns",
+  "joke": "'Not negotiable': the boat stays.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KNOT NEGOTIABLE": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Knot Responsible",
+  "category": "knot-puns",
+  "joke": "'Not responsible': cheerful disclaimer, with a knot.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KNOT RESPONSIBLE": 25
+  },
+  "vessels": 25
+ },
+ {
+  "name": "Knot Shore",
+  "category": "knot-puns",
+  "joke": "'Not sure' via knot and shore",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KNOT SHORE": 25,
+   "FOUR SHORE": 5,
+   "KNOT 2 SHORE": 2,
+   "KNOT SO SHORE": 1
+  },
+  "vessels": 33
+ },
+ {
+  "name": "Knot So Fast",
+  "category": "knot-puns",
+  "joke": "\"Not so fast\" with knots as boat speed",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KNOT SO FAST": 27,
+   "KNOTS O'FAST": 1
+  },
+  "vessels": 28
+ },
+ {
+  "name": "Knot Tide Down",
+  "category": "knot-puns",
+  "joke": "'Not tied down', with knots and tides.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KNOT TIDE DOWN": 12
+  },
+  "vessels": 12
+ },
+ {
+  "name": "Knot Too Shabby",
+  "category": "knot-puns",
+  "joke": "'Not too shabby' — modest boat-owner pride.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KNOT BAD": 20,
+   "KNOT TOO SHABBY": 16,
+   "KNOT 2 SHABBY": 8,
+   "KNOT TO SHABBY": 3,
+   "KNOT II SHABBY": 1,
+   "KNOT BAD II": 1,
+   "KNOT TOO SH ABBY": 1,
+   "KNOT TOO SHABBY II": 1
+  },
+  "vessels": 51
+ },
+ {
+  "name": "Knot a Clew",
+  "category": "knot-puns",
+  "joke": "\"Not a clue\" using the sail's clew corner",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KNOT A CLEW": 4,
+   "KNOTACLEW": 1,
+   "STILL KNOT A CLUE": 1
+  },
+  "vessels": 6
+ },
+ {
+  "name": "Knot for Sail",
+  "category": "knot-puns",
+  "joke": "'Not for sale' — on a sailboat.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KNOT FOR SAIL": 15,
+   "KNOT 4 SAIL": 9,
+   "KNOT 4 SAIL II": 1,
+   "KNOT-4-SAIL": 1,
+   "KNOT FOR SAIIL": 1
+  },
+  "vessels": 27
+ },
+ {
+  "name": "Knot in De Nile",
+  "category": "knot-puns",
+  "joke": "'Denial isn't just a river in Egypt' gag, knotted",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KNOT IN D'NILE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Knot to Scale",
+  "category": "knot-puns",
+  "joke": "\"Not to scale\" for a boat smaller or bigger than it looks",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KNOT TO SCALE II": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Knotorious",
+  "category": "knot-puns",
+  "joke": "Notorious, tied in a knot.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KNOTORIOUS": 4
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Knotty and Nice",
+  "category": "knot-puns",
+  "joke": "Santa's 'naughty and nice' list, tied in knots.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KNOTTY & NICE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Sorry Knot Sorry",
+  "category": "knot-puns",
+  "joke": "The 'sorry not sorry' shrug, with a knot.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SORRY KNOT SORRY": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Tide the Knot",
+  "category": "knot-puns",
+  "joke": "'Tie the knot' with a tide twist",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "TIDE THE KNOT": 24,
+   "TIDE-THE-KNOT": 1
+  },
+  "vessels": 25
+ },
+ {
+  "name": "What's Knot to Love",
+  "category": "knot-puns",
+  "joke": "'What's not to love?' with a knot.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "WHAT'S KNOT TO LOVE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Why Knot",
+  "category": "knot-puns",
+  "joke": "Classic 'why not' shrug, spelled with a knot.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "WHY KNOT": 248,
+   "Y KNOT": 80,
+   "Y-KNOT": 40,
+   "YKNOT": 12,
+   "WHY KNOT II": 11,
+   "WYE KNOT": 8,
+   "Y NAUT": 5,
+   "WHY KNOT III": 5,
+   "WHY KNOT?": 5,
+   "Y-KNOT II": 3,
+   "WHY-KNOT": 3,
+   "Y KNOT II": 2,
+   "Y KNOT III": 2,
+   "WHY KNOT 2": 2,
+   "WHYKNOT": 2,
+   "WHY KNOT AGAIN": 2,
+   "Y - KNOT IV": 1,
+   "Y KNOT?": 1,
+   "Y-KNOT III": 1,
+   "WYE-KNOT II": 1,
+   "T/T WHY KNOT": 1,
+   "WHY KNOT TWO": 1,
+   "WHY KNOT!": 1,
+   "WHY-KNOT II": 1,
+   "WHYKNOT IV": 1,
+   "WHY KNOT US": 1,
+   "Y KNOT U": 1
+  },
+  "vessels": 441
+ },
+ {
+  "name": "Knot on Call",
+  "category": "knot-puns",
+  "joke": "Not on call: the boat is where work can't reach you.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KNOT ON CALL": 253,
+   "KNOT ON DUTY": 24,
+   "NAUT ON CALL": 11,
+   "KNOT ON CALL II": 5,
+   "KNOT ON-CALL": 5,
+   "NAUTONCALL": 4,
+   "KNOT ON CALL III": 3,
+   "KNOT ON CALL 2": 1,
+   "KNOT ON-CALL II": 1,
+   "KNOT-ON-CALL": 1,
+   "NAUT ON CALL II": 1
+  },
+  "vessels": 309
+ },
+ {
+  "name": "Knot Working",
+  "category": "knot-puns",
+  "joke": "Not working: the out-of-office reply, tied in a knot.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KNOT WORKING": 112,
+   "KNOTWORKING": 2,
+   "KNOT WORK'N": 2,
+   "KNOT WORK N": 1,
+   "DEFINITELY KNOT WORK'N": 1
+  },
+  "vessels": 118
+ },
+ {
+  "name": "Knot Debaitable",
+  "category": "knot-puns",
+  "joke": "'Not debatable' with knots and bait",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KNOT DE-BAIT-ABLE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "404 Knot Ashore",
+  "category": "knot-puns",
+  "joke": "'404 Not Found' error: owner is not ashore",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "404 KNOT A SHORE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Weather Oar Knot",
+  "category": "knot-puns",
+  "joke": "Whether or not, spelled with weather, oar and knot.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "WEATHER OAR KNOT": 5,
+   "WEATHER OAR KNOT III": 1
+  },
+  "vessels": 6
+ },
+ {
+  "name": "Moor Often Than Knot",
+  "category": "knot-puns",
+  "joke": "'More often than not' with a double moor/knot pun.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "MOOR OFTEN THAN KNOT": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Rode Knot Taken",
+  "category": "knot-puns",
+  "joke": "Frost's 'The Road Not Taken' with anchor rode",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "RODE KNOT TAKEN": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Do or Do Knot",
+  "category": "knot-puns",
+  "joke": "Yoda's 'Do or do not', tied in a knot.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "DO OR DO KNOT": 1,
+   "DO, OR DO KNOT": 1
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Shirley Knot",
+  "category": "knot-puns",
+  "joke": "Airplane!'s 'Surely you can't be serious... don't call me Shirley.'",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SHIRLEY KNOT": 2,
+   "SHIRLEY KNOT III": 1
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Knot in Kansas Anymore",
+  "category": "knot-puns",
+  "joke": "Wizard of Oz line, now afloat.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KNOT IN KANSAS ANYMORE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "We're Knot Getting a Boat",
+  "category": "knot-puns",
+  "joke": "Famous last words, written on a boat",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "WE'RE KNOT GETTING A BOAT": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "The Have Knots",
+  "category": "knot-puns",
+  "joke": "'The have-nots': boat owners after paying for it.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "THE HAVE KNOTS": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Knot in My Pay Grade",
+  "category": "knot-puns",
+  "joke": "Not in my pay grade, with a knot.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KNOT IN MY PAY GRADE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Knot Available",
+  "category": "knot-puns",
+  "joke": "Out on the water and \"not available\"",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KNOT AVAILABLE": 13,
+   "KNOT AVAILABLE II": 1,
+   "KNOTAVAILABLE II": 1
+  },
+  "vessels": 15
+ },
+ {
+  "name": "Fore Reel",
+  "category": "reel-puns",
+  "joke": "For real, with fore and reel.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "FORE REEL": 7,
+   "FER REEL": 1,
+   "FER-REEL": 1
+  },
+  "vessels": 9
+ },
+ {
+  "name": "Keepin' It Reel",
+  "category": "reel-puns",
+  "joke": "\"Keep it real\" with a reel",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KEEPIN IT REEL": 13,
+   "KEEPING IT REEL": 6,
+   "KEEP IT REEL": 4,
+   "KEEPIN' IT REEL": 4,
+   "KEEP'N IT REEL": 3,
+   "KEEP N IT REEL": 2,
+   "KEEPING IT REEL II": 1,
+   "KEEP'N IT REEL II": 1
+  },
+  "vessels": 34
+ },
+ {
+  "name": "Meals on Reels",
+  "category": "reel-puns",
+  "joke": "\"Meals on Wheels\" for anglers",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "MEALS ON REELS": 4
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Off the Hook",
+  "category": "reel-puns",
+  "joke": "Free of obligations, and the fish got away.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "OFF THE HOOK": 67,
+   "OFF THE HOOK 2": 1,
+   "OFF THE HOOK II": 1
+  },
+  "vessels": 69
+ },
+ {
+  "name": "Reel Deal",
+  "category": "reel-puns",
+  "joke": "'The real deal' with a fishing reel",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "REEL DEAL": 110,
+   "REEL DEAL II": 3,
+   "REEL DEAL TOO": 2,
+   "REEL DEAL III": 1,
+   "REEL & DEAL": 1,
+   "REEL N DEAL": 1
+  },
+  "vessels": 118
+ },
+ {
+  "name": "Reel Estate",
+  "category": "reel-puns",
+  "joke": "\"Real estate\" for a fishing boat",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "REEL ESTATE": 64,
+   "REEL ESTATE II": 1,
+   "REELESTATE": 1,
+   "PRIME REEL ESTATE": 1,
+   "PRIME REEL ESTATE 4": 1,
+   "PRIME REEL ESTATE III": 1,
+   "KNOT REEL ESTATE": 1
+  },
+  "vessels": 70
+ },
+ {
+  "name": "Reel Salty",
+  "category": "reel-puns",
+  "joke": "\"Really salty\": grumpy, and literally sea-salty",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "REEL SALTY": 18
+  },
+  "vessels": 18
+ },
+ {
+  "name": "Reel Therapy",
+  "category": "reel-puns",
+  "joke": "Fishing as real therapy.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "REEL THERAPY 2.0": 1,
+   "RHEEL THERAPY": 1
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Reel Time",
+  "category": "reel-puns",
+  "joke": "\"Real time\" with a fishing reel",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "REEL TIME": 115,
+   "REELTIME": 5,
+   "REEL TIME II": 3,
+   "REEL TIME 2": 1,
+   "REEL TIME III": 1,
+   "REELTIME II": 1
+  },
+  "vessels": 126
+ },
+ {
+  "name": "Reelized Gains",
+  "category": "reel-puns",
+  "joke": "Realized gains — reeled in.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "REELIZED GAINS": 4,
+   "REELIZED GAIN": 3
+  },
+  "vessels": 7
+ },
+ {
+  "name": "Sir Reel",
+  "category": "reel-puns",
+  "joke": "'Surreal', knighted with a fishing reel.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SIR REEL": 10,
+   "SIR' REEL": 2,
+   "SIR REEL II": 1,
+   "SIR-REEL": 1
+  },
+  "vessels": 14
+ },
+ {
+  "name": "Stress Reelief",
+  "category": "reel-puns",
+  "joke": "Stress relief by fishing reel.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "STRESS REELIEF": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "The Reel McCoy",
+  "category": "reel-puns",
+  "joke": "The real McCoy, fishing edition.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "THE REAL MCCOY": 5,
+   "REEL MCCOY": 3,
+   "THE REEL MCCOY": 2,
+   "REEL MC-COY": 1,
+   "REEL MCCOY II": 1,
+   "THE REAL MCCOY IV": 1,
+   "THE REAL MCCOY VI": 1
+  },
+  "vessels": 14
+ },
+ {
+  "name": "The Struggle Is Reel",
+  "category": "reel-puns",
+  "joke": "'The struggle is real', for anglers.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "THE STRUGGLE IS REEL": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Reelsistance Is Futile",
+  "category": "reel-puns",
+  "joke": "Star Trek's 'Resistance is futile' with a reel.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "REEL-SISTANCE IS FUTILE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Reel Broke",
+  "category": "reel-puns",
+  "joke": "Real broke, after buying the fishing boat.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "REEL BROKE": 10
+  },
+  "vessels": 10
+ },
+ {
+  "name": "Bankrupt Sea",
+  "category": "sea-puns",
+  "joke": "Bankruptcy, the natural end of boat ownership.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BANKRUPT SEA": 2,
+   "BANKRUPT-SEA": 2
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Boston Sea Party",
+  "category": "sea-puns",
+  "joke": "The Boston Tea Party, on the sea.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BOSTON SEA PARTY": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Key of Sea",
+  "category": "sea-puns",
+  "joke": "Key of C in music, with sea.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KEY OF SEA": 9
+  },
+  "vessels": 9
+ },
+ {
+  "name": "Long Time No Sea",
+  "category": "sea-puns",
+  "joke": "\"Long time no see\" with sea",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "LONG TIME NO SEA": 4
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Luna Sea",
+  "category": "sea-puns",
+  "joke": "'Lunacy' as moon and sea",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "LUNA SEA": 87,
+   "LUNASEA": 45,
+   "LUNA-SEA": 12,
+   "LUNA SEA II": 4,
+   "LUNASEA II": 2,
+   "LUN A SEA": 1,
+   "LUNA SEA3": 1,
+   "LUN-A-SEA": 1
+  },
+  "vessels": 153
+ },
+ {
+  "name": "Midlife Criseas",
+  "category": "sea-puns",
+  "joke": "\"Midlife crisis\" bought as a boat",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "MIDLIFE CRISEAS": 2,
+   "MID-LIFE CRISEAS": 1,
+   "MID LIFE CRY SEAS II": 1,
+   "MID-LIFE CRYSEAS": 1
+  },
+  "vessels": 5
+ },
+ {
+  "name": "Perpetual Mocean",
+  "category": "sea-puns",
+  "joke": "Perpetual motion, powered by the ocean.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "PERPETUAL MOCEAN": 2,
+   "PERPETUAL M'OCEAN": 1
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Plan Sea",
+  "category": "sea-puns",
+  "joke": "Plan C: when plans A and B fail, go boating.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "PLAN SEA": 32,
+   "PLAN SEA II": 1,
+   "PLANSEA": 1
+  },
+  "vessels": 34
+ },
+ {
+  "name": "Plane to Sea",
+  "category": "sea-puns",
+  "joke": "Plain to see; boats plane on the sea.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "PLANE TO SEA": 36,
+   "PLANE TO SEA II": 3
+  },
+  "vessels": 39
+ },
+ {
+  "name": "Sea La Vie",
+  "category": "sea-puns",
+  "joke": "'C'est la vie', spelled with the sea.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SEA LA VIE": 65,
+   "SAIL A VIE": 7,
+   "SAI LA VIE": 3,
+   "SEA LA VIE II": 2,
+   "S'EA LA VIE": 1,
+   "OUI...SEA LA VIE": 1,
+   "SAILAVIE": 1,
+   "SEA LA": 1
+  },
+  "vessels": 81
+ },
+ {
+  "name": "Sea Plus Plus",
+  "category": "sea-puns",
+  "joke": "The C++ programming language, at sea.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SEA PLUS PLUS": 2,
+   "SEAPLUSPLUS": 1
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Sea Vu Play",
+  "category": "sea-puns",
+  "joke": "S'il vous plait, with sea.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SEA VU PLAY": 6,
+   "SEA VU PLAY II": 1
+  },
+  "vessels": 7
+ },
+ {
+  "name": "Sea Yawl Later",
+  "category": "sea-puns",
+  "joke": "See y'all later, with sea and yawl (a sailboat).",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SEA Y'ALL": 9,
+   "SEA YA'LL": 2,
+   "SEA YAWL LATER": 1,
+   "SEA YOU LAYTA": 1,
+   "SEA YA LATA PAL": 1,
+   "C YOU LATER": 1,
+   "Z YOU LATER": 1,
+   "SEA Y'ALL II": 1,
+   "SEA Y'ALL III": 1
+  },
+  "vessels": 18
+ },
+ {
+  "name": "Sea-esta",
+  "category": "sea-puns",
+  "joke": "Siesta taken at sea",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SEA ESTA": 34,
+   "SEA-ESTA": 14,
+   "SEAESTA": 10,
+   "SEA ES TA": 1,
+   "SEA ESTA II": 1,
+   "SEA'ESTA": 1,
+   "SEA-ESTA'": 1
+  },
+  "vessels": 62
+ },
+ {
+  "name": "Seacret Agent",
+  "category": "sea-puns",
+  "joke": "'Secret agent' undercover at sea",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SEACRET AGENT": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Seaquel",
+  "category": "sea-puns",
+  "joke": "Sequel: usually the owner's second boat.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SEAQUEL": 62,
+   "SEA-QUEL": 4,
+   "SEA QUEL": 3,
+   "SEAQUEL II": 2
+  },
+  "vessels": 71
+ },
+ {
+  "name": "Seas the Day",
+  "category": "sea-puns",
+  "joke": "\"Seize the day\" with seas",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SEAS THE DAY": 246,
+   "SEA'S THE DAY": 11,
+   "SEAS THE DAY II": 4,
+   "SEAS THE DAY IV": 3,
+   "SEAS THE DAYS": 3,
+   "SEAS THE DAY III": 2,
+   "S.E.A.S. THE DAY": 1,
+   "SEAS THE DAY 1440": 1,
+   "SEAS THE DAY 2": 1
+  },
+  "vessels": 272
+ },
+ {
+  "name": "Vitamin Sea",
+  "category": "sea-puns",
+  "joke": "\"Vitamin C\" as the sea cure",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "VITAMIN SEA": 92,
+   "VITAMIN SEA II": 4,
+   "VITAMIN SEA III": 1,
+   "VITAMIN SEA IV": 1,
+   "VITAMIN SEA2": 1
+  },
+  "vessels": 99
+ },
+ {
+  "name": "Whoopsea",
+  "category": "sea-puns",
+  "joke": "\"Whoopsie\" with sea",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "WHOOP-SEA": 2,
+   "WHOOP SEA": 1
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Current Sea",
+  "category": "sea-puns",
+  "joke": "\"Currency\" as an ocean current",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "CURRENT SEA": 13,
+   "CURRENTSEA": 6,
+   "CURRENT-SEA": 3,
+   "CURRENT SEA II": 1
+  },
+  "vessels": 23
+ },
+ {
+  "name": "Searenity Now",
+  "category": "sea-puns",
+  "joke": "Seinfeld's 'Serenity now!', shouted at sea.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SEARENITY": 59,
+   "SEA-RENITY": 24,
+   "SEA RENITY": 11,
+   "SEARENITY NOW": 7,
+   "SEA-RENITY NOW": 3,
+   "SEA RENITY NOW": 2,
+   "SEARENITY II": 2,
+   "SEA-RENITY II": 2,
+   "SEA RENITY II": 1,
+   "SEA RENITY III": 1,
+   "SEA'RENITY": 1,
+   "SEARENITY TOO": 1
+  },
+  "vessels": 114
+ },
+ {
+  "name": "Tax Seaduction",
+  "category": "sea-puns",
+  "joke": "The tax deduction that justified the boat.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "TAX SEADUCTION": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "E-Fish-N-Sea",
+  "category": "sea-puns",
+  "joke": "'Efficiency', spelled with fish and sea.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "E FISH N SEA": 1,
+   "E-FISH'N-SEA": 1,
+   "E-FISH-N-SEA II": 1
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Slo-Mocean",
+  "category": "sea-puns",
+  "joke": "Slow motion on the ocean.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SLO MOCEAN": 5,
+   "SLO-MO": 4,
+   "SLO-M' OCEAN": 1,
+   "SLOMOCEAN": 1,
+   "SLO-MOCEAN": 1
+  },
+  "vessels": 12
+ },
+ {
+  "name": "Conference Room Sea",
+  "category": "sea-puns",
+  "joke": "'Conference Room C', the best meeting room.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "CONFERENCE ROOM SEA": 4
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Anchor Management",
+  "category": "dock-and-mooring",
+  "joke": "Anger management, with an anchor.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "ANCHOR MANAGEMENT": 99,
+   "ANCHOR MANAGEMENT II": 9,
+   "ANCHOR MANAGEMENT V": 1,
+   "ANCHORMANAGEMENT II": 1
+  },
+  "vessels": 110
+ },
+ {
+  "name": "Atta Buoy",
+  "category": "dock-and-mooring",
+  "joke": "\"Attaboy\" with a buoy",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "ATTA BUOY": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Buoy Scout",
+  "category": "dock-and-mooring",
+  "joke": "A Boy Scout, buoy edition.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BUOY SCOUT": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Buoys and Gulls",
+  "category": "dock-and-mooring",
+  "joke": "\"Boys and girls\" as buoys and gulls",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BUOYS & GULLS": 4,
+   "BUOYS 'N GULLS": 1
+  },
+  "vessels": 5
+ },
+ {
+  "name": "Buoys of Summer",
+  "category": "dock-and-mooring",
+  "joke": "Don Henley's 'Boys of Summer', buoyed.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BUOYS OF SUMMER": 2,
+   "BUOYS OF SUMMER II": 1
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Comin' In Hot",
+  "category": "dock-and-mooring",
+  "joke": "Every boater's docking warning",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "COMIN IN HOT": 9,
+   "COMIN' IN HOT": 8,
+   "COMIN'IN HOT": 1
+  },
+  "vessels": 18
+ },
+ {
+  "name": "Dock Dock Goose",
+  "category": "dock-and-mooring",
+  "joke": "\"Duck duck goose\" at the dock",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "DOCK DOCK GOOSE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Get Aweigh",
+  "category": "dock-and-mooring",
+  "joke": "Getaway, plus anchors aweigh.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "GET AWEIGH": 5,
+   "GET A WEIGH": 2,
+   "GETAWEIGH": 2,
+   "DRIFT AWEIGH": 1
+  },
+  "vessels": 10
+ },
+ {
+  "name": "La-Z-Buoy",
+  "category": "dock-and-mooring",
+  "joke": "The La-Z-Boy recliner, afloat.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "LA-Z-BUOY": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Moor the Merrier",
+  "category": "dock-and-mooring",
+  "joke": "'The more the merrier' at the mooring.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "MOOR THE MERRIER": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Oh Buoy",
+  "category": "dock-and-mooring",
+  "joke": "\"Oh boy\" with a buoy",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "OH BUOY": 6,
+   "OH BUOY II": 1
+  },
+  "vessels": 7
+ },
+ {
+  "name": "One Moor Time",
+  "category": "dock-and-mooring",
+  "joke": "'One more time': mooring up yet again.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "ONE MOOR TIME": 13,
+   "JUST ONE MOOR": 8,
+   "ONE MOORE": 3,
+   "ONE MOORE TIME": 2,
+   "ONE MOOR TYME": 1,
+   "ONEMOORE": 1
+  },
+  "vessels": 28
+ },
+ {
+  "name": "Out Til Mooring",
+  "category": "dock-and-mooring",
+  "joke": "'Out till morning', then back to the mooring.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "OUT TIL MOORING": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Pair o' Docs",
+  "category": "dock-and-mooring",
+  "joke": "'Paradox' as a pair of docs: doctors at the docks.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "PAIR O'DOCS": 4,
+   "PAIR O DOCS": 1,
+   "PAIR O' DOCS": 1,
+   "PAIRODOCS": 1,
+   "PAIR-O-DOCS": 1
+  },
+  "vessels": 8
+ },
+ {
+  "name": "Paper Buoy",
+  "category": "dock-and-mooring",
+  "joke": "Paperboy, but a buoy.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "PAPER BUOY": 3,
+   "PAPERBUOY": 1,
+   "NEWS BUOY II": 1
+  },
+  "vessels": 5
+ },
+ {
+  "name": "Pier Group",
+  "category": "dock-and-mooring",
+  "joke": "'Peer group': your friends on the dock.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "PIER GROUP": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Pier Pressure",
+  "category": "dock-and-mooring",
+  "joke": "\"Peer pressure\" at the pier",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "PIER PRESSURE": 165,
+   "PIER PRESSURE 2": 2,
+   "PIER PRESSURE II": 2,
+   "PIER PRESSURE III": 1,
+   "PIER PRESSURE TOO": 1,
+   "PIER PRESSURE V": 1,
+   "MORE PIER PRESSURE": 1
+  },
+  "vessels": 173
+ },
+ {
+  "name": "Pier Review",
+  "category": "dock-and-mooring",
+  "joke": "Peer review, conducted from the dock.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "PIER REVIEW": 1,
+   "PIER REVIEW II": 1,
+   "PIER REVIEW XI": 1,
+   "PIER-REVIEWED": 1
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Rock Around the Dock",
+  "category": "dock-and-mooring",
+  "joke": "\"Rock Around the Clock\" at the dock",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "ROCK AROUND THE DOCK": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Slip Aweigh",
+  "category": "dock-and-mooring",
+  "joke": "'Slip away' from the slip, anchors aweigh",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SLIP AWEIGH": 11
+  },
+  "vessels": 11
+ },
+ {
+  "name": "Yeah Buoy",
+  "category": "dock-and-mooring",
+  "joke": "Yeah boy! spelled with a buoy.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "YEAH BUOY": 9,
+   "YEAH, BUOY!": 1
+  },
+  "vessels": 10
+ },
+ {
+  "name": "Buoy Low Sell High",
+  "category": "dock-and-mooring",
+  "joke": "Investing's 'buy low, sell high' with a buoy.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BUOY LOW, SELL HIGH": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Ace in the Hull",
+  "category": "boat-parts",
+  "joke": "Ace in the hole, with hull.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "ACE IN THE HULL": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Achilles Keel",
+  "category": "boat-parts",
+  "joke": "Achilles' heel, with a keel.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "ACHILLES KEEL": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "All Decked Out",
+  "category": "boat-parts",
+  "joke": "\"All decked out\" with a deck",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "ALL DECKED OUT": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Bad to the Bow",
+  "category": "boat-parts",
+  "joke": "\"Bad to the Bone\" with the bow",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BAD TO THE BOW": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Barely a Wake",
+  "category": "boat-parts",
+  "joke": "Slow boat, sleepy skipper: barely awake.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BARELY A WAKE": 5,
+   "BARELY A-WAKE": 3,
+   "BARELY-A-WAKE": 2,
+   "BARELY AWAKE": 1
+  },
+  "vessels": 11
+ },
+ {
+  "name": "Fender Bender",
+  "category": "boat-parts",
+  "joke": "A minor crash; boat fenders take the hits.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "FENDER BENDER": 11
+  },
+  "vessels": 11
+ },
+ {
+  "name": "Freudian Sloop",
+  "category": "boat-parts",
+  "joke": "\"Freudian slip\" with a sloop",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "FREUDIAN SLOOP": 4
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Hull in One",
+  "category": "boat-parts",
+  "joke": "\"Hole in one\" golf pun with hull",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "HULL IN ONE": 4,
+   "HULL-IN-ONE": 1
+  },
+  "vessels": 5
+ },
+ {
+  "name": "Hull of Fame",
+  "category": "boat-parts",
+  "joke": "\"Hall of Fame\" with hull",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "HULL OF FAME": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Hullabaloo",
+  "category": "boat-parts",
+  "joke": "A real word for uproar that starts with hull",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "HULLABALOO": 17
+  },
+  "vessels": 17
+ },
+ {
+  "name": "Ketch Ya Later",
+  "category": "boat-parts",
+  "joke": "'Catch you later' with a ketch",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KETCH YA LATER": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Loop Hull",
+  "category": "boat-parts",
+  "joke": "A loophole, found in the hull.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "LOOP HULL": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Mad Props",
+  "category": "boat-parts",
+  "joke": "Slang for respect; also propellers.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "MAD PROPS": 4
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Mast Transit",
+  "category": "boat-parts",
+  "joke": "\"Mass transit\" by sailboat mast",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "MAST TRANSIT": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Miss Teak",
+  "category": "boat-parts",
+  "joke": "A mistake, finished in teak.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "MISS TEAK": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Oar Whatever",
+  "category": "boat-parts",
+  "joke": "Teenage shrug \"or whatever\" with an oar",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "OAR WHATEVER": 1,
+   "OAR WHAT": 1
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Oarganized Chaos",
+  "category": "boat-parts",
+  "joke": "'Organized chaos' with oars",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "OAR-GANIZED CHAOS": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Resail Therapy",
+  "category": "boat-parts",
+  "joke": "\"Retail therapy\" with sailing",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "RESAIL THERAPY": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Rhyme Oar Reason",
+  "category": "boat-parts",
+  "joke": "\"Rhyme or reason\" with an oar",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "RHYME-OAR-REASON": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Sail La Vie",
+  "category": "boat-parts",
+  "joke": "\"C'est la vie\" with sail",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SAIL LA VIE": 49,
+   "SAIL-LA-VIE": 3,
+   "S'AIL LA VIE": 1,
+   "SAIL LA VIE II": 1,
+   "SAIL LA VIE III": 1,
+   "SAIL LAVIE": 1,
+   "SAIL LA'VIE": 1,
+   "SAILLAVIE": 1
+  },
+  "vessels": 58
+ },
+ {
+  "name": "Sail Pending",
+  "category": "boat-parts",
+  "joke": "'Sale pending' listing tag, for a sailboat.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SAIL PENDING": 8,
+   "SAIL PENDING II": 1
+  },
+  "vessels": 9
+ },
+ {
+  "name": "Sloop du Jour",
+  "category": "boat-parts",
+  "joke": "\"Soup du jour\" with a sloop",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SLOOP DU JOUR": 6
+  },
+  "vessels": 6
+ },
+ {
+  "name": "Sole Prop",
+  "category": "boat-parts",
+  "joke": "Sole proprietor, and the boat's single propeller.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SOLE PROP": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Stern Lecture",
+  "category": "boat-parts",
+  "joke": "A stern talking-to, from the stern",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "STERN LECTURE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Stern Upbringing",
+  "category": "boat-parts",
+  "joke": "A strict upbringing, raised at the stern.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "STERN UPBRINGING": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Teak Tack Tow",
+  "category": "boat-parts",
+  "joke": "\"Tic-tac-toe\" in boating terms",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "TEAK TACK TOW": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "The 19th Hull",
+  "category": "boat-parts",
+  "joke": "Golf's 19th hole, but afloat.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "THE 19TH HULL": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "The Hull Enchilada",
+  "category": "boat-parts",
+  "joke": "'The whole enchilada' with a hull",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "THE HULL ENCHILADA": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "The Hull Truth",
+  "category": "boat-parts",
+  "joke": "'The whole truth', with a hull.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "THE HULL TRUTH": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Tiller the Hun",
+  "category": "boat-parts",
+  "joke": "Attila the Hun, at the tiller.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "TILLER THE HUN III": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Wake My Day",
+  "category": "boat-parts",
+  "joke": "Dirty Harry's 'make my day', with a boat's wake.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "WAKE MY DAY": 4
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Wholesail Club",
+  "category": "boat-parts",
+  "joke": "The warehouse 'wholesale club', for sailors.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "WHOLESAIL CLUB": 1,
+   "WHOLESAIL": 1,
+   "WHOLESAIL II": 1
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Workahullic",
+  "category": "boat-parts",
+  "joke": "A workaholic whose real job is the hull.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "WORK-A-HULL-IC": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Worth the Wake",
+  "category": "boat-parts",
+  "joke": "\"Worth the wait\" with a wake",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "WORTH THE WAKE": 20
+  },
+  "vessels": 20
+ },
+ {
+  "name": "Aweigh on Business",
+  "category": "day-job",
+  "joke": "Away on business, with anchors aweigh.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "A WEIGH ON BUSINESS": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Billable Ours",
+  "category": "day-job",
+  "joke": "Billable hours that paid for something of 'ours'.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BILLABLE HOURS": 12,
+   "BILLABLE OURS": 3,
+   "BILLABLE HOURS III": 1
+  },
+  "vessels": 16
+ },
+ {
+  "name": "Board Meeting",
+  "category": "day-job",
+  "joke": "Tell the office you're in a board meeting, on board.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BOARD MEETING": 9,
+   "BOARD MEETING II": 1
+  },
+  "vessels": 10
+ },
+ {
+  "name": "Branch Office",
+  "category": "day-job",
+  "joke": "Where the 'work' really happens on Fridays.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BRANCH OFFICE": 33,
+   "FIELD OFFICE": 9,
+   "BRANCH OFFICE II": 3,
+   "CORPORATE OFFICE": 3,
+   "BRANCH OFFICE III": 1,
+   "BRANCH OFFICE IV": 1,
+   "FIELD OFFICE X": 1,
+   "THE OFFICE TOO": 1,
+   "THE WEST OFFICE": 1
+  },
+  "vessels": 53
+ },
+ {
+  "name": "Circle Back",
+  "category": "day-job",
+  "joke": "Office jargon, done by boat",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "CIRCLE BACK": 5
+  },
+  "vessels": 5
+ },
+ {
+  "name": "Class Dismissed",
+  "category": "day-job",
+  "joke": "School's out for good: the retired teacher's boat.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "CLASS DISMISSED": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Docked Wages",
+  "category": "day-job",
+  "joke": "Pay docked for skipping work to sit at the dock.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "DOCKED WAGES": 13
+  },
+  "vessels": 13
+ },
+ {
+  "name": "Dot Calm",
+  "category": "day-job",
+  "joke": "Dot-com, made calm by going boating.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "DOT CALM": 8
+  },
+  "vessels": 8
+ },
+ {
+  "name": "Exit Strategy",
+  "category": "day-job",
+  "joke": "Business-plan jargon for escaping to the boat",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "EXIT STRATEGY": 46,
+   "EXIT STRATEGY 3": 1,
+   "EXIT STRATEGY 4": 1
+  },
+  "vessels": 48
+ },
+ {
+  "name": "Floating Holiday",
+  "category": "day-job",
+  "joke": "The HR perk, taken literally.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "FLOATING HOLIDAY": 5
+  },
+  "vessels": 5
+ },
+ {
+  "name": "In a Sails Meeting",
+  "category": "day-job",
+  "joke": "'In a sales meeting': the office excuse while sailing.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "IN A SAILS MEETING": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Lake for Work",
+  "category": "day-job",
+  "joke": "'Late for work' — because of the lake.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "LAKE FOR WORK": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Log Off, Lake On",
+  "category": "day-job",
+  "joke": "Closing the laptop, opening the throttle.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "LOG OFF - LAKE ON": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Nautical Sabbatical",
+  "category": "day-job",
+  "joke": "Rhyming time off work, spent on the water.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "NAUTICAL SABBATICAL": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "No Patients",
+  "category": "day-job",
+  "joke": "The doctor's day off; \"no patience\" pun",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "NO PATIENTS": 3,
+   "NO PATIENTS II": 1
+  },
+  "vessels": 4
+ },
+ {
+  "name": "No Work Zone",
+  "category": "day-job",
+  "joke": "The 'No Wake Zone' sign, rewritten for weekends.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "NO WORK ZONE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "On the Other Line",
+  "category": "day-job",
+  "joke": "Phone-call excuse; really busy with a fishing line.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "THE OTHER LINE": 9,
+   "ON THE OTHER LINE": 2,
+   "THE OTHER LINE II": 1
+  },
+  "vessels": 12
+ },
+ {
+  "name": "Out of Office",
+  "category": "day-job",
+  "joke": "The auto-reply, embodied by a boat.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "OUT OF OFFICE": 30,
+   "OUT OF OFFICE 2.0": 1,
+   "OUT OF OFFICE II": 1,
+   "OUT-OF-OFFICE": 1
+  },
+  "vessels": 33
+ },
+ {
+  "name": "Playing Hooky",
+  "category": "day-job",
+  "joke": "Skipping work to go hook some fish.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "PLAYIN HOOKY": 20,
+   "PLAYIN' HOOKY": 18,
+   "PLAYING HOOKY": 13,
+   "PLAY N HOOKY": 9,
+   "PLAY'N HOOKY": 8,
+   "PLAYIN HOOKY II": 6,
+   "HOOKY": 2,
+   "PLAY N HOOKEY": 2,
+   "PLAYN HOOKY": 2,
+   "HOOKY II": 1,
+   "STILL PLAYING HOKY": 1,
+   "PLAYIN' HOOK-Y": 1,
+   "PLAYIN' HOOKY II": 1,
+   "PLAYIN HOOKY III": 1,
+   "PLAYINHOOKY II": 1,
+   "PLAY-N HOOKEY": 1,
+   "PLAY 'N HOOKY": 1,
+   "PLAY 'N' HOOKY": 1,
+   "PLAY N HOOKY 4": 1,
+   "PLAY-N-HOOKY": 1,
+   "PLAY'N HOOKY TOO": 1
+  },
+  "vessels": 92
+ },
+ {
+  "name": "Scope Creep",
+  "category": "day-job",
+  "joke": "Project-management jargon meets anchor scope",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SCOPE CREEP": 4
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Shore Beats Work",
+  "category": "day-job",
+  "joke": "'Sure beats work.'",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SHORE BEATS WORK": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Strait to Voicemail",
+  "category": "day-job",
+  "joke": "Calls go straight to voicemail when you're on the strait.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "STRAIT TO VOICEMAIL": 2,
+   "STRAIT II VOICEMAIL": 1
+  },
+  "vessels": 3
+ },
+ {
+  "name": "The Defense Rests",
+  "category": "day-job",
+  "joke": "Courtroom phrase; the lawyer is finally resting",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "THE DEFENSE RESTS": 6
+  },
+  "vessels": 6
+ },
+ {
+  "name": "What's a Monday?",
+  "category": "day-job",
+  "joke": "Retired boater has forgotten weekdays",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "WHAT'S A MONDAY": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Work-Life Buoyance",
+  "category": "day-job",
+  "joke": "\"Work-life balance\" with buoyancy",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "WORK LIFE BUOYANCE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Working From Helm",
+  "category": "day-job",
+  "joke": "Working from home, at the helm.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "WORKING FROM HELM": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Working Remotely",
+  "category": "day-job",
+  "joke": "Technically true: very remote, not working",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "WORKING REMOTELY": 5,
+   "STILL WORKING REMOTELY": 1
+  },
+  "vessels": 6
+ },
+ {
+  "name": "Yacht to Be Working",
+  "category": "day-job",
+  "joke": "'You ought to be working', said with a yacht.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "YACHTA RELAX": 2,
+   "YACHT TO BE WORKING": 1
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Beats Working",
+  "category": "day-job",
+  "joke": "Any day on the boat beats the office",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BEATS WORKING": 2,
+   "BEATS WORKING II": 1
+  },
+  "vessels": 3
+ },
+ {
+  "name": "7 Day Weekend",
+  "category": "day-job",
+  "joke": "Retirement, when every day is the weekend.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "7 DAY WEEKEND": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "A Boat Time",
+  "category": "dry-humour",
+  "joke": "About time, with a boat.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "ABOAT TIME": 38,
+   "A BOAT TIME": 3,
+   "A'BOAT TIME": 3,
+   "A'BOAT TIME III": 1
+  },
+  "vessels": 45
+ },
+ {
+  "name": "Amateur Hour",
+  "category": "dry-humour",
+  "joke": "Self-aware novice skipper at the dock.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "AMATEUR HOUR": 5
+  },
+  "vessels": 5
+ },
+ {
+  "name": "Be Right Back",
+  "category": "dry-humour",
+  "joke": "The away message, left on indefinitely",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BE RIGHT BACK": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Boatox",
+  "category": "dry-humour",
+  "joke": "Botox for boats: costly cosmetic upkeep",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BOATOX": 22,
+   "BOAT-OX": 1,
+   "BOATOX II": 1,
+   "REEL BOATOX": 1,
+   "BOATOX DOCK": 1
+  },
+  "vessels": 26
+ },
+ {
+  "name": "Carpe Manana",
+  "category": "dry-humour",
+  "joke": "Seize tomorrow: carpe diem for procrastinators.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "CARPE MANANA": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Cheaper Than Therapy",
+  "category": "dry-humour",
+  "joke": "Boat-owner self-justification (it isn't cheaper).",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "CHEAPER THAN THERAPY": 1,
+   "CHEAPER THAN THERAPY 2": 1
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Completely Unnecessary",
+  "category": "dry-humour",
+  "joke": "An honest verdict on owning a boat.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "COMPLETELY UNNECESSARY": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Crack of Noon",
+  "category": "dry-humour",
+  "joke": "Up at the crack of noon — boat-life hours.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "CRACK OF NOON": 4
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Doctor's Orders",
+  "category": "dry-humour",
+  "joke": "The boat is medically prescribed. Honest.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "DOCTOR'S ORDERS": 18,
+   "DOCTORS ORDERS": 11,
+   "DOCTOR'S ORDERS II": 5,
+   "DR'S ORDERS": 4,
+   "DR.'S ORDERS": 3,
+   "DOCKTORS ORDERS": 2,
+   "DOCKTOR'S ORDERS": 2,
+   "DOCTOR'S ORDER'S": 1,
+   "DOCTORS ORDERS 3": 1,
+   "DOCTOR'S ORDERS III": 1,
+   "DR.S ORDERS": 1,
+   "DRS ORDERS": 1
+  },
+  "vessels": 50
+ },
+ {
+  "name": "Flight Risk",
+  "category": "dry-humour",
+  "joke": "Legal term for someone likely to flee",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "FLIGHT RISK": 43,
+   "FLIGHT RISK 3": 1,
+   "FLIGHT RISK II": 1
+  },
+  "vessels": 45
+ },
+ {
+  "name": "It'll Do",
+  "category": "dry-humour",
+  "joke": "Deadpan, low-expectations praise for a boat.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "IT'LL DO": 21,
+   "THAT'LL DO": 3,
+   "ITLL DO": 1,
+   "ITLL DO II": 1,
+   "IT'LL DO II": 1,
+   "ITLL DO III": 1,
+   "IT'LL DO! II": 1,
+   "ITLLDO": 1
+  },
+  "vessels": 30
+ },
+ {
+  "name": "Left Unsupervised",
+  "category": "dry-humour",
+  "joke": "Explains how the boat got bought.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "LEFT UNSUPERVISED": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Midlife Cruises",
+  "category": "dry-humour",
+  "joke": "A midlife crisis, but on a boat.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "MIDLIFE CRUISES": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Misplaced Manatee",
+  "category": "dry-humour",
+  "joke": "An absurd image: a manatee that has wandered off course.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "MISPLACED MANATEE TOO": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Miss Adventure",
+  "category": "dry-humour",
+  "joke": "Misadventure, written as a boat's 'Miss' name.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "MISS ADVENTURE": 16,
+   "MISSADVENTURE": 2,
+   "MISS ADVENTURE II": 1,
+   "MISSADVENTURE II": 1
+  },
+  "vessels": 20
+ },
+ {
+  "name": "Miss Behavin'",
+  "category": "dry-humour",
+  "joke": "'Misbehaving' as a classic 'Miss' boat name.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "MISS B HAVEN": 31,
+   "MISS B. HAVEN": 5,
+   "MISS BEHAVIOR": 5,
+   "MISS-B-HAVEN": 3,
+   "MISS B HAVEN II": 2,
+   "MISS B-HAVEN": 2,
+   "MISS-B-HAVEN II": 2,
+   "MISS BEHAVIN AGAIN": 2,
+   "MISS B HAVEN III": 1,
+   "MISS B'HAVEN II": 1,
+   "MISSBHAVEN": 1,
+   "MISS BEHAV'IN AGAIN": 1,
+   "MISS BEHAVIN' AGAIN": 1,
+   "MISS B HAVEN AGAIN": 1,
+   "STILL MISS BEHAVING": 1,
+   "MISSBEHAVIOR": 1
+  },
+  "vessels": 60
+ },
+ {
+  "name": "Miss Conduct",
+  "category": "dry-humour",
+  "joke": "\"Misconduct\" as a lady's name",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "MISS CONDUCT": 24,
+   "MISS BEHAVEN": 10,
+   "MISS CHIEF": 6,
+   "MISS CONDUCT II": 2,
+   "MISS CONDUCT III": 2,
+   "MISS BE HAVEN": 2,
+   "MISS CHIEF II": 2,
+   "MISS CONDUCT VI": 1,
+   "MISSCONDUCT II": 1,
+   "MISS BEHAVE'N": 1,
+   "MISS BE'HAVEN II": 1,
+   "MISS CHIEF III": 1,
+   "MISS-CHIEF": 1
+  },
+  "vessels": 54
+ },
+ {
+  "name": "My Therapist Insisted",
+  "category": "dry-humour",
+  "joke": "Doctor's orders: buy a boat.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "MY THERAPIST INSISTED": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Nacho Money",
+  "category": "dry-humour",
+  "joke": "\"Not your money\": nacho pun",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "NACHO MONEY II": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "No Regerts",
+  "category": "dry-humour",
+  "joke": "The famous misspelled 'No Regrets' tattoo, now on a boat.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "NO REGERTS": 10
+  },
+  "vessels": 10
+ },
+ {
+  "name": "Not a Yacht Yet",
+  "category": "dry-humour",
+  "joke": "Modest boat, optimistic owner.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "NOT A YACHT YET": 1,
+   "NOTTA YACHTA": 1
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Pair-o-Dice",
+  "category": "dry-humour",
+  "joke": "\"Paradise\" as a pair of dice",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "PAIR-O-DICE": 2,
+   "PAIR O DICE": 1,
+   "PAIR O' DICE": 1
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Swear Jar Money",
+  "category": "dry-humour",
+  "joke": "The boat was paid for out of the swear jar.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SWEAR JAR MONEY": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Temporary Sanity",
+  "category": "dry-humour",
+  "joke": "Inverts 'temporary insanity': the boat is the sane part.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "TEMPORARY SANITY": 4
+  },
+  "vessels": 4
+ },
+ {
+  "name": "This Side Up",
+  "category": "dry-humour",
+  "joke": "Shipping-box label, important for boats",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "THIS SIDE UP": 7,
+   "THIS SIDE UP II": 1
+  },
+  "vessels": 8
+ },
+ {
+  "name": "To Be Named Later",
+  "category": "dry-humour",
+  "joke": "Placeholder name that stuck",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "TO BE NAMED LATER": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Toucan Play",
+  "category": "dry-humour",
+  "joke": "'Two can play that game', with a toucan.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "TOUCAN PLAY": 3,
+   "TOU-CAN PLAY": 1
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Unsalted and Shark Free",
+  "category": "dry-humour",
+  "joke": "Freshwater boaters bragging about their lakes.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "UNSALTED & SHARK FREE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Water Hazard",
+  "category": "dry-humour",
+  "joke": "Golf's dreaded water hazard; here, the whole boat.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "WATER HAZARD": 10,
+   "WATER HAZARD III": 2,
+   "WATER HAZARD 2": 1,
+   "WATER HAZARD II": 1,
+   "WATER HAZARD IV": 1
+  },
+  "vessels": 15
+ },
+ {
+  "name": "Waterfront Property",
+  "category": "dry-humour",
+  "joke": "Realtor brag that technically applies to a boat",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "WATERFRONT PROPERTY": 16,
+   "WATERFRONT PROPERTY II": 1
+  },
+  "vessels": 17
+ },
+ {
+  "name": "Watertight Alibi",
+  "category": "dry-humour",
+  "joke": "An airtight alibi, made seaworthy.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "MY ALIBI": 5,
+   "WATERTIGHT ALIBI": 1,
+   "GOOD ALIBI": 1,
+   "SOUTHERN ALIBI": 1
+  },
+  "vessels": 8
+ },
+ {
+  "name": "Weak Moment",
+  "category": "dry-humour",
+  "joke": "How the boat got bought.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "WEAK MOMENT": 4
+  },
+  "vessels": 4
+ },
+ {
+  "name": "What Was I Thinkin'",
+  "category": "dry-humour",
+  "joke": "Every boat owner's question after the first invoice.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "WHAT WAS I THINKIN": 4,
+   "WHAT WAS I THINKIN'": 1
+  },
+  "vessels": 5
+ },
+ {
+  "name": "Whatever Floats Your Goat",
+  "category": "dry-humour",
+  "joke": "'Whatever floats your boat', absurdly mangled.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "WHAT EVER FLOATS YOUR GOAT": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Yacht Know Better",
+  "category": "dry-humour",
+  "joke": "Ought to know better, with a yacht.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "YACHT KNOW BETTER": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Yachts of Fun",
+  "category": "dry-humour",
+  "joke": "'Lots of fun', with yachts.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "YACHTS OF FUN": 19,
+   "YACHTS OF FUN II": 1
+  },
+  "vessels": 20
+ },
+ {
+  "name": "Zombies Can't Swim",
+  "category": "dry-humour",
+  "joke": "Absurd apocalypse plan: live on the boat",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "ZOMBIES CAN'T SWIM": 3,
+   "ZOMBIES CANT SWIM": 1
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Coastal Distancing",
+  "category": "dry-humour",
+  "joke": "Social distancing, done from the coast.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "COASTAL DISTANCING": 4
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Angler Management",
+  "category": "fishy",
+  "joke": "Anger management, for anglers.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "ANGLER MANAGEMENT": 26
+  },
+  "vessels": 26
+ },
+ {
+  "name": "Bait 'n' Switch",
+  "category": "fishy",
+  "joke": "Sales-scam idiom taken literally with bait",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BAIT 'N' SWITCH IV": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Bill Collector",
+  "category": "fishy",
+  "joke": "Debt collector, or someone who catches billfish.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BILL COLLECTOR": 9,
+   "BILL COLLECTOR 2": 1,
+   "BILL COLLECTOR 3": 1,
+   "BILL COLLECTOR 4": 1
+  },
+  "vessels": 12
+ },
+ {
+  "name": "Clickbait",
+  "category": "fishy",
+  "joke": "Internet clickbait, as fishing bait.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "CLICKBAIT": 5,
+   "CLICK BAIT": 4
+  },
+  "vessels": 9
+ },
+ {
+  "name": "Conch'd Out",
+  "category": "fishy",
+  "joke": "Conked out, with a conch.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "CONCH'D OUT": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Crustacean Frustration",
+  "category": "fishy",
+  "joke": "Rhyming despair at an empty crab trap.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "CRUSTACEAN FRUSTRATION": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Filet and Release",
+  "category": "fishy",
+  "joke": "Catch-and-release, minus the release.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "FILET & RELEASE": 2,
+   "FILET AND RELEASE": 1
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Fin Addict",
+  "category": "fishy",
+  "joke": "'Fanatic' spelled with fins",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "FIN ADDICT": 9,
+   "FINADDICT": 7,
+   "FIN-ADDICT": 4,
+   "REEL FIN ADDICT": 3,
+   "FIN-ADDICT II": 1
+  },
+  "vessels": 24
+ },
+ {
+  "name": "Fish Tales",
+  "category": "fishy",
+  "joke": "Fish tails and tall fishing stories",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "FISH TALES": 42,
+   "FISHTALES": 7,
+   "FISH TALES II": 5,
+   "FISH TALES IV": 1,
+   "FISH N TALE II": 1,
+   "FISH TALES V": 1,
+   "DJ'S FISH TALES": 1
+  },
+  "vessels": 58
+ },
+ {
+  "name": "Fishful Thinking",
+  "category": "fishy",
+  "joke": "Wishful thinking, every fishing trip.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "FISHFUL THINKING": 18,
+   "FISHFULL THINKING": 6,
+   "FISHFUL THINKIN": 3,
+   "FISHFUL THINK'N": 2,
+   "FISHFUL THINKN": 1,
+   "FISHFUL THINKIN III": 1,
+   "WISHFUL THINKIN": 1,
+   "WISHFUL THINKIN'": 1,
+   "WISHFUL THINKIN II": 1
+  },
+  "vessels": 34
+ },
+ {
+  "name": "Fishin' Accomplished",
+  "category": "fishy",
+  "joke": "Mission accomplished, after catching a fish.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "FISHIN' ACCOMPLISHED": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Fishin' Impossible",
+  "category": "fishy",
+  "joke": "Mission Impossible for anglers",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "FISHIN IMPOSSIBLE": 6,
+   "FISHIN' IMPOSSIBLE": 4,
+   "FISH'N IMPOSSIBLE": 2
+  },
+  "vessels": 12
+ },
+ {
+  "name": "For the Halibut",
+  "category": "fishy",
+  "joke": "Just for the hell of it, with halibut.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "FOR THE HALIBUT": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Gone Fission",
+  "category": "fishy",
+  "joke": "'Gone fishin'' for the nuclear engineer.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "GONE FISSION": 2,
+   "GONE FISSION II": 1
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Grand Fin-ally",
+  "category": "fishy",
+  "joke": "\"Grand finale\" with a fin; the retirement boat",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "GRAND FIN ALLY": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Grouper Therapy",
+  "category": "fishy",
+  "joke": "Group therapy, with a grouper.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "GROUPER THERAPY": 4
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Just a Fluke",
+  "category": "fishy",
+  "joke": "A lucky accident, and a flatfish.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "JUST A FLUKE II": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Kraken Up",
+  "category": "fishy",
+  "joke": "Cracking up, kraken-style.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KRAKEN UP": 8,
+   "KRAKEN' UP": 1
+  },
+  "vessels": 9
+ },
+ {
+  "name": "Krill Bill",
+  "category": "fishy",
+  "joke": "Tarantino's Kill Bill, with krill.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KRILL BILL": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Lone Shark",
+  "category": "fishy",
+  "joke": "\"Loan shark\" with a lone shark",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "LONE SHARK": 9
+  },
+  "vessels": 9
+ },
+ {
+  "name": "Marlin Monroe",
+  "category": "fishy",
+  "joke": "Marilyn Monroe as a marlin",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "MARLIN MONROE": 4
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Name That Tuna",
+  "category": "fishy",
+  "joke": "The game show Name That Tune, with tuna.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "NAME THAT TUNA": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Net Profit",
+  "category": "fishy",
+  "joke": "Accounting term; the only profit is what's in the net.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "NET PROFIT": 4
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Ofishal Business",
+  "category": "fishy",
+  "joke": "'Official business' that is really fishing.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "FISHY BUSINESS": 18,
+   "O'FISHAL BUSINESS": 7,
+   "OFISHAL BUSINESS": 4,
+   "O FISHAL BUSINESS": 1,
+   "FISHY BUSINESS II": 1
+  },
+  "vessels": 31
+ },
+ {
+  "name": "One in a Marlin",
+  "category": "fishy",
+  "joke": "\"One in a million\" with a marlin",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "ONE IN A MARLIN": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Prince of Whales",
+  "category": "fishy",
+  "joke": "Prince of Wales with whales",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "PRINCE OF WHALES": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Sandy Claws",
+  "category": "fishy",
+  "joke": "Santa Claus, as a sandy crab.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SANDY CLAWS": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Scales of Justice",
+  "category": "fishy",
+  "joke": "Fish scales meet the courtroom.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SCALES OF JUSTICE": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Seize the Carp",
+  "category": "fishy",
+  "joke": "'Carpe diem' translated very literally by an angler.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SEIZE THE CARP": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Semper Fish",
+  "category": "fishy",
+  "joke": "The Marines' 'Semper Fi', always fishing.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SEMPER FISH": 4,
+   "SEMPER FI'SH": 1
+  },
+  "vessels": 5
+ },
+ {
+  "name": "Sense of Porpoise",
+  "category": "fishy",
+  "joke": "A sense of purpose, porpoise-powered.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SENSE OF PORPOISE": 1,
+   "PORPOISE OF LIFE": 1
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Shake 'n Bait",
+  "category": "fishy",
+  "joke": "Shake 'n Bake with bait",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SHAKE N BAIT": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Shellfish",
+  "category": "fishy",
+  "joke": "Selfish, from someone who won't share the boat.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SHELLFISH": 4,
+   "SHELL FISH": 2
+  },
+  "vessels": 6
+ },
+ {
+  "name": "Sir Fish-a-Lot",
+  "category": "fishy",
+  "joke": "Knightly Sir Lancelot, who fishes a lot.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SIR FISHALOT": 2,
+   "SIR FISH-ALOT": 1,
+   "SIR FISH-A-LOT": 1
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Sole Mate",
+  "category": "fishy",
+  "joke": "'Soulmate' with the sole fish",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SOLE MATE": 8,
+   "SOLEMATE": 5
+  },
+  "vessels": 13
+ },
+ {
+  "name": "Squid Life Crisis",
+  "category": "fishy",
+  "joke": "A midlife crisis, now with tentacles.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SQUID LIFE CRISIS": 1,
+   "MIDLIFE PISCES": 1
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Squid Pro Quo",
+  "category": "fishy",
+  "joke": "'Quid pro quo' with a squid.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SQUID PRO QUO": 6
+  },
+  "vessels": 6
+ },
+ {
+  "name": "Tall Tails",
+  "category": "fishy",
+  "joke": "Fishermen's tall tales, about fish tails.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "TALL TAILS": 7
+  },
+  "vessels": 7
+ },
+ {
+  "name": "The Codfather",
+  "category": "fishy",
+  "joke": "The Godfather with a cod",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "CODFATHER": 6,
+   "THE CODFATHER": 5,
+   "THE COD FATHER": 2,
+   "CODFATHER II": 2,
+   "COD FATHER": 1,
+   "COD FATHER III": 1
+  },
+  "vessels": 17
+ },
+ {
+  "name": "Trout 'n' About",
+  "category": "fishy",
+  "joke": "'Out and about' with trout",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "TROUT N ABOUT": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Tuna Kahuna",
+  "category": "fishy",
+  "joke": "\"Big Kahuna\" of tuna fishing",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "TUNA KAHUNA": 5
+  },
+  "vessels": 5
+ },
+ {
+  "name": "Insufishin Funds",
+  "category": "fishy",
+  "joke": "'Insufficient funds' after paying for fishing.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "INSU-FISHIN-FUNDS": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Are We There Yet",
+  "category": "household",
+  "joke": "Every family trip's backseat refrain",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "ARE WE THERE YET": 4,
+   "ARE WE THERE YET?": 1,
+   "KNOT THERE YET": 1
+  },
+  "vessels": 6
+ },
+ {
+  "name": "Bought Without Permission",
+  "category": "household",
+  "joke": "Confessing the boat purchase wasn't cleared at home.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "NO PERMISSION": 2,
+   "BOUGHT WITHOUT PERMISSION": 1,
+   "ANOTHER UNAUTHORIZED PURCHASE": 1
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Cheaper Than Kids",
+  "category": "household",
+  "joke": "Deadpan claim that boats cost less than children",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "CHEAPER THAN KIDS": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Couples Therapy",
+  "category": "household",
+  "joke": "The boat as a cheaper marriage counsellor.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "COUPLES THERAPY": 19,
+   "FAMILY THERAPY": 10,
+   "COUPLE'S THERAPY": 2,
+   "FAMILY THERAPY III": 1
+  },
+  "vessels": 32
+ },
+ {
+  "name": "Don't Tell Mom",
+  "category": "household",
+  "joke": "The boat purchase that needs to stay secret.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "DON'T TELL MOM": 7,
+   "D'ONT TELL MOM": 1,
+   "DON'T TELL MOMMY": 1
+  },
+  "vessels": 9
+ },
+ {
+  "name": "Forced Family Fun",
+  "category": "household",
+  "joke": "Every family boat outing, honestly labelled.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "FORCED FAMILY FUN": 7,
+   "FORCEDFAMILYFUN": 1
+  },
+  "vessels": 8
+ },
+ {
+  "name": "Honey-Do Escape",
+  "category": "household",
+  "joke": "Fleeing the honey-do chore list",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "HONEY DO ESCAPE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "It's for the Kids",
+  "category": "household",
+  "joke": "The classic, unconvincing boat-purchase excuse.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "JUST FOR KIDS": 2,
+   "IT'S FOR THE KIDS": 1,
+   "4 THE KIDS": 1,
+   "4 THE KIDS II": 1
+  },
+  "vessels": 5
+ },
+ {
+  "name": "My Brother-in-Law's Boat",
+  "category": "household",
+  "joke": "The boat everyone uses and nobody admits owning.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "MY BROTHER'S BOAT": 2,
+   "MY BROTHER-IN-LAW'S BOAT": 1,
+   "MY BROTHER'S BOAT III": 1
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Permission Granted",
+  "category": "household",
+  "joke": "The spouse said yes — this boat is the proof.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "PERMISSION GRANTED": 5
+  },
+  "vessels": 5
+ },
+ {
+  "name": "She Said I Could",
+  "category": "household",
+  "joke": "The boat was bought with spousal permission, allegedly.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SHE SAID I COULD": 1,
+   "GOT PERMISSION": 1
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Thanks Again Dad",
+  "category": "household",
+  "joke": "Dad paid for the boat. Again",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "THANKS AGAIN DAD": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "The Dog House",
+  "category": "household",
+  "joke": "Where you sleep after buying the boat",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "THE DOG HOUSE": 42,
+   "THE DOGHOUSE": 5,
+   "THE DOG HOUSE 2": 1,
+   "THE DOG HOUSE II": 1
+  },
+  "vessels": 49
+ },
+ {
+  "name": "Wife Approved",
+  "category": "household",
+  "joke": "The purchase that got the official sign-off",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "WIFE APPROVED": 2,
+   "WIFE APPROVED 2": 1
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Wife Preserver",
+  "category": "household",
+  "joke": "'Life preserver' for keeping the marriage afloat",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "WIFE PRESERVER": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Yes Dear",
+  "category": "household",
+  "joke": "The agreeable spouse's all-purpose reply",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "YES DEAR": 31,
+   "YES, DEAR": 3,
+   "YES DEERE": 3,
+   "YES DEAR II": 1,
+   "YES DEAR!": 1,
+   "YES,DEAR": 1
+  },
+  "vessels": 40
+ },
+ {
+  "name": "Kids' Inheritance",
+  "category": "household",
+  "joke": "The boat is where the kids' inheritance went.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KIDS INHERITANCE": 9,
+   "KID'S INHERITANCE": 4,
+   "KIDS' INHERITANCE": 2,
+   "KIDS INHERITANCE II": 1
+  },
+  "vessels": 16
+ },
+ {
+  "name": "Yours, Mine and Oars",
+  "category": "household",
+  "joke": "\"Yours, Mine and Ours\" blended-family movie with oars",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "YOURS MINE AND OARS": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "A Riverderci",
+  "category": "life-at-sea",
+  "joke": "\"Arrivederci\" with a river",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "A RIVA DERCI": 3,
+   "A RIVER DERCI": 1,
+   "A-RIVA-DERCI": 1
+  },
+  "vessels": 5
+ },
+ {
+  "name": "Ahoy Vey",
+  "category": "life-at-sea",
+  "joke": "'Oy vey' meets 'ahoy'.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "AHOY VEY": 3,
+   "AH-OY VEY": 1
+  },
+  "vessels": 4
+ },
+ {
+  "name": "All Paws on Deck",
+  "category": "life-at-sea",
+  "joke": "'All hands on deck' for the boat dog",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "ALL PAWS ON DECK": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "All Tide Up",
+  "category": "life-at-sea",
+  "joke": "'All tied up' — busy, and held by the tide.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "ALL TIDE UP": 3,
+   "ALL TIDE UP AGAIN": 1
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Better Lake Than Never",
+  "category": "life-at-sea",
+  "joke": "'Better late than never', on the lake.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BETTER LAKE THAN NEVER": 4
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Catch My Drift",
+  "category": "life-at-sea",
+  "joke": "Idiom for understanding; boats literally drift.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "CATCH MY DRIFT": 6
+  },
+  "vessels": 6
+ },
+ {
+  "name": "Crews Control",
+  "category": "life-at-sea",
+  "joke": "'Cruise control' for managing the crew",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "CREWS CONTROL": 8
+  },
+  "vessels": 8
+ },
+ {
+  "name": "Good Tern",
+  "category": "life-at-sea",
+  "joke": "A good turn, with a tern (seabird).",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "GOOD TERN": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Gulf Cart",
+  "category": "life-at-sea",
+  "joke": "A golf cart for the Gulf.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "GULF CART": 6
+  },
+  "vessels": 6
+ },
+ {
+  "name": "Hard to Fathom",
+  "category": "life-at-sea",
+  "joke": "Hard to understand; a fathom is also a depth unit.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "HARD TO FATHOM": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Shore Thing",
+  "category": "life-at-sea",
+  "joke": "\"Sure thing\" with shore",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SHORE THING": 32,
+   "SHORE THING III": 2,
+   "SHORE THING 2": 1,
+   "SHORE THING II": 1,
+   "SHORETHING": 1,
+   "SHORETHING 4": 1,
+   "SHORETHING II": 1
+  },
+  "vessels": 39
+ },
+ {
+  "name": "Lake It Easy",
+  "category": "life-at-sea",
+  "joke": "'Take it easy', lake edition.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "LAKE IT EASY": 7
+  },
+  "vessels": 7
+ },
+ {
+  "name": "Latitude Adjustment",
+  "category": "life-at-sea",
+  "joke": "An attitude adjustment, achieved by sailing south.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "LATITUDE ADJUSTMENT": 70,
+   "LATITUDE ADJUSTMENT II": 2
+  },
+  "vessels": 72
+ },
+ {
+  "name": "Lightly Salted",
+  "category": "life-at-sea",
+  "joke": "A snack label; a not-yet-salty sailor.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "LIGHTLY SALTED": 5
+  },
+  "vessels": 5
+ },
+ {
+  "name": "Long Winded",
+  "category": "life-at-sea",
+  "joke": "Talks a lot; sails on lots of wind",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "LONG WINDED": 4,
+   "LONGWINDED": 1
+  },
+  "vessels": 5
+ },
+ {
+  "name": "No Egrets",
+  "category": "life-at-sea",
+  "joke": "No regrets, with egrets.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "NO EGRETS": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Off Course",
+  "category": "life-at-sea",
+  "joke": "'Of course!', said while navigating badly.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "OFF COURSE": 28,
+   "OFF COURSE II": 2,
+   "OFFCOURSE II": 1
+  },
+  "vessels": 31
+ },
+ {
+  "name": "Once Upon a Tide",
+  "category": "life-at-sea",
+  "joke": "Fairy-tale opener, set at sea.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "ONCE UPON A TIDE": 4,
+   "ONCE UPON A TIDE III": 1
+  },
+  "vessels": 5
+ },
+ {
+  "name": "Port of Indecision",
+  "category": "life-at-sea",
+  "joke": "A port of call for people who can't decide where to go.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "PORT OF INDECISION": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Rhumb Runner",
+  "category": "life-at-sea",
+  "joke": "Rum runner, spelled with the navigator's rhumb line.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "RHUMB RUNNER": 16,
+   "RHUMB RUNNER II": 1,
+   "RHUMBRUNNER": 1
+  },
+  "vessels": 18
+ },
+ {
+  "name": "Riff Raft",
+  "category": "life-at-sea",
+  "joke": "Riffraff, on a raft.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "RIFF RAFT": 6,
+   "RIFF RAFT II": 2,
+   "RIFF-RAFT": 2
+  },
+  "vessels": 10
+ },
+ {
+  "name": "Route Canal Therapy",
+  "category": "life-at-sea",
+  "joke": "\"Root canal therapy\", but cruising a canal route",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "ROUTE CANAL THERAPY": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Schooner or Later",
+  "category": "life-at-sea",
+  "joke": "'Sooner or later', aboard a schooner.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SCHOONER OR LATER": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Sound Decision",
+  "category": "life-at-sea",
+  "joke": "A sound decision, made on the Sound.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SOUND DECISION": 12
+  },
+  "vessels": 12
+ },
+ {
+  "name": "Tide Me Over",
+  "category": "life-at-sea",
+  "joke": "Tide me over, with tides.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "TIDE ME OVER": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Water We Doing",
+  "category": "life-at-sea",
+  "joke": "'What are we doing?' asked on the water.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "WATER WE DOING": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "A Crewed Interest",
+  "category": "money-pit",
+  "joke": "Accrued interest, with a crew.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "A CREWED INTEREST": 2,
+   "ACREWED INTEREST": 1,
+   "ACCRUED INTEREST": 1
+  },
+  "vessels": 4
+ },
+ {
+  "name": "A Little Broker",
+  "category": "money-pit",
+  "joke": "Each boat outing leaves you a little more broke.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "A LITTLE BROKER": 1,
+   "A LITTLE BROKER II": 1,
+   "BROKER NOW": 1
+  },
+  "vessels": 3
+ },
+ {
+  "name": "A Loan Again",
+  "category": "money-pit",
+  "joke": "'Alone again', financed by another loan.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "A LOAN AGAIN": 6,
+   "ALOAN AT LAST": 3,
+   "ALOAN AGAIN": 2,
+   "A-LOAN AGAIN": 1,
+   "A LOAN AT LAST": 1
+  },
+  "vessels": 13
+ },
+ {
+  "name": "Adventure Capital",
+  "category": "money-pit",
+  "joke": "Venture capital, spent on adventure.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "ADVENTURE CAPITAL": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Bail Out",
+  "category": "money-pit",
+  "joke": "Bailing water and needing a financial bailout",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BAIL OUT": 4,
+   "BAILOUT II": 1
+  },
+  "vessels": 5
+ },
+ {
+  "name": "Bank Owned",
+  "category": "money-pit",
+  "joke": "Deadpan truth about who really owns the boat.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BANK OWNED": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Broke but Afloat",
+  "category": "money-pit",
+  "joke": "Financially sunk, physically floating",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BROKE BUT AFLOAT": 5
+  },
+  "vessels": 5
+ },
+ {
+  "name": "Bust Out Another Thousand",
+  "category": "money-pit",
+  "joke": "The classic B.O.A.T. acronym, spelled out.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BUST OUT ANOTHER THOUSAND": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Captain Mortgage",
+  "category": "money-pit",
+  "joke": "Captain Morgan, but captained by the mortgage.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "CAPTAIN MORTGAGE": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "College Fund",
+  "category": "money-pit",
+  "joke": "Where the tuition money actually went",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "COLLEGE FUND": 12
+  },
+  "vessels": 12
+ },
+ {
+  "name": "Current Asset",
+  "category": "money-pit",
+  "joke": "Accounting term with a sea current",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "CURRENT ASSET": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Debt Finder",
+  "category": "money-pit",
+  "joke": "A depth finder that mostly finds debt.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "DEBT FINDER": 16
+  },
+  "vessels": 16
+ },
+ {
+  "name": "Debt Setter",
+  "category": "money-pit",
+  "joke": "A jet-setter, but mostly setting debt records.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "DEBT SETTER": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Depreciating Asset",
+  "category": "money-pit",
+  "joke": "An honest accounting of what a boat is.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "DEPRECIATING ASSET": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Dollars and No Sense",
+  "category": "money-pit",
+  "joke": "Dollars and sense — minus the sense.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "NO CENTS": 6,
+   "DOLLARS & NO/SENSE": 1
+  },
+  "vessels": 7
+ },
+ {
+  "name": "Float a Loan",
+  "category": "money-pit",
+  "joke": "Floating a loan to keep the boat floating.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "FLOAT A LOAN": 3,
+   "FLOAT-A-LOAN": 2,
+   "FLOAT'N A LOAN": 1,
+   "FLOATN A-LOAN": 1,
+   "FLOAT'N-A-LOAN": 1,
+   "FLOATIN ON CREDIT": 1
+  },
+  "vessels": 9
+ },
+ {
+  "name": "Floating Interest",
+  "category": "money-pit",
+  "joke": "Floating interest rate, and a boat floats.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "FLOATING INTEREST": 7
+  },
+  "vessels": 7
+ },
+ {
+  "name": "Fuelish Pleasure",
+  "category": "money-pit",
+  "joke": "'Foolish pleasure' paid for in fuel",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "FUELISH PLEASURE": 23,
+   "FUELISH PLEASURE II": 3
+  },
+  "vessels": 26
+ },
+ {
+  "name": "Fuelin' Around",
+  "category": "money-pit",
+  "joke": "'Fooling around' while burning fuel",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "FUELIN AROUND": 5,
+   "FUELIN' AROUND": 5
+  },
+  "vessels": 10
+ },
+ {
+  "name": "Fully Vested",
+  "category": "money-pit",
+  "joke": "Pension vested; also wearing a life vest",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "FULLY VESTED": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Grateful Debt",
+  "category": "money-pit",
+  "joke": "Grateful Dead, plus the boat loan.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "GRATEFUL DEBT": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Had Money",
+  "category": "money-pit",
+  "joke": "Past tense: then came the boat.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "HAD MONEY": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "High Maintenance",
+  "category": "money-pit",
+  "joke": "Describes the boat, maybe the owner",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "HIGH MAINTENANCE": 56,
+   "HIGH MAINTENANCE II": 4,
+   "HIGHER MAINTENANCE": 3
+  },
+  "vessels": 63
+ },
+ {
+  "name": "It's Only Money",
+  "category": "money-pit",
+  "joke": "Every boat owner's resigned mantra at the fuel dock.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "IT'S ONLY MONEY": 22,
+   "ITS ONLY MONEY": 4,
+   "IT S ONLY MONEY": 1,
+   "IT'S ONLY MONEY II": 1,
+   "IT'S JUST MONEY Y KNOT": 1
+  },
+  "vessels": 29
+ },
+ {
+  "name": "Jamaica Me Broke",
+  "category": "money-pit",
+  "joke": "'You make me broke' in a Caribbean accent.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "JAMAICA-ME-BROKE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Just Add Money",
+  "category": "money-pit",
+  "joke": "Like 'just add water', but for boats.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "JUST ADD MONEY": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Lien on Me",
+  "category": "money-pit",
+  "joke": "Bill Withers' 'Lean on Me', with a lien on the boat.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "LIEN ON ME": 5
+  },
+  "vessels": 5
+ },
+ {
+  "name": "Liquid Asset",
+  "category": "money-pit",
+  "joke": "A liquid asset that actually sits in liquid.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "LIQUID ASSET": 211,
+   "LIQUID ASSET II": 7,
+   "LIQUID ASSET III": 2,
+   "LIQUID ASSET TOO": 1,
+   "LIQUIDASSET": 1,
+   "LIQUID ASSETS V": 1
+  },
+  "vessels": 223
+ },
+ {
+  "name": "Liquidity Event",
+  "category": "money-pit",
+  "joke": "Finance term for cashing out, on water",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "LIQUIDITY EVENT": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "The Loan Ranger",
+  "category": "money-pit",
+  "joke": "The Lone Ranger, financed.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "THE LOAN RANGER": 3,
+   "LOAN RANGER": 3
+  },
+  "vessels": 6
+ },
+ {
+  "name": "Loan Wolf",
+  "category": "money-pit",
+  "joke": "A lone wolf, with a boat loan.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "LOAN WOLF": 1,
+   "LOAN WOLFF TOO": 1
+  },
+  "vessels": 2
+ },
+ {
+  "name": "M.T. Pockets",
+  "category": "money-pit",
+  "joke": "\"Empty pockets\" as initials",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "MT POCKETS": 9,
+   "M.T. POCKETS": 5,
+   "M T POCKETS": 3,
+   "M. T. POCKETS": 3,
+   "M - T - POCKETS": 1,
+   "M.T. POCKETS II": 1,
+   "M.T.POCKETS": 1,
+   "M-T POCKETS": 1,
+   "MT POCKETS II": 1
+  },
+  "vessels": 25
+ },
+ {
+  "name": "Moby Debt",
+  "category": "money-pit",
+  "joke": "Moby Dick, as a whale of a debt.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "MOBY DEBT": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Money Pit",
+  "category": "money-pit",
+  "joke": "Honest description of boat ownership",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "MONEY PIT": 11,
+   "MONEY PIT II": 2
+  },
+  "vessels": 13
+ },
+ {
+  "name": "Mutual Fun",
+  "category": "money-pit",
+  "joke": "\"Mutual fund\" invested in fun",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "MUTUAL FUN": 41,
+   "MUTUAL FUN II": 1,
+   "MUTUAL FUN VII": 1,
+   "MUTUAL-FUN": 1
+  },
+  "vessels": 44
+ },
+ {
+  "name": "Naut Deductible",
+  "category": "money-pit",
+  "joke": "Not tax deductible, sadly; nautical spelling.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "NAUT DEDUCTIBLE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Non Cents",
+  "category": "money-pit",
+  "joke": "'Nonsense', financially speaking",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "NON CENTS": 3,
+   "NONCENTS": 2,
+   "NON CENTS II": 1,
+   "NON-CENTS": 1
+  },
+  "vessels": 7
+ },
+ {
+  "name": "Offshore Account",
+  "category": "money-pit",
+  "joke": "Tax-haven phrase; the money really is offshore",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "OFFSHORE ACCOUNT": 26,
+   "OFF SHORE ACCOUNT": 1,
+   "OFFSHORE ACCOUNT II": 1,
+   "OFFSHORE ACCOUNTANTS": 1
+  },
+  "vessels": 29
+ },
+ {
+  "name": "On the Hook",
+  "category": "money-pit",
+  "joke": "Hooked fish, or on the hook for the payments.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "ON THE HOOK": 10,
+   "ON THE HOOK II": 2
+  },
+  "vessels": 12
+ },
+ {
+  "name": "Overdraft",
+  "category": "money-pit",
+  "joke": "The boat's draft, and the bank account's.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "OVERDRAFT": 19,
+   "OVER DRAFT": 3,
+   "OVERDRAFT II": 2,
+   "SLIGHT OVERDRAFT": 1
+  },
+  "vessels": 25
+ },
+ {
+  "name": "Portfolio",
+  "category": "money-pit",
+  "joke": "Investment portfolio, and a port; where the money went",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "PORT FOLIO": 4,
+   "PORTFOLIO": 4,
+   "PORT-FOLIO": 3
+  },
+  "vessels": 11
+ },
+ {
+  "name": "Salt 'n' Pauper",
+  "category": "money-pit",
+  "joke": "Salt and pepper; owning a boat makes you a pauper.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SALT N PAUPER": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Second Mistake",
+  "category": "money-pit",
+  "joke": "Every boat after the first one",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SECOND MISTAKE": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Small Fortune",
+  "category": "money-pit",
+  "joke": "How to own a boat: start with a large fortune.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SMALL FORTUNE": 4
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Smiles per Gallon",
+  "category": "money-pit",
+  "joke": "Miles per gallon is terrible; smiles make up for it.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SMILES PER GALLON": 7
+  },
+  "vessels": 7
+ },
+ {
+  "name": "Sorry Kids",
+  "category": "money-pit",
+  "joke": "Apology for spending their money on the boat",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SORRY KIDS": 6,
+   "SORRY KIDS 2": 1,
+   "SORRY KIDS II": 1
+  },
+  "vessels": 8
+ },
+ {
+  "name": "Sound Investment",
+  "category": "money-pit",
+  "joke": "\"Sound investment\", in a body of water called a sound",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SOUND INVESTMENT": 5,
+   "SOUND INVESTMENT II": 1
+  },
+  "vessels": 6
+ },
+ {
+  "name": "Sticker Shock",
+  "category": "money-pit",
+  "joke": "The feeling at every marine-store checkout.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "STICKER SHOCK": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Sudden Debt",
+  "category": "money-pit",
+  "joke": "\"Sudden death\" overtime, as boat debt",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SUDDEN DEBT": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Sworda Broke",
+  "category": "money-pit",
+  "joke": "Sorta broke, from swordfishing.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SWORDA BROKE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Tax Ride Off",
+  "category": "money-pit",
+  "joke": "A tax write-off you can actually ride.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "TAX RIDE OFF": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Trust Fun",
+  "category": "money-pit",
+  "joke": "'Trust fund' spent on fun",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "TRUST FUN": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Unstable Assets",
+  "category": "money-pit",
+  "joke": "Volatile investments; also tippy boats.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "UNSTABLE ASSETS": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Weigh Over Budget",
+  "category": "money-pit",
+  "joke": "'Way over budget', anchors aweigh",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "OVER BUDGET": 10,
+   "OVERBUDGET": 2,
+   "WEIGH OVER BUDGET": 1
+  },
+  "vessels": 13
+ },
+ {
+  "name": "Brilliant Deduction",
+  "category": "money-pit",
+  "joke": "Sherlock line, as a tax write-off boat",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BRILLIANT DEDUCTION": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "A Little Yacht Musik",
+  "category": "pop-culture",
+  "joke": "Mozart's Eine kleine Nachtmusik, as yacht music.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "A LITTLE YACHT MUSIK": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Ahoy Polloi",
+  "category": "pop-culture",
+  "joke": "'Hoi polloi', greeted with ahoy.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "AHOY POLLOI": 4
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Anchorman",
+  "category": "pop-culture",
+  "joke": "The Will Ferrell movie, plus the boat's anchor.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "ANCHORMAN": 11,
+   "ANCHOR MAN": 2
+  },
+  "vessels": 13
+ },
+ {
+  "name": "Bad Buoys",
+  "category": "pop-culture",
+  "joke": "'Bad Boys' movie title, with buoys",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BAD BUOYS": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Bay Tripper",
+  "category": "pop-culture",
+  "joke": "The Beatles' Day Tripper, out on the bay.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BAY TRIPPER": 5,
+   "BAY-TRIPPER": 1
+  },
+  "vessels": 6
+ },
+ {
+  "name": "Bed, Bass & Beyond",
+  "category": "pop-culture",
+  "joke": "Bed Bath & Beyond, with bass.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BED BASS & BEYOND": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Boaty McBoatface",
+  "category": "pop-culture",
+  "joke": "The internet's famous winning boat-naming poll.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BOATY MCBOATFACE": 9
+  },
+  "vessels": 9
+ },
+ {
+  "name": "Buoy Vuitton",
+  "category": "pop-culture",
+  "joke": "Louis Vuitton luxury, as a buoy.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "BUOY VUITTON": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Call Me Ishmael",
+  "category": "pop-culture",
+  "joke": "Moby-Dick's opening line as an introduction",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "CALL ME ISHMAEL": 1,
+   "CALL ME ISHMAEL II": 1
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Das Boat",
+  "category": "pop-culture",
+  "joke": "Das Boot, lightly Americanized.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "DAS BOAT": 4
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Dock Holiday",
+  "category": "pop-culture",
+  "joke": "Doc Holliday the gunslinger, on a dock",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "DOCK HOLIDAY": 66,
+   "DOCK HOLIDAY II": 3
+  },
+  "vessels": 69
+ },
+ {
+  "name": "Family Tides",
+  "category": "pop-culture",
+  "joke": "The sitcom 'Family Ties', with tides.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "FAMILY TIDES": 32,
+   "FAMILY TIDES III": 1
+  },
+  "vessels": 33
+ },
+ {
+  "name": "Fiddler on the Reef",
+  "category": "pop-culture",
+  "joke": "Fiddler on the Roof, underwater.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "FIDDLER ON THE REEF II": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "From Pier to Eternity",
+  "category": "pop-culture",
+  "joke": "From Here to Eternity, with a pier.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "FROM PIER TO ETERNITY": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Hull Lotta Love",
+  "category": "pop-culture",
+  "joke": "Led Zeppelin's 'Whole Lotta Love' with a hull.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "HULL LOTTA LOVE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Illuminauti",
+  "category": "pop-culture",
+  "joke": "The Illuminati, but nautical.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "ILLUMI NAUTI": 1,
+   "ILLUMI-NAUTI": 1
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Just the Tow of Us",
+  "category": "pop-culture",
+  "joke": "'Just the Two of Us', awaiting a tow.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "JUST THE TOW OF US": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Kumbayacht",
+  "category": "pop-culture",
+  "joke": "Kumbaya, the campfire singalong, on a yacht.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "KUM BA YACHT": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "License to Chill",
+  "category": "pop-culture",
+  "joke": "Bond's \"License to Kill\", relaxed",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "LICENSE TO CHILL": 49,
+   "LICENSED TO CHILL": 5,
+   "LICENSE TO CHILL II": 2,
+   "LICENSE TO CHILL III": 1
+  },
+  "vessels": 57
+ },
+ {
+  "name": "Moor Cowbell",
+  "category": "pop-culture",
+  "joke": "SNL's \"More cowbell\" with mooring",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "MOOR COWBELL": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Nautical Nonsense",
+  "category": "pop-culture",
+  "joke": "SpongeBob theme lyric; nautical silliness",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "NAUTICAL NONSENSE": 14,
+   "NAUTICAL NON SENSE": 1
+  },
+  "vessels": 15
+ },
+ {
+  "name": "New Kids on the Dock",
+  "category": "pop-culture",
+  "joke": "New Kids on the Block, moved to the dock",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "NEW KIDS ON THE DOCK": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Pulp Fishin'",
+  "category": "pop-culture",
+  "joke": "'Pulp Fiction' with fishing",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "PULP FISHIN": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Sailbad the Sinner",
+  "category": "pop-culture",
+  "joke": "Sinbad the Sailor, turned around.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SAILBAD THE SINNER": 5,
+   "SAILBAD THE SINNER IV": 1
+  },
+  "vessels": 6
+ },
+ {
+  "name": "Scuba Doo",
+  "category": "pop-culture",
+  "joke": "Scooby-Doo goes diving.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "SCUBA DOO": 3,
+   "SCUBA DO": 2,
+   "SCUBA-DO": 2,
+   "SCUBADOO": 1,
+   "SCUBA-DOO": 1
+  },
+  "vessels": 9
+ },
+ {
+  "name": "Starfish Enterprise",
+  "category": "pop-culture",
+  "joke": "Star Trek's Starship Enterprise, with a starfish",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "STARFISH ENTERPRISE": 3,
+   "STARFISH ENTERPRISE II": 1
+  },
+  "vessels": 4
+ },
+ {
+  "name": "The Big Leboatski",
+  "category": "pop-culture",
+  "joke": "The Big Lebowski, as a boat.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "THE BIG LEBOATSKI": 5
+  },
+  "vessels": 5
+ },
+ {
+  "name": "Tooth Ferry",
+  "category": "pop-culture",
+  "joke": "The Tooth Fairy, now running a ferry.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "TOOTH FERRY": 10,
+   "TOOTH FAIRY": 3,
+   "TOOTH FERRY II": 2,
+   "TOOTHFAIRY": 2,
+   "TOOTH FAIRY II": 1
+  },
+  "vessels": 18
+ },
+ {
+  "name": "Tug Life",
+  "category": "pop-culture",
+  "joke": "'Thug Life', for a tugboat.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "TUG LIFE": 6,
+   "TUGLIFE": 2,
+   "TUGLIFE II": 1
+  },
+  "vessels": 9
+ },
+ {
+  "name": "We Whale Rock You",
+  "category": "pop-culture",
+  "joke": "Queen's 'We Will Rock You', whale-sized.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "WE WHALE ROCK YOU": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "What's Up Dock",
+  "category": "pop-culture",
+  "joke": "Bugs Bunny's 'What's up, Doc?' at the dock.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "WHAT'S UP DOCK": 4,
+   "WOT'S UP DOCK": 1
+  },
+  "vessels": 5
+ },
+ {
+  "name": "Where's the Reef",
+  "category": "pop-culture",
+  "joke": "'Where's the beef?', asked by a lost diver.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "WHERE'S THE REEF": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Yachta Yachta Yachta",
+  "category": "pop-culture",
+  "joke": "Seinfeld's 'yada yada yada' with yachts",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "YACHTA YACHTA YACHTA": 9,
+   "YACHTA,YACHTA, YACHTA": 1
+  },
+  "vessels": 10
+ },
+ {
+  "name": "Yachtzee",
+  "category": "pop-culture",
+  "joke": "The dice game Yahtzee, as a yacht.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "YACHTZEE": 4,
+   "YACHT-ZEE": 1
+  },
+  "vessels": 5
+ },
+ {
+  "name": "Yachtley Crue",
+  "category": "pop-culture",
+  "joke": "Mötley Crüe, but yachts",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "YACHTLEY CRUE": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Yakety Yacht",
+  "category": "pop-culture",
+  "joke": "The song Yakety Yak, as a yacht.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "YAKETY YACHT": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Zero Dock Thirty",
+  "category": "pop-culture",
+  "joke": "The film Zero Dark Thirty, with a dock.",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "ZERO DOCK THIRTY": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "We're Gonna Need a Bigger Boat",
+  "category": "pop-culture",
+  "joke": "Famous Jaws line",
+  "provenance": "boat-names-dataset",
+  "source_spellings": {
+   "WE'RE GONNA NEED A BIGGER BOAT": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Moor or Less",
+  "category": "dock-and-mooring",
+  "joke": "'More or less', moored: a non-committal sailor.",
+  "provenance": "original",
+  "source_spellings": {},
+  "vessels": 0
+ }
+]

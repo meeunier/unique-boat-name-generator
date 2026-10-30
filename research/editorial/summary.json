@@ -1,0 +1,13 @@
+{
+  "vessel_rows": 395728,
+  "distinct_raw_names": 213875,
+  "normalized_groups": 163906,
+  "automated_candidates": 8840,
+  "popular_unmatched_reviewed": 9867,
+  "first_pass_keep": 633,
+  "first_pass_borderline": 166,
+  "retained_from_dataset": 382,
+  "retained_original": 1,
+  "borderline": 159,
+  "rejected_in_final_pass": 218
+}

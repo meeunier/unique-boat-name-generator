@@ -1,0 +1,170 @@
+{"key": "KNOTMYPROBLEM", "name": "Knot My Problem", "decision": "keep", "category": "knot-puns", "joke": "\"Not my problem\", tied up in nautical knots", "variants": ["KNOTAMEPROBLEM"], "reason": ""}
+{"key": "KNOTSOFAST", "name": "Knot So Fast", "decision": "keep", "category": "knot-puns", "joke": "\"Not so fast\" with knots as boat speed", "variants": [], "reason": ""}
+{"key": "SEAYALATER", "name": "Sea Ya Later", "decision": "keep", "category": "sea-puns", "joke": "\"See ya later\" with sea", "variants": ["SEAYOULATER", "SEASYALATER", "SEAUULATER", "SEAYOUSLATER", "CULATER", "SEAYASOONER", "CEALATER"], "reason": ""}
+{"key": "STILLKNOTWORKING", "name": "Still Knot Working", "decision": "keep", "category": "day-job", "joke": "Retired boater still not working; or the boat still isn't", "variants": [], "reason": ""}
+{"key": "KNOTONCALLAGAIN", "name": "Knot On Call Again", "decision": "keep", "category": "day-job", "joke": "Escaping the pager: \"not on call\" with a knot", "variants": ["NOTONCALL", "NAUGHTONCALL"], "reason": ""}
+{"key": "NAUTIBUOY", "name": "Nauti Buoy", "decision": "borderline", "category": "dock-and-mooring", "joke": "\"Naughty boy\" as a buoy", "variants": ["NAUTIBOY"], "reason": "Mild innuendo listed in rubric"}
+{"key": "KNOTAVAILABLE", "name": "Knot Available", "decision": "keep", "category": "knot-puns", "joke": "Out on the water and \"not available\"", "variants": [], "reason": ""}
+{"key": "KNOTACLEW", "name": "Knot a Clew", "decision": "keep", "category": "knot-puns", "joke": "\"Not a clue\" using the sail's clew corner", "variants": ["STILLKNOTACLUE"], "reason": ""}
+{"key": "SEASTHEDAY", "name": "Seas the Day", "decision": "keep", "category": "sea-puns", "joke": "\"Seize the day\" with seas", "variants": ["SEASTHEDAYS"], "reason": ""}
+{"key": "SAILLAVIE", "name": "Sail La Vie", "decision": "keep", "category": "boat-parts", "joke": "\"C'est la vie\" with sail", "variants": [], "reason": ""}
+{"key": "AFRAYEDKNOT", "name": "A Frayed Knot", "decision": "keep", "category": "knot-puns", "joke": "\"Afraid not\" as a frayed rope knot", "variants": [], "reason": ""}
+{"key": "KNOT4SAIL", "name": "Knot for Sail", "decision": "keep", "category": "knot-puns", "joke": "\"Not for sale\" with sail", "variants": ["KNOTFORSAIIL"], "reason": ""}
+{"key": "OARWHATEVER", "name": "Oar Whatever", "decision": "keep", "category": "boat-parts", "joke": "Teenage shrug \"or whatever\" with an oar", "variants": ["OARWHAT"], "reason": ""}
+{"key": "PIERPRESSURE", "name": "Pier Pressure", "decision": "keep", "category": "dock-and-mooring", "joke": "\"Peer pressure\" at the pier", "variants": ["PIERPRESSURETOO"], "reason": ""}
+{"key": "SHORETHING", "name": "Shore Thing", "decision": "keep", "category": "life-at-sea", "joke": "\"Sure thing\" with shore", "variants": [], "reason": ""}
+{"key": "KNOTNORMAL", "name": "Knot Normal", "decision": "keep", "category": "knot-puns", "joke": "Self-aware \"not normal\" with a knot", "variants": [], "reason": ""}
+{"key": "REELSALTY", "name": "Reel Salty", "decision": "keep", "category": "reel-puns", "joke": "\"Really salty\": grumpy, and literally sea-salty", "variants": [], "reason": ""}
+{"key": "NAUTICALNONSENSE", "name": "Nautical Nonsense", "decision": "keep", "category": "pop-culture", "joke": "SpongeBob theme lyric; nautical silliness", "variants": [], "reason": ""}
+{"key": "SSMINNOW", "name": "S.S. Minnow", "decision": "borderline", "category": "pop-culture", "joke": "Gilligan's Island boat from the three-hour tour", "variants": ["SMSMINNOW"], "reason": "Plain reference to a famously shipwrecked boat"}
+{"key": "HULLINONE", "name": "Hull in One", "decision": "keep", "category": "boat-parts", "joke": "\"Hole in one\" golf pun with hull", "variants": [], "reason": ""}
+{"key": "NEWKIDSONTHEDOCK", "name": "New Kids on the Dock", "decision": "keep", "category": "pop-culture", "joke": "New Kids on the Block, moved to the dock", "variants": [], "reason": ""}
+{"key": "3KIDS3MOTORSANDBROKE", "name": "3 Kids, 3 Motors and Broke", "decision": "keep", "category": "money-pit", "joke": "Honest family boating budget summary", "variants": [], "reason": ""}
+{"key": "FISHINONCREDIT", "name": "Fishin' on Credit", "decision": "keep", "category": "money-pit", "joke": "The fishing trip is financed", "variants": [], "reason": ""}
+{"key": "KNOTTOSCALE", "name": "Knot to Scale", "decision": "keep", "category": "knot-puns", "joke": "\"Not to scale\" for a boat smaller or bigger than it looks", "variants": [], "reason": ""}
+{"key": "OFFSHOREHOLDINGS", "name": "Offshore Holdings", "decision": "keep", "category": "money-pit", "joke": "Tax-haven finance term, literally offshore", "variants": ["OFFSHOREBANK", "OFFSHOREBANKER"], "reason": ""}
+{"key": "SEAYAMONDAY", "name": "Sea Ya Monday", "decision": "keep", "category": "day-job", "joke": "Weekend boater signing off until work", "variants": [], "reason": ""}
+{"key": "WORKAHULLICS", "name": "Work-a-Hullics", "decision": "keep", "category": "boat-parts", "joke": "\"Workaholics\" with a hull", "variants": [], "reason": ""}
+{"key": "REELTIME", "name": "Reel Time", "decision": "keep", "category": "reel-puns", "joke": "\"Real time\" with a fishing reel", "variants": [], "reason": ""}
+{"key": "VITAMINSEA", "name": "Vitamin Sea", "decision": "keep", "category": "sea-puns", "joke": "\"Vitamin C\" as the sea cure", "variants": [], "reason": ""}
+{"key": "REELESTATE", "name": "Reel Estate", "decision": "keep", "category": "reel-puns", "joke": "\"Real estate\" for a fishing boat", "variants": ["PRIMEREELESTATE", "KNOTREELESTATE"], "reason": ""}
+{"key": "FISHTALES", "name": "Fish Tales", "decision": "keep", "category": "fishy", "joke": "Fish tails and tall fishing stories", "variants": ["FISHNTALE", "FISHTALESV", "DJSFISHTALES"], "reason": ""}
+{"key": "YESDEAR", "name": "Yes Dear", "decision": "keep", "category": "household", "joke": "The agreeable spouse's all-purpose reply", "variants": ["YESDEERE"], "reason": ""}
+{"key": "SHIPHAPPENS", "name": "Ship Happens", "decision": "borderline", "category": "dry-humour", "joke": "\"Shit happens\" with ship", "variants": [], "reason": "Disguised profanity"}
+{"key": "HULLABALOO", "name": "Hullabaloo", "decision": "keep", "category": "boat-parts", "joke": "A real word for uproar that starts with hull", "variants": [], "reason": ""}
+{"key": "REELJOB", "name": "Reel Job", "decision": "keep", "category": "day-job", "joke": "Fishing as their \"real job\"", "variants": ["MYREELJOB"], "reason": ""}
+{"key": "OHBUOY", "name": "Oh Buoy", "decision": "keep", "category": "dock-and-mooring", "joke": "\"Oh boy\" with a buoy", "variants": [], "reason": ""}
+{"key": "ATTABUOY", "name": "Atta Buoy", "decision": "keep", "category": "dock-and-mooring", "joke": "\"Attaboy\" with a buoy", "variants": [], "reason": ""}
+{"key": "DONTTELLTHEKIDS", "name": "Don't Tell the Kids", "decision": "keep", "category": "money-pit", "joke": "Spending the inheritance on a boat, quietly", "variants": [], "reason": ""}
+{"key": "PARTTIMEHOOKER", "name": "Part Time Hooker", "decision": "borderline", "category": "fishy", "joke": "Weekend angler who hooks fish", "variants": [], "reason": "Hooker fishing pun; sexual double meaning"}
+{"key": "BUOYSANDGULLS", "name": "Buoys and Gulls", "decision": "keep", "category": "dock-and-mooring", "joke": "\"Boys and girls\" as buoys and gulls", "variants": ["BUOYSNGULLS"], "reason": ""}
+{"key": "KEEPITREEL", "name": "Keep It Reel", "decision": "keep", "category": "reel-puns", "joke": "\"Keep it real\" with a reel", "variants": [], "reason": ""}
+{"key": "VICTORIASSEACRET", "name": "Victoria's Seacret", "decision": "borderline", "category": "pop-culture", "joke": "Victoria's Secret with sea", "variants": [], "reason": "Lingerie brand reference; mild innuendo"}
+{"key": "KNOTTYINTENTIONS", "name": "Knotty Intentions", "decision": "borderline", "category": "knot-puns", "joke": "\"Naughty intentions\" with knots", "variants": [], "reason": "Mild innuendo"}
+{"key": "SHAKENBAIT", "name": "Shake 'n Bait", "decision": "keep", "category": "fishy", "joke": "Shake 'n Bake with bait", "variants": [], "reason": ""}
+{"key": "DOKNOTDISTURB", "name": "Do Knot Disturb", "decision": "keep", "category": "knot-puns", "joke": "\"Do not disturb\" sign with a knot", "variants": [], "reason": ""}
+{"key": "KISSMYSTERN", "name": "Kiss My Stern", "decision": "borderline", "category": "boat-parts", "joke": "\"Kiss my butt\" with the stern", "variants": [], "reason": "Rude disguised insult"}
+{"key": "NAUTICALBYNATURE", "name": "Nautical by Nature", "decision": "keep", "category": "pop-culture", "joke": "Naughty by Nature band pun", "variants": [], "reason": ""}
+{"key": "SHIPFACEDAGAIN", "name": "Ship Faced Again", "decision": "borderline", "category": "dry-humour", "joke": "\"Shit-faced\" drunk, with ship", "variants": [], "reason": "Disguised profanity and heavy drinking"}
+{"key": "FISHYINVESTMENT", "name": "Fishy Investment", "decision": "keep", "category": "money-pit", "joke": "A dubious investment that involves fish", "variants": [], "reason": ""}
+{"key": "HULLOFFAME", "name": "Hull of Fame", "decision": "keep", "category": "boat-parts", "joke": "\"Hall of Fame\" with hull", "variants": [], "reason": ""}
+{"key": "RHYMEOARREASON", "name": "Rhyme Oar Reason", "decision": "keep", "category": "boat-parts", "joke": "\"Rhyme or reason\" with an oar", "variants": [], "reason": ""}
+{"key": "WEREKNOTGETTINGABOAT", "name": "We're Knot Getting a Boat", "decision": "keep", "category": "household", "joke": "Famous last words, written on a boat", "variants": [], "reason": ""}
+{"key": "YOURSMINEANDOARS", "name": "Yours, Mine and Oars", "decision": "keep", "category": "household", "joke": "\"Yours, Mine and Ours\" blended-family movie with oars", "variants": [], "reason": ""}
+{"key": "CURRENTSEA", "name": "Current Sea", "decision": "keep", "category": "money-pit", "joke": "\"Currency\" as an ocean current", "variants": [], "reason": ""}
+{"key": "PORTFOLIO", "name": "Portfolio", "decision": "keep", "category": "money-pit", "joke": "Investment portfolio, and a port; where the money went", "variants": [], "reason": ""}
+{"key": "THREESHEETS", "name": "Three Sheets", "decision": "borderline", "category": "life-at-sea", "joke": "\"Three sheets to the wind\" means drunk", "variants": ["THREESHEETSINTHEWIND"], "reason": "Alcohol joke"}
+{"key": "YACHTZ", "name": "Yacht-Z", "decision": "keep", "category": "pop-culture", "joke": "Yahtzee dice game with a yacht", "variants": [], "reason": ""}
+{"key": "BIGDECKENERGY", "name": "Big Deck Energy", "decision": "borderline", "category": "boat-parts", "joke": "\"Big D*** Energy\" with deck", "variants": ["BIGYACHTENERGY"], "reason": "Sexual innuendo"}
+{"key": "THECODFATHER", "name": "The Codfather", "decision": "keep", "category": "fishy", "joke": "The Godfather with a cod", "variants": [], "reason": ""}
+{"key": "FINNTONIC", "name": "Fin 'n Tonic", "decision": "borderline", "category": "fishy", "joke": "Gin and tonic with a fin", "variants": [], "reason": "Alcohol joke"}
+{"key": "SOUNDINVESTMENT", "name": "Sound Investment", "decision": "keep", "category": "money-pit", "joke": "\"Sound investment\", in a body of water called a sound", "variants": [], "reason": ""}
+{"key": "BEYONDTHERAPY", "name": "Beyond Therapy", "decision": "keep", "category": "dry-humour", "joke": "Boating as the last resort after therapy", "variants": [], "reason": ""}
+{"key": "REELISSUES", "name": "Reel Issues", "decision": "keep", "category": "reel-puns", "joke": "\"Real issues\" with a fishing reel", "variants": [], "reason": ""}
+{"key": "MIDLIFECRISEAS", "name": "Midlife Criseas", "decision": "keep", "category": "sea-puns", "joke": "\"Midlife crisis\" bought as a boat", "variants": ["MIDLIFECRYSEAS"], "reason": ""}
+{"key": "PRINCEOFWHALES", "name": "Prince of Whales", "decision": "keep", "category": "fishy", "joke": "Prince of Wales with whales", "variants": [], "reason": ""}
+{"key": "SUDDENDEBT", "name": "Sudden Debt", "decision": "keep", "category": "money-pit", "joke": "\"Sudden death\" overtime, as boat debt", "variants": [], "reason": ""}
+{"key": "WIFEAPPROVED", "name": "Wife Approved", "decision": "keep", "category": "household", "joke": "The purchase that got the official sign-off", "variants": [], "reason": ""}
+{"key": "BUOYTOY", "name": "Buoy Toy", "decision": "borderline", "category": "dock-and-mooring", "joke": "\"Boy toy\" with a buoy", "variants": [], "reason": "Mild innuendo"}
+{"key": "HULLYES", "name": "Hull Yes", "decision": "borderline", "category": "boat-parts", "joke": "\"Hell yes\" with hull", "variants": [], "reason": "Disguised mild profanity"}
+{"key": "KNOTAPPROPRIATE", "name": "Knot Appropriate", "decision": "keep", "category": "knot-puns", "joke": "\"Not appropriate\" with a knot", "variants": [], "reason": ""}
+{"key": "UNSINKABLETOO", "name": "Unsinkable Too", "decision": "borderline", "category": "dry-humour", "joke": "Titanic-style boast, sequel edition", "variants": [], "reason": "Dark-ish shipwreck irony"}
+{"key": "ANOTHERTHOUSAND", "name": "Another Thousand", "decision": "keep", "category": "money-pit", "joke": "BOAT: Bust Out Another Thousand", "variants": [], "reason": ""}
+{"key": "CURRENTASSET", "name": "Current Asset", "decision": "keep", "category": "money-pit", "joke": "Accounting term with a sea current", "variants": [], "reason": ""}
+{"key": "HONEYDOESCAPE", "name": "Honey-Do Escape", "decision": "keep", "category": "household", "joke": "Fleeing the honey-do chore list", "variants": [], "reason": ""}
+{"key": "KNOTPRACTICAL", "name": "Knot Practical", "decision": "keep", "category": "knot-puns", "joke": "Admitting a boat is \"not practical\"", "variants": [], "reason": ""}
+{"key": "LOTTADOLLARSNOSENSE", "name": "Lotta Dollars, No Sense", "decision": "keep", "category": "money-pit", "joke": "Boat ownership summarised", "variants": [], "reason": ""}
+{"key": "MOORCOWBELL", "name": "Moor Cowbell", "decision": "keep", "category": "pop-culture", "joke": "SNL's \"More cowbell\" with mooring", "variants": [], "reason": ""}
+{"key": "OURCHILDRENSINHERITANCE", "name": "Our Children's Inheritance", "decision": "keep", "category": "money-pit", "joke": "Spending the kids' inheritance on a boat", "variants": ["MYDAUGHTERSINHERITANCE"], "reason": ""}
+{"key": "ROUTECANALTHERAPY", "name": "Route Canal Therapy", "decision": "keep", "category": "life-at-sea", "joke": "\"Root canal therapy\", but cruising a canal route", "variants": [], "reason": ""}
+{"key": "SHOREWHYNOT", "name": "Shore Why Not", "decision": "keep", "category": "life-at-sea", "joke": "\"Sure, why not\" with shore", "variants": [], "reason": ""}
+{"key": "STILLATTHEOFFICE", "name": "Still at the Office", "decision": "keep", "category": "day-job", "joke": "The alibi for being out on the boat", "variants": [], "reason": ""}
+{"key": "WEREGONNANEEDABIGGERBOAT", "name": "We're Gonna Need a Bigger Boat", "decision": "keep", "category": "pop-culture", "joke": "Famous Jaws line", "variants": [], "reason": ""}
+{"key": "WIFESAIDNO", "name": "Wife Said No", "decision": "borderline", "category": "household", "joke": "Bought the boat anyway", "variants": [], "reason": "Gentle spouse dig"}
+{"key": "BOWMOVEMENT", "name": "Bow Movement", "decision": "borderline", "category": "boat-parts", "joke": "\"Bowel movement\" with the bow", "variants": [], "reason": "Toilet humour"}
+{"key": "LONESHARK", "name": "Lone Shark", "decision": "keep", "category": "fishy", "joke": "\"Loan shark\" with a lone shark", "variants": [], "reason": ""}
+{"key": "SATELLITEOFFICE", "name": "Satellite Office", "decision": "keep", "category": "day-job", "joke": "The boat is technically a branch office", "variants": [], "reason": ""}
+{"key": "TUNAKAHUNA", "name": "Tuna Kahuna", "decision": "keep", "category": "fishy", "joke": "\"Big Kahuna\" of tuna fishing", "variants": [], "reason": ""}
+{"key": "ESSENTIALBUSINESS", "name": "Essential Business", "decision": "keep", "category": "day-job", "joke": "Boating classified as essential work", "variants": [], "reason": ""}
+{"key": "FLOATINGRATE", "name": "Floating Rate", "decision": "keep", "category": "money-pit", "joke": "Loan finance term, but the boat floats", "variants": [], "reason": ""}
+{"key": "MARLINMONROE", "name": "Marlin Monroe", "decision": "keep", "category": "fishy", "joke": "Marilyn Monroe as a marlin", "variants": [], "reason": ""}
+{"key": "SELFISH", "name": "Selfish", "decision": "keep", "category": "fishy", "joke": "Self-ish: all the fish for me", "variants": [], "reason": ""}
+{"key": "TITANIC", "name": "Titanic", "decision": "borderline", "category": "pop-culture", "joke": "Ironic name for any small boat", "variants": [], "reason": "Dark-ish shipwreck irony"}
+{"key": "BEATSWORKING", "name": "Beats Working", "decision": "keep", "category": "day-job", "joke": "Any day on the boat beats the office", "variants": [], "reason": ""}
+{"key": "MASTTRANSIT", "name": "Mast Transit", "decision": "keep", "category": "boat-parts", "joke": "\"Mass transit\" by sailboat mast", "variants": [], "reason": ""}
+{"key": "ALLDECKEDOUT", "name": "All Decked Out", "decision": "keep", "category": "boat-parts", "joke": "\"All decked out\" with a deck", "variants": [], "reason": ""}
+{"key": "BADASSETS", "name": "Bad Assets", "decision": "borderline", "category": "money-pit", "joke": "Finance term that sounds like \"badass\"", "variants": ["BADDASSET"], "reason": "Disguised mild profanity"}
+{"key": "FISHNIMPOSSIBLE", "name": "Fishin' Impossible", "decision": "keep", "category": "pop-culture", "joke": "Mission Impossible for anglers", "variants": [], "reason": ""}
+{"key": "STILLNOREGERTS", "name": "Still No Regerts", "decision": "keep", "category": "pop-culture", "joke": "Misspelled \"No Ragrets\" tattoo meme", "variants": [], "reason": ""}
+{"key": "THANKSAGAINDAD", "name": "Thanks Again Dad", "decision": "keep", "category": "household", "joke": "Dad paid for the boat. Again", "variants": [], "reason": ""}
+{"key": "THECONFERENCEROOM", "name": "The Conference Room", "decision": "keep", "category": "day-job", "joke": "\"I'm in a meeting\" at sea", "variants": ["THEBOARDROOM"], "reason": ""}
+{"key": "WHATINHERITANCE", "name": "What Inheritance?", "decision": "keep", "category": "money-pit", "joke": "The kids' inheritance became the boat", "variants": ["SORRYKIDZ"], "reason": ""}
+{"key": "WORKINGFROMHOME", "name": "Working from Home", "decision": "keep", "category": "day-job", "joke": "The remote-work alibi, afloat", "variants": [], "reason": ""}
+{"key": "ARIVERDERCI", "name": "A Riverderci", "decision": "keep", "category": "life-at-sea", "joke": "\"Arrivederci\" with a river", "variants": ["ARIVADERCI"], "reason": ""}
+{"key": "ASTHEPROPTURNS", "name": "As the Prop Turns", "decision": "keep", "category": "boat-parts", "joke": "Soap opera \"As the World Turns\" with a propeller", "variants": [], "reason": ""}
+{"key": "BABYGOTAFT", "name": "Baby Got Aft", "decision": "borderline", "category": "boat-parts", "joke": "\"Baby Got Back\" with the aft deck", "variants": [], "reason": "Song about rear ends; mild body innuendo"}
+{"key": "BADTOTHEBOW", "name": "Bad to the Bow", "decision": "keep", "category": "boat-parts", "joke": "\"Bad to the Bone\" with the bow", "variants": [], "reason": ""}
+{"key": "BRILLIANTDEDUCTION", "name": "Brilliant Deduction", "decision": "keep", "category": "money-pit", "joke": "Sherlock line, as a tax write-off boat", "variants": [], "reason": ""}
+{"key": "DOCKDOCKGOOSE", "name": "Dock Dock Goose", "decision": "keep", "category": "dock-and-mooring", "joke": "\"Duck duck goose\" at the dock", "variants": [], "reason": ""}
+{"key": "FINSINLOWPLACES", "name": "Fins in Low Places", "decision": "keep", "category": "fishy", "joke": "\"Friends in Low Places\" with fins", "variants": [], "reason": ""}
+{"key": "GRANDFINALLY", "name": "Grand Fin-ally", "decision": "keep", "category": "fishy", "joke": "\"Grand finale\" with a fin; the retirement boat", "variants": [], "reason": ""}
+{"key": "HONESTLAWYER", "name": "Honest Lawyer", "decision": "keep", "category": "dry-humour", "joke": "Oxymoron worthy of a boat name", "variants": [], "reason": ""}
+{"key": "MINNOWPAUSE", "name": "Minnow Pause", "decision": "borderline", "category": "fishy", "joke": "\"Menopause\" with a minnow", "variants": [], "reason": "Pun on menopause could embarrass recipients"}
+{"key": "NACHOMONEY", "name": "Nacho Money", "decision": "keep", "category": "dry-humour", "joke": "\"Not your money\": nacho pun", "variants": [], "reason": ""}
+{"key": "ONEINAMARLIN", "name": "One in a Marlin", "decision": "keep", "category": "fishy", "joke": "\"One in a million\" with a marlin", "variants": [], "reason": ""}
+{"key": "PLEASEDONTSINK", "name": "Please Don't Sink", "decision": "borderline", "category": "dry-humour", "joke": "Owner's humble daily prayer", "variants": [], "reason": "Mild sinking humour"}
+{"key": "RESAILTHERAPY", "name": "Resail Therapy", "decision": "keep", "category": "boat-parts", "joke": "\"Retail therapy\" with sailing", "variants": [], "reason": ""}
+{"key": "ROCKAROUNDTHEDOCK", "name": "Rock Around the Dock", "decision": "keep", "category": "dock-and-mooring", "joke": "\"Rock Around the Clock\" at the dock", "variants": [], "reason": ""}
+{"key": "SCREENINGMYCALLS", "name": "Screening My Calls", "decision": "keep", "category": "day-job", "joke": "Not answering work from the boat", "variants": [], "reason": ""}
+{"key": "SHELLOFAGOODTIME", "name": "Shell of a Good Time", "decision": "borderline", "category": "fishy", "joke": "\"Hell of a good time\" with a shell", "variants": [], "reason": "Disguised mild profanity"}
+{"key": "SLIGHTLYBROKE", "name": "Slightly Broke", "decision": "keep", "category": "money-pit", "joke": "Both the boat and the owner", "variants": [], "reason": ""}
+{"key": "TEAKTACKTOW", "name": "Teak Tack Tow", "decision": "keep", "category": "boat-parts", "joke": "\"Tic-tac-toe\" in boating terms", "variants": [], "reason": ""}
+{"key": "THEBOBMARLIN", "name": "The Bob Marlin", "decision": "keep", "category": "fishy", "joke": "Bob Marley as a marlin", "variants": [], "reason": ""}
+{"key": "TROPHYHUSBAND", "name": "Trophy Husband", "decision": "keep", "category": "household", "joke": "Role-reversed trophy spouse", "variants": [], "reason": ""}
+{"key": "UPSHIPSCREEK", "name": "Up Ship's Creek", "decision": "borderline", "category": "dry-humour", "joke": "\"Up s*** creek\" with ship", "variants": [], "reason": "Disguised profanity"}
+{"key": "WHATSAMONDAY", "name": "What's a Monday?", "decision": "keep", "category": "day-job", "joke": "Retired boater has forgotten weekdays", "variants": [], "reason": ""}
+{"key": "WORKLIFEBUOYANCE", "name": "Work-Life Buoyance", "decision": "keep", "category": "day-job", "joke": "\"Work-life balance\" with buoyancy", "variants": [], "reason": ""}
+{"key": "POURDECISIONS", "name": "Pour Decisions", "decision": "borderline", "category": "dry-humour", "joke": "\"Poor decisions\" made while pouring drinks", "variants": [], "reason": "Alcohol joke"}
+{"key": "LICENSETOCHILL", "name": "License to Chill", "decision": "keep", "category": "pop-culture", "joke": "Bond's \"License to Kill\", relaxed", "variants": ["LICENSEDTOCHILL"], "reason": ""}
+{"key": "THEOTHERWOMAN", "name": "The Other Woman", "decision": "borderline", "category": "household", "joke": "The boat as rival for a spouse's affection", "variants": ["MYMISTRESS"], "reason": "Affair joke may embarrass"}
+{"key": "THEDOGHOUSE", "name": "The Dog House", "decision": "keep", "category": "household", "joke": "Where you sleep after buying the boat", "variants": [], "reason": ""}
+{"key": "FLIGHTRISK", "name": "Flight Risk", "decision": "keep", "category": "dry-humour", "joke": "Legal term for someone likely to flee", "variants": [], "reason": ""}
+{"key": "MUTUALFUN", "name": "Mutual Fun", "decision": "keep", "category": "money-pit", "joke": "\"Mutual fund\" invested in fun", "variants": [], "reason": ""}
+{"key": "MISSCONDUCT", "name": "Miss Conduct", "decision": "keep", "category": "dry-humour", "joke": "\"Misconduct\" as a lady's name", "variants": ["MISSBEHAVEN", "MISSCHIEF"], "reason": ""}
+{"key": "ITSABOATTIME", "name": "It's a Boat Time", "decision": "keep", "category": "life-at-sea", "joke": "\"It's about time\" with a boat", "variants": [], "reason": ""}
+{"key": "MTPOCKETS", "name": "M.T. Pockets", "decision": "keep", "category": "money-pit", "joke": "\"Empty pockets\" as initials", "variants": [], "reason": ""}
+{"key": "WORTHTHEWAKE", "name": "Worth the Wake", "decision": "keep", "category": "boat-parts", "joke": "\"Worth the wait\" with a wake", "variants": [], "reason": ""}
+{"key": "COMININHOT", "name": "Comin' In Hot", "decision": "keep", "category": "dock-and-mooring", "joke": "Every boater's docking warning", "variants": [], "reason": ""}
+{"key": "SHAKENNOTSTIRRED", "name": "Shaken Not Stirred", "decision": "borderline", "category": "pop-culture", "joke": "Bond martini order; boats get shaken", "variants": [], "reason": "Alcohol joke, plain quote"}
+{"key": "BULLSHIP", "name": "Bull Ship", "decision": "borderline", "category": "dry-humour", "joke": "\"Bulls***\" with ship", "variants": ["NOBULLSHIP"], "reason": "Disguised profanity"}
+{"key": "GOINGCOASTAL", "name": "Going Coastal", "decision": "borderline", "category": "life-at-sea", "joke": "\"Going postal\" by the coast", "variants": [], "reason": "References workplace violence idiom"}
+{"key": "SEASECTION", "name": "Sea Section", "decision": "borderline", "category": "sea-puns", "joke": "\"C-section\" with sea", "variants": [], "reason": "Childbirth/medical pun may embarrass"}
+{"key": "COLLEGEFUND", "name": "College Fund", "decision": "keep", "category": "money-pit", "joke": "Where the tuition money actually went", "variants": [], "reason": ""}
+{"key": "HERIDEA", "name": "Her Idea", "decision": "borderline", "category": "household", "joke": "Blaming the spouse for the boat", "variants": ["HERFAULT"], "reason": "Gentle spouse dig"}
+{"key": "BADIDEA", "name": "Bad Idea", "decision": "keep", "category": "dry-humour", "joke": "Self-aware verdict on boat ownership", "variants": [], "reason": ""}
+{"key": "HELLONREELS", "name": "Hell on Reels", "decision": "borderline", "category": "reel-puns", "joke": "\"Hell on Wheels\" with reels", "variants": [], "reason": "Mild profanity"}
+{"key": "PASSINGWIND", "name": "Passing Wind", "decision": "borderline", "category": "life-at-sea", "joke": "Sailing wind, and a fart joke", "variants": ["BREAKINWIND"], "reason": "Toilet humour"}
+{"key": "SUMBEACH", "name": "Sum Beach", "decision": "borderline", "category": "life-at-sea", "joke": "\"Son of a b****\" as a beach", "variants": [], "reason": "Disguised profanity"}
+{"key": "THISSIDEUP", "name": "This Side Up", "decision": "keep", "category": "dry-humour", "joke": "Shipping-box label, important for boats", "variants": [], "reason": ""}
+{"key": "SLOOPDUJOUR", "name": "Sloop du Jour", "decision": "keep", "category": "boat-parts", "joke": "\"Soup du jour\" with a sloop", "variants": [], "reason": ""}
+{"key": "SOCIALLYDISTANT", "name": "Socially Distant", "decision": "keep", "category": "dry-humour", "joke": "Out on the water, far from everyone", "variants": ["SOCIALLYDISTANCED"], "reason": ""}
+{"key": "THEDEFENSERESTS", "name": "The Defense Rests", "decision": "keep", "category": "day-job", "joke": "Courtroom phrase; the lawyer is finally resting", "variants": [], "reason": ""}
+{"key": "BLOWNINCOME", "name": "Blown Income", "decision": "keep", "category": "money-pit", "joke": "Disposable income, blown away on a sailboat", "variants": [], "reason": ""}
+{"key": "CIRCLEBACK", "name": "Circle Back", "decision": "keep", "category": "day-job", "joke": "Office jargon, done by boat", "variants": [], "reason": ""}
+{"key": "CHEAPERTOKEEPHER", "name": "Cheaper to Keep Her", "decision": "borderline", "category": "household", "joke": "Old song: divorce costs more than the boat", "variants": [], "reason": "Spouse/divorce dig"}
+{"key": "FREUDIANSLOOP", "name": "Freudian Sloop", "decision": "keep", "category": "boat-parts", "joke": "\"Freudian slip\" with a sloop", "variants": [], "reason": ""}
+{"key": "LONGTIMENOSEA", "name": "Long Time No Sea", "decision": "keep", "category": "sea-puns", "joke": "\"Long time no see\" with sea", "variants": [], "reason": ""}
+{"key": "MEALSONREELS", "name": "Meals on Reels", "decision": "keep", "category": "reel-puns", "joke": "\"Meals on Wheels\" for anglers", "variants": [], "reason": ""}
+{"key": "NOPATIENTS", "name": "No Patients", "decision": "keep", "category": "day-job", "joke": "The doctor's day off; \"no patience\" pun", "variants": [], "reason": ""}
+{"key": "PAIRODICE", "name": "Pair-o-Dice", "decision": "keep", "category": "dry-humour", "joke": "\"Paradise\" as a pair of dice", "variants": [], "reason": ""}
+{"key": "STARFISHENTERPRISE", "name": "Starfish Enterprise", "decision": "keep", "category": "pop-culture", "joke": "Star Trek's Starship Enterprise, with a starfish", "variants": [], "reason": ""}
+{"key": "THEDAMBOAT", "name": "The Dam Boat", "decision": "borderline", "category": "dry-humour", "joke": "What everyone calls it: \"the damn boat\"", "variants": [], "reason": "Disguised mild profanity"}
+{"key": "BERIGHTBACK", "name": "Be Right Back", "decision": "keep", "category": "dry-humour", "joke": "The away message, left on indefinitely", "variants": [], "reason": ""}
+{"key": "FULLYVESTED", "name": "Fully Vested", "decision": "keep", "category": "money-pit", "joke": "Pension vested; also wearing a life vest", "variants": [], "reason": ""}
+{"key": "GAILWINS", "name": "Gail Wins", "decision": "keep", "category": "household", "joke": "\"Gale winds\", and Gail won the argument", "variants": [], "reason": ""}
+{"key": "HOLYSHIP", "name": "Holy Ship", "decision": "borderline", "category": "dry-humour", "joke": "\"Holy s***\" with ship", "variants": [], "reason": "Disguised profanity"}
+{"key": "KINDOFABIGDEAL", "name": "Kind of a Big Deal", "decision": "keep", "category": "pop-culture", "joke": "Anchorman's Ron Burgundy boast", "variants": [], "reason": ""}
+{"key": "LIFESABEACH", "name": "Life's a Beach", "decision": "borderline", "category": "life-at-sea", "joke": "\"Life's a b****\" with beach", "variants": [], "reason": "Disguised profanity"}
+{"key": "SECONDMISTAKE", "name": "Second Mistake", "decision": "keep", "category": "money-pit", "joke": "Every boat after the first one", "variants": [], "reason": ""}
+{"key": "SICKLEAVE", "name": "Sick Leave", "decision": "keep", "category": "day-job", "joke": "Where the sick days really went", "variants": [], "reason": ""}
+{"key": "WHOOPSEA", "name": "Whoopsea", "decision": "keep", "category": "sea-puns", "joke": "\"Whoopsie\" with sea", "variants": [], "reason": ""}

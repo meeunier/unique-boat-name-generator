@@ -1,0 +1,1766 @@
+[
+ {
+  "name": "4 Sheets and Giggles",
+  "category": "boat-parts",
+  "joke": "'For shits and giggles', with sail sheets.",
+  "reason": "Disguised profanity.",
+  "source_spellings": {
+   "4 SHEETS & GIGGLES": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "A Pour Excuse",
+  "category": "dry-humour",
+  "joke": "'A poor excuse' to pour a drink.",
+  "reason": "Alcohol theme.",
+  "source_spellings": {
+   "A POUR EXCUSE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "A Salt Weapon",
+  "category": "life-at-sea",
+  "joke": "'Assault weapon' turned salty.",
+  "reason": "Clever, but evokes guns, a politically charged topic.",
+  "source_spellings": {
+   "A SALT WEAPON": 40,
+   "A-SALT WEAPON": 8,
+   "A-SALT-WEAPON": 8,
+   "ASALT WEAPON": 6,
+   "A SALT WEAPON II": 1,
+   "A-SALT WEAPON II": 1,
+   "ASALTWEAPON": 1
+  },
+  "vessels": 65
+ },
+ {
+  "name": "A Weigh From Wife",
+  "category": "household",
+  "joke": "Away from wife; anchors aweigh.",
+  "reason": "Gentle dig at a spouse.",
+  "source_spellings": {
+   "A WEIGH FROM WIFE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Another Drunken Purchase",
+  "category": "money-pit",
+  "joke": "How the boat was bought, apparently.",
+  "reason": "Heavy drinking theme.",
+  "source_spellings": {
+   "ANOTHER DRUNKEN PURCHASE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Aquaholic",
+  "category": "life-at-sea",
+  "joke": "Addicted to water, like an alcoholic.",
+  "reason": "Alcoholism wordplay.",
+  "source_spellings": {
+   "AQUAHOLIC": 147,
+   "AQUA HOLIC": 16,
+   "AQUA-HOLIC": 11,
+   "AQUAHOLIC II": 4,
+   "AQUAHOLIC 2": 2,
+   "AQUAHOLIC III": 2,
+   "AQUAHOLIC IV": 2,
+   "AQUA - HOLIC II": 1,
+   "AQUA-HOLIC II": 1,
+   "AQUA-HOLIC III": 1
+  },
+  "vessels": 187
+ },
+ {
+  "name": "Assisted Living",
+  "category": "dry-humour",
+  "joke": "A retiree's boat as their care facility.",
+  "reason": "Age joke; could sting an older user who receives it automatically.",
+  "source_spellings": {
+   "ASSISTED LIVING": 10,
+   "ASSISTED LIVING IV": 1
+  },
+  "vessels": 11
+ },
+ {
+  "name": "B-Yacht-Ch",
+  "category": "dry-humour",
+  "joke": "A swear word with 'yacht' hidden inside.",
+  "reason": "Disguised profanity; insulting as a pseudonym.",
+  "source_spellings": {
+   "B-YACHT'CH": 11,
+   "B YACHT CH": 3,
+   "B-YACHT-CH": 2,
+   "BYACHTCH": 1,
+   "B'YACHT-CH": 1,
+   "B-YACHT'CH II": 1
+  },
+  "vessels": 19
+ },
+ {
+  "name": "Bad Assets",
+  "category": "money-pit",
+  "joke": "Finance term that sounds like \"badass\"",
+  "reason": "Disguised mild profanity",
+  "source_spellings": {
+   "BAD ASSETS": 1,
+   "BADD ASSET": 2
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Bait's Motel",
+  "category": "fishy",
+  "joke": "The Bates Motel from Psycho, with bait.",
+  "reason": "Psycho reference (a murder motel).",
+  "source_spellings": {
+   "BAITS MOTEL": 3,
+   "BAIT'S MOTEL": 1
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Baiters Gonna Bait",
+  "category": "fishy",
+  "joke": "Haters gonna hate, for anglers.",
+  "reason": "'Baiter' can read as innuendo.",
+  "source_spellings": {
+   "BAITERS GONNA BAIT": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Bass Ackwards",
+  "category": "fishy",
+  "joke": "Spoonerised 'ass backwards' with bass",
+  "reason": "Disguised profanity",
+  "source_spellings": {
+   "BASSACKWARDS": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Berth Control",
+  "category": "dock-and-mooring",
+  "joke": "'Birth control' for whoever manages the slips.",
+  "reason": "Contraception reference; mildly risqué.",
+  "source_spellings": {
+   "BERTH CONTROL": 4,
+   "BERTH CONTROL 3": 1,
+   "BERTH CONTROL II": 1,
+   "BERTH CONTROL III": 1
+  },
+  "vessels": 7
+ },
+ {
+  "name": "Between the Sheets",
+  "category": "boat-parts",
+  "joke": "Sheets are sail lines; the phrase means in bed.",
+  "reason": "Sexual innuendo.",
+  "source_spellings": {
+   "BETWEEN THE SHEETS": 12
+  },
+  "vessels": 12
+ },
+ {
+  "name": "Big Deck Energy",
+  "category": "boat-parts",
+  "joke": "\"Big D*** Energy\" with deck",
+  "reason": "Sexual innuendo",
+  "source_spellings": {
+   "BIG DECK ENERGY": 7,
+   "BIG YACHT ENERGY": 1
+  },
+  "vessels": 8
+ },
+ {
+  "name": "Big Dock Energy",
+  "category": "dock-and-mooring",
+  "joke": "Riff on 'big d*** energy' with a dock.",
+  "reason": "Innuendo based on a crude phrase.",
+  "source_spellings": {
+   "BIG DOCK ENERGY": 4
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Blood Vessel",
+  "category": "dry-humour",
+  "joke": "Anatomy term; a vessel is a boat.",
+  "reason": "'Blood' may feel grim as a personal name.",
+  "source_spellings": {
+   "BLOOD VESSEL": 7,
+   "BLOOD VESSEL III": 1
+  },
+  "vessels": 8
+ },
+ {
+  "name": "Boaty Call",
+  "category": "dry-humour",
+  "joke": "'Booty call' summoning you to the boat",
+  "reason": "Sexual innuendo",
+  "source_spellings": {
+   "BOATY CALL": 5
+  },
+  "vessels": 5
+ },
+ {
+  "name": "Bone Voyage",
+  "category": "life-at-sea",
+  "joke": "'Bon voyage' with 'bone'.",
+  "reason": "Mild sexual innuendo (could also read as a dog joke).",
+  "source_spellings": {
+   "BONE VOYAGE": 8,
+   "BONE VOYAGE II": 2,
+   "BONE VOYAGE III": 1
+  },
+  "vessels": 11
+ },
+ {
+  "name": "Breaking Wind",
+  "category": "life-at-sea",
+  "joke": "Sailing into the wind — and a fart joke.",
+  "reason": "Toilet humour; might embarrass as a name.",
+  "source_spellings": {
+   "BREAKING WIND": 15
+  },
+  "vessels": 15
+ },
+ {
+  "name": "Buoy Call",
+  "category": "dock-and-mooring",
+  "joke": "Booty call, via buoy.",
+  "reason": "Sexual innuendo (booty call).",
+  "source_spellings": {
+   "BUOY CALL": 7
+  },
+  "vessels": 7
+ },
+ {
+  "name": "Buoy Toy",
+  "category": "dock-and-mooring",
+  "joke": "\"Boy toy\" with a buoy",
+  "reason": "Mild innuendo",
+  "source_spellings": {
+   "BUOY TOY": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Chasin' Tail",
+  "category": "fishy",
+  "joke": "Chasing fish tails; also slang for chasing women.",
+  "reason": "Sexual slang double meaning.",
+  "source_spellings": {
+   "CHASIN TAIL": 24,
+   "CHASIN' TAIL": 17,
+   "CHASIN TAIL II": 3,
+   "CHASIN' TAIL II": 1,
+   "CHASING TAIL": 15,
+   "CHASING TAIL II": 1,
+   "CHASING TAILS": 3
+  },
+  "vessels": 64
+ },
+ {
+  "name": "Cheaper to Keep Her",
+  "category": "household",
+  "joke": "Old song: divorce costs more than the boat",
+  "reason": "Spouse/divorce dig",
+  "source_spellings": {
+   "CHEAPER TO KEEP HER": 4
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Chicken Ship",
+  "category": "dry-humour",
+  "joke": "Chickenshit, with ship.",
+  "reason": "Disguised profanity.",
+  "source_spellings": {
+   "CHICKEN SHIP": 5,
+   "CHICKEN SHIP VII": 1,
+   "CHICKENSHIP": 1
+  },
+  "vessels": 7
+ },
+ {
+  "name": "Child Support",
+  "category": "household",
+  "joke": "Where the boat money goes, or doesn't.",
+  "reason": "Divorce/custody joke.",
+  "source_spellings": {
+   "CHILD SUPPORT": 7
+  },
+  "vessels": 7
+ },
+ {
+  "name": "Chute Happens",
+  "category": "boat-parts",
+  "joke": "Shit happens; a chute is a spinnaker sail.",
+  "reason": "Disguised profanity.",
+  "source_spellings": {
+   "CHUTE HAPPENS": 5
+  },
+  "vessels": 5
+ },
+ {
+  "name": "Despite Alimony",
+  "category": "household",
+  "joke": "Bought the boat anyway, ex-spouse notwithstanding.",
+  "reason": "Divorce dig.",
+  "source_spellings": {
+   "DESPITE ALIMONY": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Down the Hatch",
+  "category": "boat-parts",
+  "joke": "Drinking toast that's also literally about a boat hatch.",
+  "reason": "Alcohol toast.",
+  "source_spellings": {
+   "DOWN THE HATCH": 9,
+   "DOWN THE HATCH IV": 1
+  },
+  "vessels": 10
+ },
+ {
+  "name": "Dram Buoy",
+  "category": "dock-and-mooring",
+  "joke": "Drambuie liqueur, spelled as a buoy.",
+  "reason": "Alcohol joke.",
+  "source_spellings": {
+   "DRAM-BUOY": 3,
+   "DRAM BUOY": 2,
+   "DRAMBUOY": 1
+  },
+  "vessels": 6
+ },
+ {
+  "name": "Eat, Drink and Remarry",
+  "category": "household",
+  "joke": "Eat, drink and be merry, after a divorce.",
+  "reason": "Divorce joke with a drinking angle.",
+  "source_spellings": {
+   "EAT DRINK & REMARRY": 2,
+   "EAT,DRINK & REMARRY": 1
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Ex Files",
+  "category": "household",
+  "joke": "The X-Files, about ex-spouses.",
+  "reason": "Divorce joke.",
+  "source_spellings": {
+   "EX FILES": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Fin 'n Tonic",
+  "category": "fishy",
+  "joke": "Gin and tonic with a fin",
+  "reason": "Alcohol joke",
+  "source_spellings": {
+   "FIN-N-TONIC": 2,
+   "FIN N TONIC": 1,
+   "FIN N' TONIC": 1,
+   "FIN N'TONIC": 1,
+   "FINNTONIC": 1
+  },
+  "vessels": 6
+ },
+ {
+  "name": "Fin and Tonic",
+  "category": "fishy",
+  "joke": "Gin and tonic, with a fin.",
+  "reason": "Alcohol joke.",
+  "source_spellings": {
+   "FIN & TONIC": 40,
+   "FIN AND TONIC": 15,
+   "FIN & TONIC 2": 1,
+   "FIN & TONIC II": 1
+  },
+  "vessels": 57
+ },
+ {
+  "name": "Florida Man",
+  "category": "pop-culture",
+  "joke": "The famous headline meme, now on the water.",
+  "reason": "Implies the recipient is a tabloid-headline offender.",
+  "source_spellings": {
+   "FLORIDA MAN": 4
+  },
+  "vessels": 4
+ },
+ {
+  "name": "For the Hull of It",
+  "category": "boat-parts",
+  "joke": "'For the hell of it', hull edition.",
+  "reason": "Mild disguised profanity (hell).",
+  "source_spellings": {
+   "FOR THE HULL OF IT": 1,
+   "HULL OF A PARTY": 1
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Four Knotty Buoys",
+  "category": "dock-and-mooring",
+  "joke": "'Four naughty boys', buoy edition.",
+  "reason": "Mild 'nauti buoy' innuendo.",
+  "source_spellings": {
+   "FOUR KNOTTY BUOYS": 1,
+   "B NAUTI BUOYS": 1,
+   "II NAUTI BUOYS II": 1,
+   "MA'S NAUTI BOUYS": 1
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Fun Between the Sheets",
+  "category": "boat-parts",
+  "joke": "Sail sheets, with an obvious bedroom double meaning.",
+  "reason": "Sexual innuendo.",
+  "source_spellings": {
+   "FUN BETWEEN THE SHEETS": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Going Coastal",
+  "category": "life-at-sea",
+  "joke": "\"Going postal\" by the coast",
+  "reason": "References workplace violence idiom",
+  "source_spellings": {
+   "GOING COASTAL": 14
+  },
+  "vessels": 14
+ },
+ {
+  "name": "Grounds for Divorce",
+  "category": "household",
+  "joke": "Running aground / the boat ends marriages",
+  "reason": "Divorce humour",
+  "source_spellings": {
+   "GROUNDS FOR DIVORCE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Half Fast",
+  "category": "dry-humour",
+  "joke": "Sounds like 'half-assed'.",
+  "reason": "Disguised profanity.",
+  "source_spellings": {
+   "HALF FAST": 7,
+   "HALF-FAST": 2,
+   "HALF FAST II": 1
+  },
+  "vessels": 10
+ },
+ {
+  "name": "Happy Hooker",
+  "category": "reel-puns",
+  "joke": "A cheerful angler who hooks fish, or the other meaning.",
+  "reason": "Hooker fishing pun; sexual double meaning.",
+  "source_spellings": {
+   "HAPPY HOOKER": 27,
+   "HAPPY HOOKER II": 2,
+   "HAPPY HOOK-ER": 1,
+   "HAPPY HOOKER III": 1,
+   "WEEKEND HOOKER": 4
+  },
+  "vessels": 35
+ },
+ {
+  "name": "Happy Ours",
+  "category": "dry-humour",
+  "joke": "Happy hour, belonging to us.",
+  "reason": "Alcohol theme.",
+  "source_spellings": {
+   "HAPPY OURS": 246,
+   "HAPPY OURS II": 11,
+   "HAPPY OUR'S": 5,
+   "HAPPY OUR'S II": 2,
+   "HAPPY OURS III": 2,
+   "HAPPY 'OURS": 1,
+   "HAPPY OURS IV": 1,
+   "HAPPYOURS": 1,
+   "HAPPY'OURS": 1,
+   "HAPPY OUR": 13,
+   "HAPPY 'OUR": 1,
+   "HAPPY OUR II": 1
+  },
+  "vessels": 285
+ },
+ {
+  "name": "Haulin' Assets",
+  "category": "money-pit",
+  "joke": "'Hauling ass', with assets.",
+  "reason": "Disguised profanity.",
+  "source_spellings": {
+   "HAULIN ASSETS": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Haulin' Bass",
+  "category": "fishy",
+  "joke": "Haulin' ass, with bass fish.",
+  "reason": "Disguised profanity (ass).",
+  "source_spellings": {
+   "HAULIN BASS II": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Hell Froze Over",
+  "category": "household",
+  "joke": "The spouse said 'when hell freezes over' about the boat.",
+  "reason": "Mild profanity (hell).",
+  "source_spellings": {
+   "HELL FROZE OVER": 5
+  },
+  "vessels": 5
+ },
+ {
+  "name": "Hell on Reels",
+  "category": "reel-puns",
+  "joke": "\"Hell on Wheels\" with reels",
+  "reason": "Mild profanity",
+  "source_spellings": {
+   "HELL ON REELS": 10,
+   "HELL ON REELS II": 1
+  },
+  "vessels": 11
+ },
+ {
+  "name": "Her Idea",
+  "category": "household",
+  "joke": "Blaming the spouse for the boat",
+  "reason": "Gentle spouse dig",
+  "source_spellings": {
+   "HER IDEA": 10,
+   "HER IDEA II": 1,
+   "HERIDEA": 1,
+   "HER FAULT": 4
+  },
+  "vessels": 16
+ },
+ {
+  "name": "Hold My Pier",
+  "category": "dock-and-mooring",
+  "joke": "The 'hold my beer' meme, at the dock.",
+  "reason": "Beer/stunt-drinking meme.",
+  "source_spellings": {
+   "HOLD MY PIER": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Holy Ship",
+  "category": "dry-humour",
+  "joke": "\"Holy s***\" with ship",
+  "reason": "Disguised profanity",
+  "source_spellings": {
+   "HOLY SHIP": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Hook, Line and Drinker",
+  "category": "fishy",
+  "joke": "'Hook, line and sinker' for drinkers",
+  "reason": "Alcohol theme",
+  "source_spellings": {
+   "HOOK LINE & DRINKER": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Hooked on Tonics",
+  "category": "pop-culture",
+  "joke": "'Hooked on Phonics', but gin and tonics.",
+  "reason": "Alcohol joke.",
+  "source_spellings": {
+   "HOOKED ON TONICS": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Hull Pass",
+  "category": "household",
+  "joke": "A marital 'hall pass', for the hull.",
+  "reason": "'Hall pass' can imply permission to cheat.",
+  "source_spellings": {
+   "HULL PASS": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Hull Raiser",
+  "category": "boat-parts",
+  "joke": "'Hell raiser' raising a hull",
+  "reason": "Disguised profanity; hints at rowdy behaviour",
+  "source_spellings": {
+   "HULL RAISER": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Hull Yeah",
+  "category": "boat-parts",
+  "joke": "'Hell yeah' with a hull",
+  "reason": "Disguised profanity",
+  "source_spellings": {
+   "HULL YEAH": 5,
+   "SHELL YEAH": 8,
+   "HAIL YEAH": 18
+  },
+  "vessels": 31
+ },
+ {
+  "name": "Hull Yes",
+  "category": "boat-parts",
+  "joke": "\"Hell yes\" with hull",
+  "reason": "Disguised mild profanity",
+  "source_spellings": {
+   "HULL YES": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Hull and Oates",
+  "category": "pop-culture",
+  "joke": "Hall & Oates, rebuilt from hull and oars.",
+  "reason": "Pun on a living musical duo (Hall & Oates).",
+  "source_spellings": {
+   "HULL & OATES": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Hull of a Catch",
+  "category": "boat-parts",
+  "joke": "Hell of a catch, with hull.",
+  "reason": "Disguised mild profanity (hell).",
+  "source_spellings": {
+   "HULL OF A CATCH": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Hull of a Ride",
+  "category": "boat-parts",
+  "joke": "'Hell of a ride' with a hull.",
+  "reason": "Disguised mild profanity.",
+  "source_spellings": {
+   "HULL OF A RIDE": 2,
+   "HELL OF A HULL": 1
+  },
+  "vessels": 3
+ },
+ {
+  "name": "In Decent Seas",
+  "category": "life-at-sea",
+  "joke": "Decent seas vs indecent",
+  "reason": "Mild innuendo",
+  "source_spellings": {
+   "IN DECENT SEAS": 6,
+   "IN DECENT SEA'S": 1,
+   "IN DECENT SEAS II": 1,
+   "IN-DECENT-SEAS": 1,
+   "IN-DECENT-SEAS III": 1
+  },
+  "vessels": 10
+ },
+ {
+  "name": "Jib N Tonic",
+  "category": "boat-parts",
+  "joke": "Gin and tonic, with a jib sail.",
+  "reason": "Alcohol theme.",
+  "source_spellings": {
+   "JIB N TONIC": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Joint Custody",
+  "category": "household",
+  "joke": "Co-owners share the boat like divorced parents.",
+  "reason": "Divorce joke; 'joint' could also read as a drug reference.",
+  "source_spellings": {
+   "JOINT CUSTODY": 16,
+   "JOINT CUSTODY II": 1
+  },
+  "vessels": 17
+ },
+ {
+  "name": "Just Frigate",
+  "category": "boat-parts",
+  "joke": "'Just forget it', or 'frig it', with a frigate.",
+  "reason": "Disguised mild profanity.",
+  "source_spellings": {
+   "JUST FRIGATE IT": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Just for the Hull of It",
+  "category": "boat-parts",
+  "joke": "Just for the hell of it, with hull.",
+  "reason": "Disguised mild profanity (hell).",
+  "source_spellings": {
+   "JUST FOR THE HULL OF IT": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Kickin' Bass",
+  "category": "fishy",
+  "joke": "'Kickin' ass', bass-fishing style.",
+  "reason": "Disguised mild profanity.",
+  "source_spellings": {
+   "KICKIN BASS": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Kiss My Stern",
+  "category": "boat-parts",
+  "joke": "\"Kiss my butt\" with the stern",
+  "reason": "Rude disguised insult",
+  "source_spellings": {
+   "KISS MY STERN II": 1,
+   "KISS MY STERN III": 1
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Knot Compensating",
+  "category": "knot-puns",
+  "joke": "Denying the big-boat-compensation joke.",
+  "reason": "Implied innuendo about the owner's anatomy.",
+  "source_spellings": {
+   "KNOT COMPENSATING": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Knot Dead Yet",
+  "category": "knot-puns",
+  "joke": "Monty Python's 'not dead yet', knotted",
+  "reason": "Death reference, though mild",
+  "source_spellings": {
+   "KNOT DEAD YET": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Knotty Intentions",
+  "category": "knot-puns",
+  "joke": "\"Naughty intentions\" with knots",
+  "reason": "Mild innuendo",
+  "source_spellings": {
+   "KNOTTY INTENTIONS": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Later Beaches",
+  "category": "life-at-sea",
+  "joke": "'Later, b*tches' via beaches",
+  "reason": "Disguised profanity",
+  "source_spellings": {
+   "LATER BEACHES": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Life's a Beach",
+  "category": "life-at-sea",
+  "joke": "\"Life's a b****\" with beach",
+  "reason": "Disguised profanity",
+  "source_spellings": {
+   "LIFE S A BEACH": 1,
+   "LIFE'S A BEACH": 1,
+   "LIFE'S A BEACH II": 1
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Lil Yachty",
+  "category": "pop-culture",
+  "joke": "The rapper's name, now a small yacht.",
+  "reason": "Name of a living musician.",
+  "source_spellings": {
+   "LIL YACHTY": 11,
+   "LIL' YACHTY": 2
+  },
+  "vessels": 13
+ },
+ {
+  "name": "Loose Moorals",
+  "category": "dock-and-mooring",
+  "joke": "'Loose morals' with moorings",
+  "reason": "Implies something about recipient's character",
+  "source_spellings": {
+   "LOOSE MOOR-ALS": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Minnow Pause",
+  "category": "fishy",
+  "joke": "\"Menopause\" with a minnow",
+  "reason": "Pun on menopause could embarrass recipients",
+  "source_spellings": {
+   "MINNOW PAUSE II": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "More Grounds for Divorce",
+  "category": "household",
+  "joke": "The boat as marital evidence.",
+  "reason": "Divorce dig.",
+  "source_spellings": {
+   "MORE GROUNDS FOR DIVORCE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "My First Wife",
+  "category": "household",
+  "joke": "The boat came first",
+  "reason": "Spouse dig",
+  "source_spellings": {
+   "MY FIRST WIFE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Nauti Buoy",
+  "category": "dock-and-mooring",
+  "joke": "\"Naughty boy\" as a buoy",
+  "reason": "Mild innuendo listed in rubric",
+  "source_spellings": {
+   "NAUTI BUOY": 21,
+   "NAUTI-BUOY": 6,
+   "NAUTI BUOY II": 2,
+   "NAUTI BOY": 7,
+   "NAUTI BOY II": 1
+  },
+  "vessels": 37
+ },
+ {
+  "name": "Nauti List",
+  "category": "pop-culture",
+  "joke": "Santa's naughty list, nautical",
+  "reason": "Mild 'nauti' innuendo",
+  "source_spellings": {
+   "NAUTI LIST": 5,
+   "THE NAUTI LIST": 1
+  },
+  "vessels": 6
+ },
+ {
+  "name": "Nauti by Nature",
+  "category": "pop-culture",
+  "joke": "Naughty by Nature, the hip-hop group, made nautical.",
+  "reason": "Mild 'naughty' innuendo when assigned to a person.",
+  "source_spellings": {
+   "NAUTI BY NATURE": 47,
+   "NAUTI-BY-NATURE": 3,
+   "NAUTI BY NATURE II": 2,
+   "NAUTI BY NATURE III": 1,
+   "KNOTTY BY NATURE": 4,
+   "KNOTTY BY NATURE 2": 1
+  },
+  "vessels": 58
+ },
+ {
+  "name": "Nautical by Nature",
+  "category": "pop-culture",
+  "joke": "Naughty by Nature band pun",
+  "reason": "Riffs on 'Naughty by Nature'; mild innuendo.",
+  "source_spellings": {
+   "NAUTICAL BY NATURE": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Nice Aft",
+  "category": "boat-parts",
+  "joke": "'Nice ass' via the aft end",
+  "reason": "Comments on recipient's body",
+  "source_spellings": {
+   "NICE AFT": 9,
+   "REELY NICE AFT": 1
+  },
+  "vessels": 10
+ },
+ {
+  "name": "No More Alimony",
+  "category": "household",
+  "joke": "Alimony ended, boat began",
+  "reason": "Divorce/spouse dig",
+  "source_spellings": {
+   "NO MORE ALIMONY": 1,
+   "NO ALIMONY": 1
+  },
+  "vessels": 2
+ },
+ {
+  "name": "O-Sea-D",
+  "category": "sea-puns",
+  "joke": "OCD, obsessive about the sea",
+  "reason": "Mental-health condition as a joke",
+  "source_spellings": {
+   "O SEA D": 39,
+   "O-SEA-D": 17,
+   "O. SEA. D": 1,
+   "O.SEA.D": 1
+  },
+  "vessels": 58
+ },
+ {
+  "name": "Off Duty, Save Yourself",
+  "category": "day-job",
+  "joke": "Lifeguard on holiday; you're on your own",
+  "reason": "Drowning-adjacent humour",
+  "source_spellings": {
+   "OFF DUTY SAVE YOURSELF": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Oh Ship",
+  "category": "dry-humour",
+  "joke": "'Oh shit' with ship.",
+  "reason": "Disguised profanity.",
+  "source_spellings": {
+   "OH SHIP": 2,
+   "OH SHIP!": 1
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Olive or Twist",
+  "category": "pop-culture",
+  "joke": "Oliver Twist as a martini garnish choice.",
+  "reason": "Cocktail/alcohol theme.",
+  "source_spellings": {
+   "OLIVE OR TWIST": 2,
+   "OLIVE OR TWIST III": 1
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Pain in the Cash",
+  "category": "money-pit",
+  "joke": "Pain in the ass, about boat costs.",
+  "reason": "Disguised profanity (ass).",
+  "source_spellings": {
+   "PAIN IN THE CASH": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Part Time Hooker",
+  "category": "fishy",
+  "joke": "Weekend angler who hooks fish",
+  "reason": "Hooker fishing pun; sexual double meaning",
+  "source_spellings": {
+   "PART TIME HOOKER": 5,
+   "PARTTIME HOOKER": 1
+  },
+  "vessels": 6
+ },
+ {
+  "name": "Passing Wind",
+  "category": "life-at-sea",
+  "joke": "Sailing wind, and a fart joke",
+  "reason": "Toilet humour",
+  "source_spellings": {
+   "PASSING WIND": 10,
+   "BREAKIN' WIND": 4,
+   "BREAKIN WIND": 3
+  },
+  "vessels": 17
+ },
+ {
+  "name": "Please Don't Sink",
+  "category": "dry-humour",
+  "joke": "Owner's humble daily prayer",
+  "reason": "Mild sinking humour",
+  "source_spellings": {
+   "PLEASE DON'T SINK": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Pour Choices",
+  "category": "dry-humour",
+  "joke": "'Poor choices', made with drinks.",
+  "reason": "Alcohol joke (rubric's Pour Decisions).",
+  "source_spellings": {
+   "POUR CHOICES": 7
+  },
+  "vessels": 7
+ },
+ {
+  "name": "Pour Decisions",
+  "category": "dry-humour",
+  "joke": "\"Poor decisions\" made while pouring drinks",
+  "reason": "Alcohol joke",
+  "source_spellings": {
+   "POUR DECISIONS": 63,
+   "POUR DECISIONS II": 1
+  },
+  "vessels": 64
+ },
+ {
+  "name": "Reel Hooker",
+  "category": "reel-puns",
+  "joke": "Real hooker / one who really hooks fish",
+  "reason": "'Hooker' fishing pun reads as sex-work reference",
+  "source_spellings": {
+   "REEL HOOKER": 14,
+   "REEL TYME HOOKER": 1,
+   "HALIBUT HOOKER": 2
+  },
+  "vessels": 17
+ },
+ {
+  "name": "Reel Knotty",
+  "category": "reel-puns",
+  "joke": "'Really naughty' with a reel and a knot.",
+  "reason": "Mild innuendo (naughty).",
+  "source_spellings": {
+   "REEL KNOTTY": 18,
+   "REEL KNOTTY 2.0": 1,
+   "REEL-E-NAUTI": 1
+  },
+  "vessels": 20
+ },
+ {
+  "name": "Reel Nauti",
+  "category": "reel-puns",
+  "joke": "Real naughty, with a fishing reel.",
+  "reason": "Mild innuendo (rubric's Reel Nauti example).",
+  "source_spellings": {
+   "REEL NAUTI": 80,
+   "REEL NAUTI III": 3,
+   "REEL NAUTI II": 2,
+   "REELNAUTI": 1,
+   "REEL-NAUTI": 1,
+   "REEL NAUTY": 1,
+   "KNOT REEL NAUTI": 1
+  },
+  "vessels": 89
+ },
+ {
+  "name": "Rum Away",
+  "category": "dry-humour",
+  "joke": "'Run away' with rum.",
+  "reason": "Alcohol theme.",
+  "source_spellings": {
+   "RUM AWAY": 6,
+   "RUMAWAY": 3
+  },
+  "vessels": 9
+ },
+ {
+  "name": "S.S. Minnow",
+  "category": "pop-culture",
+  "joke": "Gilligan's Island boat from the three-hour tour",
+  "reason": "Plain reference to a famously shipwrecked boat",
+  "source_spellings": {
+   "S.S. MINNOW": 5,
+   "SS MINNOW": 4,
+   "S S MINNOW": 1,
+   "S. S. MINNOW": 1,
+   "SMS MINNOW": 1
+  },
+  "vessels": 12
+ },
+ {
+  "name": "Schmidt Happens",
+  "category": "dry-humour",
+  "joke": "'Sh*t happens', via a surname.",
+  "reason": "Disguised profanity.",
+  "source_spellings": {
+   "SCHMIDT HAPPENS": 4
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Sea Nile",
+  "category": "sea-puns",
+  "joke": "'Senile', at sea.",
+  "reason": "Jokes about the recipient's age and mind; could sting.",
+  "source_spellings": {
+   "SEA NILE": 12,
+   "SEANILE": 10,
+   "SEA-NILE": 1,
+   "GOIN SEA NILE": 1,
+   "GOIN' SEA-NILE": 1,
+   "GONE SEA NILE": 1,
+   "GONE SEANILE": 1,
+   "GOING SEANILE": 1,
+   "REEL SEANILE": 1
+  },
+  "vessels": 29
+ },
+ {
+  "name": "Sea Section",
+  "category": "sea-puns",
+  "joke": "\"C-section\" with sea",
+  "reason": "Childbirth/medical pun may embarrass",
+  "source_spellings": {
+   "SEA SECTION": 11,
+   "SEA SECTION II": 1,
+   "SEASECTION": 1
+  },
+  "vessels": 13
+ },
+ {
+  "name": "Seanior Moment",
+  "category": "sea-puns",
+  "joke": "'Senior moment' had at sea",
+  "reason": "Age/memory joke aimed at the recipient.",
+  "source_spellings": {
+   "SEANIOR MOMENT": 2,
+   "SEANIOR MOMENT 2": 1
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Selfish",
+  "category": "fishy",
+  "joke": "Self-ish: all the fish for me",
+  "reason": "Calls the recipient selfish (Shellfish is kept instead).",
+  "source_spellings": {
+   "SELFISH": 3,
+   "SEL-FISH": 1
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Shake Ur Boaty",
+  "category": "pop-culture",
+  "joke": "'Shake your booty' with boat.",
+  "reason": "Mild bodily innuendo.",
+  "source_spellings": {
+   "SHAKE UR BOATY": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Shake Your Buoy",
+  "category": "dock-and-mooring",
+  "joke": "'Shake your booty' with a buoy.",
+  "reason": "Body-related dance innuendo; mild but could embarrass.",
+  "source_spellings": {
+   "SHAKE YOUR BUOY": 11
+  },
+  "vessels": 11
+ },
+ {
+  "name": "Shaken Knot Stirred",
+  "category": "knot-puns",
+  "joke": "Bond's martini order, knotted.",
+  "reason": "Alcohol theme.",
+  "source_spellings": {
+   "SHAKEN KNOT STIRRED": 12,
+   "SHAKEN KNOT STIRRED III": 1,
+   "KNOT STIRRRED": 1
+  },
+  "vessels": 14
+ },
+ {
+  "name": "Shaken Not Stern",
+  "category": "boat-parts",
+  "joke": "Bond's 'shaken, not stirred' with a stern.",
+  "reason": "Cocktail reference (rubric lists Shaken Knot Stirred as alcohol borderline).",
+  "source_spellings": {
+   "SHAKEN NOT STERN II": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Shaken Not Stirred",
+  "category": "pop-culture",
+  "joke": "Bond martini order; boats get shaken",
+  "reason": "Alcohol joke, plain quote",
+  "source_spellings": {
+   "SHAKEN NOT STIRRED": 17,
+   "SHAKEN, NOT STIRRED ... IV": 1
+  },
+  "vessels": 18
+ },
+ {
+  "name": "Shark Bait",
+  "category": "fishy",
+  "joke": "Finding Nemo's nickname for the newbie.",
+  "reason": "Finding Nemo nickname for a newbie; could read as a dig.",
+  "source_spellings": {
+   "SHARK BAIT": 22,
+   "SHARKBAIT": 5
+  },
+  "vessels": 27
+ },
+ {
+  "name": "She Caved Again",
+  "category": "household",
+  "joke": "Spouse finally agreed to another boat.",
+  "reason": "Gentle spouse dig.",
+  "source_spellings": {
+   "SHE CAVED AGAIN": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "She Thinks It's Hers",
+  "category": "household",
+  "joke": "Marital dispute over who owns the boat.",
+  "reason": "Gentle spouse dig.",
+  "source_spellings": {
+   "SHE THINKS IT'S HERS": 1,
+   "THINKS ITS HIS": 1
+  },
+  "vessels": 2
+ },
+ {
+  "name": "She'll Get Over It",
+  "category": "household",
+  "joke": "Bought the boat; spouse will come round.",
+  "reason": "Spouse dig, could read dismissive.",
+  "source_spellings": {
+   "SHE'LL GET OVER IT": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Shell of a Good Time",
+  "category": "fishy",
+  "joke": "\"Hell of a good time\" with a shell",
+  "reason": "Disguised mild profanity",
+  "source_spellings": {
+   "SHELL OF A GOOD TIME": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Ship Faced",
+  "category": "boat-parts",
+  "joke": "Disguised 'shitfaced'.",
+  "reason": "Disguised profanity plus drunkenness.",
+  "source_spellings": {
+   "SHIP FACED": 28,
+   "SHIPFACED": 10,
+   "SHIPFACED III": 2,
+   "SHIP-FACED": 1,
+   "LIL SHIP FACED": 1,
+   "TOTALLY SHIPFACED": 1
+  },
+  "vessels": 43
+ },
+ {
+  "name": "Ship Faced Again",
+  "category": "dry-humour",
+  "joke": "\"Shit-faced\" drunk, with ship",
+  "reason": "Disguised profanity and heavy drinking",
+  "source_spellings": {
+   "SHIP FACED AGAIN": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Ship Happens",
+  "category": "dry-humour",
+  "joke": "\"Shit happens\" with ship",
+  "reason": "Disguised profanity",
+  "source_spellings": {
+   "SHIP HAPPENS": 29
+  },
+  "vessels": 29
+ },
+ {
+  "name": "Ship Show",
+  "category": "boat-parts",
+  "joke": "Disguised 'shit show'.",
+  "reason": "Disguised profanity.",
+  "source_spellings": {
+   "SHIP SHOW": 23,
+   "SHIP SHOW II": 1,
+   "SHIPSHOW": 1
+  },
+  "vessels": 25
+ },
+ {
+  "name": "Ships 'n' Giggles",
+  "category": "dry-humour",
+  "joke": "Shits and giggles, with ships.",
+  "reason": "Disguised profanity.",
+  "source_spellings": {
+   "SHIPS N GIGGLES": 3,
+   "SHIPS N' GIGGLES": 3,
+   "SHIPS-N-GIGGLES": 2
+  },
+  "vessels": 8
+ },
+ {
+  "name": "Ships and Giggles",
+  "category": "life-at-sea",
+  "joke": "'Sh*ts and giggles', with ships.",
+  "reason": "Disguised profanity.",
+  "source_spellings": {
+   "SHIPS & GIGGLES": 8,
+   "SHIPS AND GIGGLES": 8,
+   "SHIPS & GIGGLES III": 1,
+   "SHIPS & GIGGLES IV": 1
+  },
+  "vessels": 18
+ },
+ {
+  "name": "Shrimp My Ride",
+  "category": "pop-culture",
+  "joke": "MTV's 'Pimp My Ride' with shrimp.",
+  "reason": "Pimp reference.",
+  "source_spellings": {
+   "SHRIMP MY RIDE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Sirosis of the River",
+  "category": "life-at-sea",
+  "joke": "'Cirrhosis of the liver', river-style.",
+  "reason": "Heavy-drinking/liver-disease joke.",
+  "source_spellings": {
+   "SIR OSIS OF THE RIVER": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Sotally Tober",
+  "category": "dry-humour",
+  "joke": "Drunken spoonerism of 'totally sober'.",
+  "reason": "Drunkenness joke.",
+  "source_spellings": {
+   "SOTALLY TOBER": 18,
+   "SOTALLY TOBER II": 1
+  },
+  "vessels": 19
+ },
+ {
+  "name": "Sunk Cost",
+  "category": "money-pit",
+  "joke": "The sunk-cost fallacy, and a boat.",
+  "reason": "Sinking reference; funny money joke though.",
+  "source_spellings": {
+   "SUNK COST": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Teak Keel-ah",
+  "category": "boat-parts",
+  "joke": "'Tequila' from teak and keel.",
+  "reason": "Alcohol pun.",
+  "source_spellings": {
+   "TEAK-KEEL-AH": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Tekeela Sunrise",
+  "category": "boat-parts",
+  "joke": "'Tequila sunrise' with a keel.",
+  "reason": "Alcohol joke.",
+  "source_spellings": {
+   "TE-KEEL-A SUNRISE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Tequila Mockingbird",
+  "category": "pop-culture",
+  "joke": "'To Kill a Mockingbird' with tequila",
+  "reason": "Alcohol theme",
+  "source_spellings": {
+   "TEQUILA MOCKINGBIRD": 4
+  },
+  "vessels": 4
+ },
+ {
+  "name": "That's What Sea Said",
+  "category": "sea-puns",
+  "joke": "That's what she said, with sea.",
+  "reason": "Sexual innuendo catchphrase.",
+  "source_spellings": {
+   "THAT'S WHAT SEA SAID": 10
+  },
+  "vessels": 10
+ },
+ {
+  "name": "That's What She Said",
+  "category": "pop-culture",
+  "joke": "The Office's catchphrase.",
+  "reason": "Innuendo catchphrase; could embarrass.",
+  "source_spellings": {
+   "THAT'S WHAT SHE SAID": 15,
+   "THATS WHAT SHE SAID": 1
+  },
+  "vessels": 16
+ },
+ {
+  "name": "The Alimony",
+  "category": "household",
+  "joke": "Where the money goes after divorce.",
+  "reason": "Divorce joke.",
+  "source_spellings": {
+   "THE ALIMONY": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "The Dam Boat",
+  "category": "dry-humour",
+  "joke": "What everyone calls it: \"the damn boat\"",
+  "reason": "Disguised mild profanity",
+  "source_spellings": {
+   "THE DAM BOAT": 2,
+   "THE D.A.M BOAT": 1,
+   "THE DAM BOAT III": 1
+  },
+  "vessels": 4
+ },
+ {
+  "name": "The Mooring After",
+  "category": "dock-and-mooring",
+  "joke": "'The morning after', at the mooring.",
+  "reason": "Hangover / morning-after connotation.",
+  "source_spellings": {
+   "THE MOORING AFTER": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "The Other Wife",
+  "category": "household",
+  "joke": "The boat as a second spouse.",
+  "reason": "Spouse/marriage joke; could read as infidelity.",
+  "source_spellings": {
+   "THE OTHER WIFE": 1,
+   "MY SECOND WIFE": 1,
+   "THE THIRD WIFE": 1,
+   "THIRD WIFE": 1
+  },
+  "vessels": 4
+ },
+ {
+  "name": "The Other Woman",
+  "category": "household",
+  "joke": "The boat as rival for a spouse's affection",
+  "reason": "Affair joke may embarrass",
+  "source_spellings": {
+   "THE OTHER WOMAN": 48,
+   "THE OTHER WOMAN III": 2,
+   "MY MISTRESS": 12,
+   "MY MISTRESS II": 1
+  },
+  "vessels": 63
+ },
+ {
+  "name": "The Perfect Stern",
+  "category": "boat-parts",
+  "joke": "'The Perfect Storm' with a stern",
+  "reason": "Stern can read as a body/rear comment",
+  "source_spellings": {
+   "THE PERFECT STERN": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "The Prenup",
+  "category": "household",
+  "joke": "The boat is protected by the prenup.",
+  "reason": "Marriage/divorce joke.",
+  "source_spellings": {
+   "THE PRENUP": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "The Watering Hull",
+  "category": "boat-parts",
+  "joke": "The 'watering hole' bar, as a hull.",
+  "reason": "Drinking-spot theme.",
+  "source_spellings": {
+   "THE WATERING HULL": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "The Wine Knot",
+  "category": "knot-puns",
+  "joke": "'Why not?' with wine.",
+  "reason": "Alcohol theme.",
+  "source_spellings": {
+   "THE WINE KNOT": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Three Hour Tour",
+  "category": "pop-culture",
+  "joke": "Gilligan's Island's ill-fated three-hour tour.",
+  "reason": "References a shipwreck, though gently.",
+  "source_spellings": {
+   "THREE HOUR TOUR": 8,
+   "3 HOUR TOUR": 2
+  },
+  "vessels": 10
+ },
+ {
+  "name": "Three Sheets",
+  "category": "life-at-sea",
+  "joke": "\"Three sheets to the wind\" means drunk",
+  "reason": "Alcohol joke",
+  "source_spellings": {
+   "THREE SHEETS": 10,
+   "THREE SHEETS IN THE WIND": 2
+  },
+  "vessels": 12
+ },
+ {
+  "name": "Three Sheets to the Wind",
+  "category": "life-at-sea",
+  "joke": "Nautical idiom for being drunk.",
+  "reason": "Drunkenness idiom.",
+  "source_spellings": {
+   "THREE SHEETS TO THE WIND": 2,
+   "3 SHEETS 2 THE WIND": 1,
+   "2 SHEETS 2 THE WIND": 1
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Tide One On",
+  "category": "life-at-sea",
+  "joke": "'Tied one on' — got drunk — with a tide.",
+  "reason": "Drinking theme.",
+  "source_spellings": {
+   "TIDE ONE ON": 6,
+   "TIDE ONE ON II": 1,
+   "TY ONE ON": 8
+  },
+  "vessels": 15
+ },
+ {
+  "name": "Titanic",
+  "category": "pop-culture",
+  "joke": "Ironic name for any small boat",
+  "reason": "Dark-ish shipwreck irony",
+  "source_spellings": {
+   "TITANIC": 3,
+   "TITANIC II": 1
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Tom's Cruise",
+  "category": "pop-culture",
+  "joke": "Tom Cruise, or just Tom going cruising.",
+  "reason": "Name of a living actor.",
+  "source_spellings": {
+   "TOM'S CRUISE": 5
+  },
+  "vessels": 5
+ },
+ {
+  "name": "Trophy Husband",
+  "category": "household",
+  "joke": "Role-reversed trophy spouse",
+  "reason": "Gendered relationship joke about the recipient.",
+  "source_spellings": {
+   "TROPHY HUSBAND": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Unsinkable",
+  "category": "dry-humour",
+  "joke": "Famous last words, Titanic-style.",
+  "reason": "Dark-ish sinking irony.",
+  "source_spellings": {
+   "UNSINKABLE II": 6,
+   "UNSINKABLE 2": 2
+  },
+  "vessels": 8
+ },
+ {
+  "name": "Up Ship's Creek",
+  "category": "dry-humour",
+  "joke": "\"Up s*** creek\" with ship",
+  "reason": "Disguised profanity",
+  "source_spellings": {
+   "UP SHIP'S CREEK": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Victoria's Seacret",
+  "category": "pop-culture",
+  "joke": "Victoria's Secret with sea",
+  "reason": "Lingerie brand reference; mild innuendo",
+  "source_spellings": {
+   "VICTORIA'S SEACRET": 4
+  },
+  "vessels": 4
+ },
+ {
+  "name": "What the Fin",
+  "category": "fishy",
+  "joke": "WTF with a fin.",
+  "reason": "Disguised profanity.",
+  "source_spellings": {
+   "WHAT THE FIN": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "What the Fluke",
+  "category": "fishy",
+  "joke": "Disguised 'what the f***'.",
+  "reason": "Disguised profanity.",
+  "source_spellings": {
+   "WHAT THE FLUKE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "What the Hull",
+  "category": "boat-parts",
+  "joke": "'What the hell' with a hull",
+  "reason": "Disguised profanity",
+  "source_spellings": {
+   "WHAT THE HULL": 3,
+   "THE HULL WITH IT": 1
+  },
+  "vessels": 4
+ },
+ {
+  "name": "Whine Cooler",
+  "category": "dry-humour",
+  "joke": "Wine cooler for complainers",
+  "reason": "Alcohol pun; also implies recipient whines",
+  "source_spellings": {
+   "WHINE COOLER": 3
+  },
+  "vessels": 3
+ },
+ {
+  "name": "Whiskey Business",
+  "category": "pop-culture",
+  "joke": "'Risky Business' with whiskey.",
+  "reason": "Alcohol joke.",
+  "source_spellings": {
+   "WHISKEY BUSINESS": 21,
+   "WHISKEY BUSINESS II": 1
+  },
+  "vessels": 22
+ },
+ {
+  "name": "Whiskey Tango Foxtrot",
+  "category": "pop-culture",
+  "joke": "Phonetic alphabet for WTF.",
+  "reason": "Disguised profanity.",
+  "source_spellings": {
+   "WHISKEY TANGO FOXTROT": 12
+  },
+  "vessels": 12
+ },
+ {
+  "name": "Wife Said No",
+  "category": "household",
+  "joke": "Bought the boat anyway",
+  "reason": "Gentle spouse dig",
+  "source_spellings": {
+   "WIFE SAID NO II": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Wife Was Out of Town",
+  "category": "household",
+  "joke": "How the boat got bought.",
+  "reason": "Gentle dig at spouse/marriage.",
+  "source_spellings": {
+   "WIFE WAS OUT OF TOWN": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Wife Works",
+  "category": "household",
+  "joke": "Explains how the boat gets paid for.",
+  "reason": "Gentle spouse joke.",
+  "source_spellings": {
+   "WIFE WORKS": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Wife's Money",
+  "category": "household",
+  "joke": "She paid for it",
+  "reason": "Gentle spouse dig",
+  "source_spellings": {
+   "WIFE'S MONEY": 2
+  },
+  "vessels": 2
+ },
+ {
+  "name": "Wine Down",
+  "category": "dry-humour",
+  "joke": "'Wind down' with wine",
+  "reason": "Alcohol theme",
+  "source_spellings": {
+   "WINE DOWN": 88,
+   "WINEDOWN": 10,
+   "WINE DOWN II": 3,
+   "WINEDOWN II": 1
+  },
+  "vessels": 102
+ },
+ {
+  "name": "Your Place Oar Mine",
+  "category": "boat-parts",
+  "joke": "The pickup line, with an oar.",
+  "reason": "Mild come-on innuendo.",
+  "source_spellings": {
+   "YOUR PLACE OAR MINE": 1
+  },
+  "vessels": 1
+ },
+ {
+  "name": "Zero Decks Given",
+  "category": "boat-parts",
+  "joke": "'Zero f***s given' with decks",
+  "reason": "Disguised profanity (strong underlying word)",
+  "source_spellings": {
+   "ZERO DECKS GIVEN": 1
+  },
+  "vessels": 1
+ }
+]
